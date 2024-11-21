@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "प्रवेशयोग्यता",
+    "switchWithIcon": {
+      "light": "स्पष्ट थीमवर बदला",
+      "dark": "गडद थीम"
+    },
+    "ativarVLibras": "Vlibras सक्षम करा",
+    "trocarIdioma": "बदला",
+    "desenvolvida": {
+      "ferramenta": "साधन",
+      "desenvolvida": "द्वारा विकसित"
+    },
+    "logo": "बायोमोब लोगो",
+    "barraLateral": "साइटचे साइड बार कर्मचारी बदला",
+    "nossasSolucoes": "आमचे समाधान",
+    "nossasSolucoesLabel": "समाधान पहा",
+    "acessibilidadeArq": "आर्किटेक्चरल ibility क्सेसीबीलिटी",
+    "acessibilidadeArqLabel": "आर्किटेक्चरल ibility क्सेसीबीलिटी स्क्रीनवर जा",
+    "acessibilidadeDig": "डिजिटल प्रवेशयोग्यता",
+    "acessibilidadeDigLabel": "डिजिटल ibility क्सेसीबीलिटी स्क्रीनवर जा",
+    "noticias": "बातम्या",
+    "noticiasLabel": "न्यूज स्क्रीनवर जा",
+    "institudo": "संस्था",
+    "institudoLabel": "संस्थेच्या स्क्रीनवर जा",
+    "empregabilidade": "रोजगार",
+    "empregabilidadeLabel": "रोजगाराच्या स्क्रीनवर जा",
+    "papoDiverso": "भिन्न गप्पा",
+    "papoDiversoLabel": "विविध चॅट वेबसाइटवर जा"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "ऑडिओ वर्णन",
+        "ariaLabel": "ऑडिओ वर्णन सक्रिय करा"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Pecicis आपली भाषा ...",
+    "language": "पोर्तुगीज (बीआर)",
+    "Portuguese": "पोर्तुगीज (बीआर)",
+    "ChineseTraditional": "चीनी (पारंपारिक)",
+    "ChineseSimplified": "चीनी (सरलीकृत)",
+    "English": "इंग्रजी",
+    "French": "फ्रेंच",
+    "German": "जर्मन",
+    "Italian": "इटालियन",
+    "Bengali": "बंगाली",
+    "Hindi": "हिंदी",
+    "Russian": "रशियन",
+    "Japanese": "जपानी",
+    "Korean": "कोरियन",
+    "Vietnamese": "व्हिएतनामी",
+    "Telugu": "तेलगू",
+    "Cantonese": "कॅन्टोनिज",
+    "Marathi": "मराठी",
+    "Tamil": "तमिळ",
+    "Turkish": "तुर्की",
+    "Urdu": "उर्दू",
+    "Gujarati": "गुजराती",
+    "Polish": "पोलिश",
+    "Ukrainian": "युक्रेनियन",
+    "Malay": "मिगो",
+    "Kannada": "कॅनेरीज",
+    "Oriya": "ओरिया",
+    "Punjabi": "पंजाबी",
+    "Romanian": "रोमानियन",
+    "Azerbaijani": "अझरबैजा म्हणून",
+    "Farsi": "हरवले",
+    "Burmese": "बर्मी",
+    "Thai": "थाई",
+    "Dutch": "डच",
+    "Yoruba": "योरुबा",
+    "Sindhi": "सिंधी"
+  }
+}

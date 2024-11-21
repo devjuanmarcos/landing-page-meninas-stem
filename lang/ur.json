@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "رسائ",
+    "switchWithIcon": {
+      "light": "واضح تھیم میں تبدیل کریں",
+      "dark": "تاریک تھیم"
+    },
+    "ativarVLibras": "Vlibras کو فعال کریں",
+    "trocarIdioma": "تبدیل کریں",
+    "desenvolvida": {
+      "ferramenta": "ٹول",
+      "desenvolvida": "کے ذریعہ تیار کیا"
+    },
+    "logo": "بائوموب لوگو",
+    "barraLateral": "سائٹ کے سائیڈ بار عملے کو تبدیل کریں",
+    "nossasSolucoes": "ہمارے حل",
+    "nossasSolucoesLabel": "حل دیکھیں",
+    "acessibilidadeArq": "آرکیٹیکچرل رسائ",
+    "acessibilidadeArqLabel": "آرکیٹیکچرل قابل رسائ اسکرین پر جائیں",
+    "acessibilidadeDig": "ڈیجیٹل رسائ",
+    "acessibilidadeDigLabel": "ڈیجیٹل رسائ اسکرین پر جائیں",
+    "noticias": "خبریں",
+    "noticiasLabel": "نیوز اسکرین پر جائیں",
+    "institudo": "ادارہ",
+    "institudoLabel": "انسٹی ٹیوٹ کی اسکرین پر جائیں",
+    "empregabilidade": "ملازمت",
+    "empregabilidadeLabel": "ملازمت کی اسکرین پر جائیں",
+    "papoDiverso": "مختلف چیٹ",
+    "papoDiversoLabel": "متنوع چیٹ ویب سائٹ پر جائیں"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "آڈیو تفصیل",
+        "ariaLabel": "آڈیو تفصیل کو چالو کریں"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "آپ کی زبان پیکیس ...",
+    "language": "پرتگالی (بی آر)",
+    "Portuguese": "پرتگالی (بی آر)",
+    "ChineseTraditional": "چینی (روایتی)",
+    "ChineseSimplified": "چینی (آسان)",
+    "English": "انگریزی",
+    "French": "فرانسیسی",
+    "German": "جرمن",
+    "Italian": "اطالوی",
+    "Bengali": "بنگالی",
+    "Hindi": "ہندی",
+    "Russian": "روسی",
+    "Japanese": "جاپانی",
+    "Korean": "کورین",
+    "Vietnamese": "ویتنامی",
+    "Telugu": "تلگو",
+    "Cantonese": "کینٹونیز",
+    "Marathi": "مراٹھی",
+    "Tamil": "تمل",
+    "Turkish": "ترک",
+    "Urdu": "اردو",
+    "Gujarati": "گجراتی",
+    "Polish": "پولش",
+    "Ukrainian": "یوکرین",
+    "Malay": "میگو",
+    "Kannada": "کیناریز",
+    "Oriya": "اوریا",
+    "Punjabi": "پنجابی",
+    "Romanian": "رومانیہ",
+    "Azerbaijani": "بطور آذربائیجا",
+    "Farsi": "کھو گیا",
+    "Burmese": "برمی",
+    "Thai": "تھائی",
+    "Dutch": "ڈچ",
+    "Yoruba": "یوروبا",
+    "Sindhi": "سندھی"
+  }
+}

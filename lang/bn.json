@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "অ্যাক্সেসযোগ্যতা",
+    "switchWithIcon": {
+      "light": "পরিষ্কার থিম পরিবর্তন করুন",
+      "dark": "অন্ধকার থিম"
+    },
+    "ativarVLibras": "ভ্লিব্রা সক্ষম করুন",
+    "trocarIdioma": "পরিবর্তন",
+    "desenvolvida": {
+      "ferramenta": "সরঞ্জাম",
+      "desenvolvida": "দ্বারা বিকাশ"
+    },
+    "logo": "বায়োমোব লোগো",
+    "barraLateral": "সাইটের পাশের বার কর্মীদের পরিবর্তন করুন",
+    "nossasSolucoes": "আমাদের সমাধান",
+    "nossasSolucoesLabel": "সমাধান দেখুন",
+    "acessibilidadeArq": "স্থাপত্য অ্যাক্সেসযোগ্যতা",
+    "acessibilidadeArqLabel": "আর্কিটেকচারাল অ্যাক্সেসিবিলিটি স্ক্রিনে যান",
+    "acessibilidadeDig": "ডিজিটাল অ্যাক্সেসযোগ্যতা",
+    "acessibilidadeDigLabel": "ডিজিটাল অ্যাক্সেসিবিলিটি স্ক্রিনে যান",
+    "noticias": "খবর",
+    "noticiasLabel": "নিউজ স্ক্রিনে যান",
+    "institudo": "প্রতিষ্ঠান",
+    "institudoLabel": "ইনস্টিটিউটের স্ক্রিনে যান",
+    "empregabilidade": "কর্মসংস্থান",
+    "empregabilidadeLabel": "কর্মসংস্থান স্ক্রিনে যান",
+    "papoDiverso": "বিভিন্ন চ্যাট",
+    "papoDiversoLabel": "বিভিন্ন চ্যাট ওয়েবসাইটে যান"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "অডিও বর্ণনা",
+        "ariaLabel": "অডিও বিবরণ সক্রিয় করুন"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "আপনার ভাষা pequisis ...",
+    "language": "পর্তুগিজ (বিআর)",
+    "Portuguese": "পর্তুগিজ (বিআর)",
+    "ChineseTraditional": "চাইনিজ (traditional তিহ্যবাহী)",
+    "ChineseSimplified": "চাইনিজ (সরলীকৃত)",
+    "English": "ইংরেজি",
+    "French": "ফরাসি",
+    "German": "জার্মান",
+    "Italian": "ইতালিয়ান",
+    "Bengali": "বাঙালি",
+    "Hindi": "হিন্দি",
+    "Russian": "রাশিয়ান",
+    "Japanese": "জাপানি",
+    "Korean": "কোরিয়ান",
+    "Vietnamese": "ভিয়েতনামী",
+    "Telugu": "তেলুগু",
+    "Cantonese": "ক্যান্টোনিজ",
+    "Marathi": "মারাঠি",
+    "Tamil": "তামিল",
+    "Turkish": "তুর্কি",
+    "Urdu": "উর্দু",
+    "Gujarati": "গুজরাটি",
+    "Polish": "পোলিশ",
+    "Ukrainian": "ইউক্রেনীয়",
+    "Malay": "মিগো",
+    "Kannada": "ক্যানারি",
+    "Oriya": "ওরিয়া",
+    "Punjabi": "পাঞ্জাবি",
+    "Romanian": "রোমানিয়ান",
+    "Azerbaijani": "আজারবাইজা হিসাবে",
+    "Farsi": "হারিয়ে গেছে",
+    "Burmese": "বার্মিজ",
+    "Thai": "থাই",
+    "Dutch": "ডাচ",
+    "Yoruba": "ইওরুবা",
+    "Sindhi": "সিন্ধি"
+  }
+}

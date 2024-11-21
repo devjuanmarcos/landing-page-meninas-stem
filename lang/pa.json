@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "ਪਹੁੰਚਯੋਗਤਾ",
+    "switchWithIcon": {
+      "light": "ਸਾਫ ਥੀਮ ਵਿੱਚ ਬਦਲੋ",
+      "dark": "ਹਨੇਰਾ ਥੀਮ"
+    },
+    "ativarVLibras": "ਵਲਿਬਰਸ ਨੂੰ ਸਮਰੱਥ ਕਰੋ",
+    "trocarIdioma": "ਬਦਲੋ",
+    "desenvolvida": {
+      "ferramenta": "ਟੂਲ",
+      "desenvolvida": "ਦੁਆਰਾ ਵਿਕਸਤ ਕੀਤਾ"
+    },
+    "logo": "ਬਾਇਓਮਬ ਲੋਗੋ",
+    "barraLateral": "ਸਾਈਟ ਦੇ ਪਾਸੇ ਬਾਰ ਨੂੰ ਬਦਲੋ",
+    "nossasSolucoes": "ਸਾਡੇ ਹੱਲ",
+    "nossasSolucoesLabel": "ਹੱਲ ਵੇਖੋ",
+    "acessibilidadeArq": "ਆਰਕੀਟੈਕਚਰਲ ਪਹੁੰਚ",
+    "acessibilidadeArqLabel": "ਆਰਕੀਟੈਕਚਰਲ ਐਕਸੈਸਿਬਿਲਟੀ ਸਕ੍ਰੀਨ ਤੇ ਜਾਓ",
+    "acessibilidadeDig": "ਡਿਜੀਟਲ ਐਕਸੈਸਿਬਿਲਟੀ",
+    "acessibilidadeDigLabel": "ਡਿਜੀਟਲ ਐਕਸੈਸਿਬਿਲਟੀ ਸਕ੍ਰੀਨ ਤੇ ਜਾਓ",
+    "noticias": "ਖ਼ਬਰਾਂ",
+    "noticiasLabel": "ਨਿ News ਜ਼ ਸਕ੍ਰੀਨ ਤੇ ਜਾਓ",
+    "institudo": "ਸੰਸਥਾ",
+    "institudoLabel": "ਸੰਸਥਾ ਦੀ ਸਕ੍ਰੀਨ ਤੇ ਜਾਓ",
+    "empregabilidade": "ਰੁਜ਼ਗਾਰਯੋਗਤਾ",
+    "empregabilidadeLabel": "ਰੁਜ਼ਗਾਰਯੋਗਤਾ ਸਕ੍ਰੀਨ ਤੇ ਜਾਓ",
+    "papoDiverso": "ਵੱਖ ਵੱਖ ਗੱਲਬਾਤ",
+    "papoDiversoLabel": "ਵਿਭਿੰਨ ਚੈਟ ਦੀ ਵੈਬਸਾਈਟ ਤੇ ਜਾਓ"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "ਆਡੀਓ ਵੇਰਵਾ",
+        "ariaLabel": "ਸਰਗਰਮ ਆਡੀਓ ਵੇਰਵਾ"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਪੇਸ਼ਕਾਰੀ ...",
+    "language": "ਪੁਰਤਗਾਲੀ (ਬੀਆਰ)",
+    "Portuguese": "ਪੁਰਤਗਾਲੀ (ਬੀਆਰ)",
+    "ChineseTraditional": "ਚੀਨੀ (ਰਵਾਇਤੀ)",
+    "ChineseSimplified": "ਚੀਨੀ (ਸਰਲੀਕ੍ਰਿਤ)",
+    "English": "ਅੰਗਰੇਜ਼ੀ",
+    "French": "ਫ੍ਰੈਂਚ",
+    "German": "ਜਰਮਨ",
+    "Italian": "ਇਤਾਲਵੀ",
+    "Bengali": "ਬੰਗਾਲੀ",
+    "Hindi": "ਹਿੰਦੀ",
+    "Russian": "ਰੂਸੀ",
+    "Japanese": "ਜਪਾਨੀ",
+    "Korean": "ਕੋਰੀਅਨ",
+    "Vietnamese": "ਵੀਅਤਨਾਮੀ",
+    "Telugu": "ਤੇਲਗੂ",
+    "Cantonese": "ਕੈਂਟੋਨੀਜ਼",
+    "Marathi": "ਮਰਾਠੀ",
+    "Tamil": "ਤਾਮਿਲ",
+    "Turkish": "ਤੁਰਕੀ",
+    "Urdu": "ਉਰਦੂ",
+    "Gujarati": "ਗੁਜਰਾਤੀ",
+    "Polish": "ਪੋਲਿਸ਼",
+    "Ukrainian": "ਉਪਭੋਗੀ ਦਾ ਉਚਾਰਨ",
+    "Malay": "ਮਿਡੋ",
+    "Kannada": "ਨਹਿਰੀ",
+    "Oriya": "ਓਰੀਿਆ",
+    "Punjabi": "ਪੰਜਾਬੀ",
+    "Romanian": "ਰੋਮਾਨੀਆ",
+    "Azerbaijani": "ਅਜ਼ਰਬਾਈਜਾ",
+    "Farsi": "ਗੁੰਮ ਗਿਆ",
+    "Burmese": "ਬਰਮੀਜ਼",
+    "Thai": "ਥਾਈ",
+    "Dutch": "ਡੱਚ",
+    "Yoruba": "ਯਾਰੂਬਾ",
+    "Sindhi": "ਸਿੰਧੀ"
+  }
+}

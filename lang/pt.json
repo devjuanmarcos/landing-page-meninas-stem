@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "Acessibilidade",
+    "switchWithIcon": {
+      "light": "Trocar para o tema claro",
+      "dark": "Trocar para o tema escuro"
+    },
+    "ativarVLibras": "Ativar VLibras",
+    "trocarIdioma": "Trocar idioma",
+    "desenvolvida": {
+      "ferramenta": "Ferramenta",
+      "desenvolvida": "desenvolvida pela"
+    },
+    "logo": "Logo da Biomob",
+    "barraLateral": "Alterar estado da barra lateral do site",
+    "nossasSolucoes": "Nossas soluções",
+    "nossasSolucoesLabel": "Ver as soluções",
+    "acessibilidadeArq": "Acessibilidade Arquitetônica",
+    "acessibilidadeArqLabel": "Ir para a tela de Acessibilidade Arquitetônica",
+    "acessibilidadeDig": "Acessibilidade Digital",
+    "acessibilidadeDigLabel": "Ir para a tela de Acessibilidade Digital",
+    "noticias": "Notícias",
+    "noticiasLabel": "Ir para a tela de Notícias",
+    "institudo": "Instituição",
+    "institudoLabel": "Ir para a tela do Institudo",
+    "empregabilidade": "Empregabilidade",
+    "empregabilidadeLabel": "Ir para a tela de Empregabilidade",
+    "papoDiverso": "DIFERENTE PAPO",
+    "papoDiversoLabel": "Ir para o site do Papo Diverso"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "Áudio descrição",
+        "ariaLabel": "Ativar áudio descrição"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Pequise seu idioma...",
+    "language": "Português (BR)",
+    "Portuguese": "Português (BR)",
+    "ChineseTraditional": "Chinês (Tradicional)",
+    "ChineseSimplified": "Chinês (Simplificado)",
+    "English": "Inglês",
+    "French": "Francês",
+    "German": "Alemão",
+    "Italian": "italiano",
+    "Bengali": "bengali",
+    "Hindi": "hindi",
+    "Russian": "Russa",
+    "Japanese": "Japonês",
+    "Korean": "Coreano",
+    "Vietnamese": "vietnamita",
+    "Telugu": "Telugu",
+    "Cantonese": "Cantonês",
+    "Marathi": "Marathi",
+    "Tamil": "Tâmil",
+    "Turkish": "Turca",
+    "Urdu": "urdu",
+    "Gujarati": "Gujarati",
+    "Polish": "Polonês",
+    "Ukrainian": "ucraniano",
+    "Malay": "Migo",
+    "Kannada": "Canárias",
+    "Oriya": "Oriya",
+    "Punjabi": "Punjabi",
+    "Romanian": "romeno",
+    "Azerbaijani": "Azerbaijana",
+    "Farsi": "Perdido",
+    "Burmese": "Birmanês",
+    "Thai": "Tailandês",
+    "Dutch": "Holandês",
+    "Yoruba": "Iorubá",
+    "Sindhi": "Sindhi"
+  }
+}

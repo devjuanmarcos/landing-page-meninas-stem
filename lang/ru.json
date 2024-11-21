@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "Доступность",
+    "switchWithIcon": {
+      "light": "Перемение на четкую тему",
+      "dark": "Темная тема"
+    },
+    "ativarVLibras": "Включить vlibras",
+    "trocarIdioma": "Изменять",
+    "desenvolvida": {
+      "ferramenta": "Инструмент",
+      "desenvolvida": "разработан"
+    },
+    "logo": "Логотип биомоба",
+    "barraLateral": "Изменить персонал боковой планки сайта",
+    "nossasSolucoes": "Наши решения",
+    "nossasSolucoesLabel": "Смотрите решения",
+    "acessibilidadeArq": "Архитектурная доступность",
+    "acessibilidadeArqLabel": "Перейдите на экран архитектурной доступности",
+    "acessibilidadeDig": "Цифровая доступность",
+    "acessibilidadeDigLabel": "Перейдите на экран цифровой доступности",
+    "noticias": "Новости",
+    "noticiasLabel": "Перейти на экран новостей",
+    "institudo": "Учреждение",
+    "institudoLabel": "Перейти на экран института",
+    "empregabilidade": "Работоспособность",
+    "empregabilidadeLabel": "Перейдите на экран трудоустройства",
+    "papoDiverso": "Другой чат",
+    "papoDiversoLabel": "Перейти на разнообразный веб -сайт чата"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "Аудио описание",
+        "ariaLabel": "Активировать описание звука"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Пекизис на вашем языке ...",
+    "language": "Португальский (BR)",
+    "Portuguese": "Португальский (BR)",
+    "ChineseTraditional": "Китайский (традиционный)",
+    "ChineseSimplified": "Китайский (упрощен)",
+    "English": "Английский",
+    "French": "Французский",
+    "German": "немецкий",
+    "Italian": "Итальянский",
+    "Bengali": "бенгальский",
+    "Hindi": "хинди",
+    "Russian": "Русский",
+    "Japanese": "Японский",
+    "Korean": "корейский",
+    "Vietnamese": "вьетнамский",
+    "Telugu": "телугу",
+    "Cantonese": "Кантонский",
+    "Marathi": "Маратхи",
+    "Tamil": "Тамильский",
+    "Turkish": "турецкий",
+    "Urdu": "урду",
+    "Gujarati": "Гуджарати",
+    "Polish": "Лак",
+    "Ukrainian": "Украинский",
+    "Malay": "Миго",
+    "Kannada": "Каннири",
+    "Oriya": "Ария",
+    "Punjabi": "Пенджаби",
+    "Romanian": "румынский",
+    "Azerbaijani": "Как Азербайджа",
+    "Farsi": "Потерянный",
+    "Burmese": "Бирманский",
+    "Thai": "Тайский",
+    "Dutch": "Голландский",
+    "Yoruba": "Йоруба",
+    "Sindhi": "Синди"
+  }
+}

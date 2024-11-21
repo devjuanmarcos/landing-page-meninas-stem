@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "Kebolehcapaian",
+    "switchWithIcon": {
+      "light": "Tukar ke Tema Jelas",
+      "dark": "Tema gelap"
+    },
+    "ativarVLibras": "Dayakan Vlibras",
+    "trocarIdioma": "Perubahan",
+    "desenvolvida": {
+      "ferramenta": "Alat",
+      "desenvolvida": "dibangunkan oleh"
+    },
+    "logo": "Logo Biomob",
+    "barraLateral": "Tukar kakitangan bar sisi laman web ini",
+    "nossasSolucoes": "Penyelesaian kami",
+    "nossasSolucoesLabel": "Lihat penyelesaiannya",
+    "acessibilidadeArq": "Kebolehcapaian Senibina",
+    "acessibilidadeArqLabel": "Pergi ke skrin kebolehaksesan seni bina",
+    "acessibilidadeDig": "Kebolehcapaian digital",
+    "acessibilidadeDigLabel": "Pergi ke skrin kebolehaksesan digital",
+    "noticias": "Berita",
+    "noticiasLabel": "Pergi ke skrin berita",
+    "institudo": "Institusi",
+    "institudoLabel": "Pergi ke skrin Institut",
+    "empregabilidade": "Kebolehpasaran",
+    "empregabilidadeLabel": "Pergi ke skrin kebolehpasaran",
+    "papoDiverso": "Berbual berbeza",
+    "papoDiversoLabel": "Pergi ke laman web sembang yang pelbagai"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "Penerangan audio",
+        "ariaLabel": "Aktifkan penerangan audio"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Pequisis bahasa anda ...",
+    "language": "Portugis (BR)",
+    "Portuguese": "Portugis (BR)",
+    "ChineseTraditional": "Cina (tradisional)",
+    "ChineseSimplified": "Cina (dipermudahkan)",
+    "English": "Bahasa Inggeris",
+    "French": "Perancis",
+    "German": "Jerman",
+    "Italian": "Bahasa Itali",
+    "Bengali": "Bengali",
+    "Hindi": "Hindi",
+    "Russian": "Rusia",
+    "Japanese": "Jepun",
+    "Korean": "Korea",
+    "Vietnamese": "Vietnam",
+    "Telugu": "Telugu",
+    "Cantonese": "Kantonis",
+    "Marathi": "Marathi",
+    "Tamil": "Tamil",
+    "Turkish": "Turki",
+    "Urdu": "urdu",
+    "Gujarati": "Gujarati",
+    "Polish": "Menggilap",
+    "Ukrainian": "Ukraine",
+    "Malay": "Migo",
+    "Kannada": "Meriam",
+    "Oriya": "Oriya",
+    "Punjabi": "Punjabi",
+    "Romanian": "Romania",
+    "Azerbaijani": "Sebagai Azerbaija",
+    "Farsi": "Hilang",
+    "Burmese": "Burma",
+    "Thai": "Thai",
+    "Dutch": "Belanda",
+    "Yoruba": "Yoruba",
+    "Sindhi": "Sindhi"
+  }
+}

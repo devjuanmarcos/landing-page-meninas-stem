@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "Erişilebilirlik",
+    "switchWithIcon": {
+      "light": "Net temaya geç",
+      "dark": "Karanlık tema"
+    },
+    "ativarVLibras": "Vlibras'ı etkinleştir",
+    "trocarIdioma": "Değiştirmek",
+    "desenvolvida": {
+      "ferramenta": "Alet",
+      "desenvolvida": "tarafından geliştirilen"
+    },
+    "logo": "Biyomob logosu",
+    "barraLateral": "Sitenin yan bar personelini değiştir",
+    "nossasSolucoes": "Çözümlerimiz",
+    "nossasSolucoesLabel": "Çözümlere bakın",
+    "acessibilidadeArq": "Mimari Erişilebilirlik",
+    "acessibilidadeArqLabel": "Mimari Erişilebilirlik Ekranına Git",
+    "acessibilidadeDig": "Dijital Erişilebilirlik",
+    "acessibilidadeDigLabel": "Dijital Erişilebilirlik Ekranına Git",
+    "noticias": "Haberler",
+    "noticiasLabel": "Haber ekranına git",
+    "institudo": "Kurum",
+    "institudoLabel": "Enstitünün ekranına git",
+    "empregabilidade": "İstihdam edilebilirlik",
+    "empregabilidadeLabel": "İstihdam edilebilirlik ekranına git",
+    "papoDiverso": "Farklı sohbet",
+    "papoDiversoLabel": "Çeşitli sohbet web sitesine git"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "Ses Açıklaması",
+        "ariaLabel": "Ses Açıklamasını Etkinleştir"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Pequisis diliniz ...",
+    "language": "Portekizce (BR)",
+    "Portuguese": "Portekizce (BR)",
+    "ChineseTraditional": "Çince (geleneksel)",
+    "ChineseSimplified": "Çince (basitleştirilmiş)",
+    "English": "İngilizce",
+    "French": "Fransızca",
+    "German": "Almanca",
+    "Italian": "İtalyan",
+    "Bengali": "Bengal",
+    "Hindi": "Hintçe",
+    "Russian": "Rusça",
+    "Japanese": "Japonca",
+    "Korean": "Koreli",
+    "Vietnamese": "Vietnam",
+    "Telugu": "Telugu",
+    "Cantonese": "Kantonlu",
+    "Marathi": "Marathi",
+    "Tamil": "Tamil",
+    "Turkish": "Türkçe",
+    "Urdu": "urdu",
+    "Gujarati": "Gujarati",
+    "Polish": "Cila",
+    "Ukrainian": "Ukrayna",
+    "Malay": "Migo",
+    "Kannada": "Kanal",
+    "Oriya": "Oriya",
+    "Punjabi": "Punjabi",
+    "Romanian": "Romanya",
+    "Azerbaijani": "Azerbaija olarak",
+    "Farsi": "Kayıp",
+    "Burmese": "Birmanya",
+    "Thai": "Tayland",
+    "Dutch": "Flemenkçe",
+    "Yoruba": "Yoruba",
+    "Sindhi": "Sindhi"
+  }
+}

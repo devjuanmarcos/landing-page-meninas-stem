@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "Khả năng tiếp cận",
+    "switchWithIcon": {
+      "light": "Thay đổi thành chủ đề rõ ràng",
+      "dark": "Chủ đề tối"
+    },
+    "ativarVLibras": "Kích hoạt vlibras",
+    "trocarIdioma": "Thay đổi",
+    "desenvolvida": {
+      "ferramenta": "Dụng cụ",
+      "desenvolvida": "Được phát triển bởi"
+    },
+    "logo": "Logo Biomob",
+    "barraLateral": "Thay đổi nhân viên thanh bên của trang web",
+    "nossasSolucoes": "Giải pháp của chúng tôi",
+    "nossasSolucoesLabel": "Xem các giải pháp",
+    "acessibilidadeArq": "Khả năng tiếp cận kiến ​​trúc",
+    "acessibilidadeArqLabel": "Chuyển đến màn hình khả năng truy cập kiến ​​trúc",
+    "acessibilidadeDig": "Khả năng tiếp cận kỹ thuật số",
+    "acessibilidadeDigLabel": "Chuyển đến màn hình khả năng truy cập kỹ thuật số",
+    "noticias": "Tin tức",
+    "noticiasLabel": "Đi đến màn hình tin tức",
+    "institudo": "Tổ chức",
+    "institudoLabel": "Truy cập màn hình của Viện",
+    "empregabilidade": "Việc làm",
+    "empregabilidadeLabel": "Truy cập màn hình việc làm",
+    "papoDiverso": "Trò chuyện khác nhau",
+    "papoDiversoLabel": "Truy cập trang web trò chuyện đa dạng"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "Mô tả âm thanh",
+        "ariaLabel": "Kích hoạt mô tả âm thanh"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Pequisis ngôn ngữ của bạn ...",
+    "language": "Bồ Đào Nha (BR)",
+    "Portuguese": "Bồ Đào Nha (BR)",
+    "ChineseTraditional": "Trung Quốc (truyền thống)",
+    "ChineseSimplified": "Trung Quốc (đơn giản hóa)",
+    "English": "Tiếng Anh",
+    "French": "Tiếng Pháp",
+    "German": "Đức",
+    "Italian": "Ý",
+    "Bengali": "Tiếng Bengal",
+    "Hindi": "Tiếng Hindi",
+    "Russian": "Tiếng Nga",
+    "Japanese": "Nhật Bản",
+    "Korean": "Hàn Quốc",
+    "Vietnamese": "Việt Nam",
+    "Telugu": "Telugu",
+    "Cantonese": "Tiếng Quảng Đông",
+    "Marathi": "Marathi",
+    "Tamil": "Tamil",
+    "Turkish": "Thổ Nhĩ Kỳ",
+    "Urdu": "tiếng Urdu",
+    "Gujarati": "Gujarati",
+    "Polish": "Đánh bóng",
+    "Ukrainian": "Ukraine",
+    "Malay": "Migo",
+    "Kannada": "Pháo",
+    "Oriya": "Oriya",
+    "Punjabi": "Punjabi",
+    "Romanian": "Rumani",
+    "Azerbaijani": "Như Azerbaija",
+    "Farsi": "Mất",
+    "Burmese": "Người Miến Điện",
+    "Thai": "Thái",
+    "Dutch": "Hà Lan",
+    "Yoruba": "Yoruba",
+    "Sindhi": "Sindhi"
+  }
+}

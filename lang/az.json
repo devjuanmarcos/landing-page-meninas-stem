@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "Əlçatanlıq",
+    "switchWithIcon": {
+      "light": "Aydın mövzuya dəyişdirin",
+      "dark": "Qaranlıq mövzu"
+    },
+    "ativarVLibras": "Vlibras-ı aktivləşdirin",
+    "trocarIdioma": "Dəyişmək",
+    "desenvolvida": {
+      "ferramenta": "Alət",
+      "desenvolvida": "tərəfindən hazırlanmışdır"
+    },
+    "logo": "Biomob loqotipi",
+    "barraLateral": "Saytın yan bar heyətini dəyişdirin",
+    "nossasSolucoes": "Həlllərimiz",
+    "nossasSolucoesLabel": "Həllərə baxın",
+    "acessibilidadeArq": "Memarlıq əlçatanlığı",
+    "acessibilidadeArqLabel": "Memarlıq əlçatanlığı ekranına gedin",
+    "acessibilidadeDig": "Rəqəmsal əlçatanlıq",
+    "acessibilidadeDigLabel": "Rəqəmsal əlçatanlıq ekranına gedin",
+    "noticias": "Xəbəri",
+    "noticiasLabel": "Xəbər ekranına gedin",
+    "institudo": "Qurum",
+    "institudoLabel": "İnstitutun ekranına gedin",
+    "empregabilidade": "Məşğulluq",
+    "empregabilidadeLabel": "İşəgötürmə ekranına gedin",
+    "papoDiverso": "Fərqli söhbət",
+    "papoDiversoLabel": "Müxtəlif söhbət saytına gedin"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "Səsin təsviri",
+        "ariaLabel": "Audio Təsvirini aktivləşdirin"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Dilinizdə pequisis ...",
+    "language": "Portuqal (br)",
+    "Portuguese": "Portuqal (br)",
+    "ChineseTraditional": "Çin (ənənəvi)",
+    "ChineseSimplified": "Çin (sadələşdirilmiş)",
+    "English": "İngilisləşdirmək",
+    "French": "Fransız",
+    "German": "Almanca",
+    "Italian": "İtalyan",
+    "Bengali": "benqal",
+    "Hindi": "hindi",
+    "Russian": "Rus",
+    "Japanese": "Yaponca",
+    "Korean": "Koreyalı",
+    "Vietnamese": "Vyetnam",
+    "Telugu": "Teluqu",
+    "Cantonese": "Kanton",
+    "Marathi": "Marathi",
+    "Tamil": "Tamil",
+    "Turkish": "Türk",
+    "Urdu": "urdu",
+    "Gujarati": "Gujarati",
+    "Polish": "Cilalamaq",
+    "Ukrainian": "Ukraynalı",
+    "Malay": "Migo",
+    "Kannada": "Canxanalar",
+    "Oriya": "Oriya",
+    "Punjabi": "Punjabi",
+    "Romanian": "Rumın",
+    "Azerbaijani": "Azərbaycan kimi",
+    "Farsi": "Məğlubedici",
+    "Burmese": "Burme",
+    "Thai": "Tay",
+    "Dutch": "Holland",
+    "Yoruba": "Yoruba",
+    "Sindhi": "Sindhi"
+  }
+}

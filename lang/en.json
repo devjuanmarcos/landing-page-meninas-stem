@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "Accessibility",
+    "switchWithIcon": {
+      "light": "Change to the Clear theme",
+      "dark": "Dark theme"
+    },
+    "ativarVLibras": "Enable vlibras",
+    "trocarIdioma": "Change",
+    "desenvolvida": {
+      "ferramenta": "Tool",
+      "desenvolvida": "developed by"
+    },
+    "logo": "Biomob logo",
+    "barraLateral": "Change Side Bar Staff of the Site",
+    "nossasSolucoes": "Our solutions",
+    "nossasSolucoesLabel": "See the solutions",
+    "acessibilidadeArq": "Architectural accessibility",
+    "acessibilidadeArqLabel": "Go to the architectural accessibility screen",
+    "acessibilidadeDig": "Digital Accessibility",
+    "acessibilidadeDigLabel": "Go to the digital accessibility screen",
+    "noticias": "News",
+    "noticiasLabel": "Go to the news screen",
+    "institudo": "Institution",
+    "institudoLabel": "Go to the institute's screen",
+    "empregabilidade": "Employability",
+    "empregabilidadeLabel": "Go to the employability screen",
+    "papoDiverso": "Different Chat",
+    "papoDiversoLabel": "Go to the diverse chat website"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "Audio Description",
+        "ariaLabel": "Activate Audio Description"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Pequisis your language ...",
+    "language": "Portuguese (BR)",
+    "Portuguese": "Portuguese (BR)",
+    "ChineseTraditional": "Chinese (traditional)",
+    "ChineseSimplified": "Chinese (simplified)",
+    "English": "English",
+    "French": "French",
+    "German": "German",
+    "Italian": "Italian",
+    "Bengali": "bengali",
+    "Hindi": "hindi",
+    "Russian": "Russian",
+    "Japanese": "Japanese",
+    "Korean": "Korean",
+    "Vietnamese": "Vietnamese",
+    "Telugu": "Telugu",
+    "Cantonese": "Cantonese",
+    "Marathi": "Marathi",
+    "Tamil": "Tamil",
+    "Turkish": "Turkish",
+    "Urdu": "urdu",
+    "Gujarati": "Gujarati",
+    "Polish": "Polish",
+    "Ukrainian": "Ukrainian",
+    "Malay": "Migo",
+    "Kannada": "Cannaries",
+    "Oriya": "Oriya",
+    "Punjabi": "Punjabi",
+    "Romanian": "Romanian",
+    "Azerbaijani": "As azerbaija",
+    "Farsi": "Lost",
+    "Burmese": "Burmese",
+    "Thai": "Thai",
+    "Dutch": "Dutch",
+    "Yoruba": "Yoruba",
+    "Sindhi": "Sindhi"
+  }
+}

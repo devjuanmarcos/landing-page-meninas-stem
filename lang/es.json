@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "Accesibilidad",
+    "switchWithIcon": {
+      "light": "Cambiar al tema claro",
+      "dark": "Tema oscuro"
+    },
+    "ativarVLibras": "Habilitar vlibras",
+    "trocarIdioma": "Cambiar",
+    "desenvolvida": {
+      "ferramenta": "Herramienta",
+      "desenvolvida": "desarrollado por"
+    },
+    "logo": "Logotipo de biomob",
+    "barraLateral": "Cambiar el personal de la barra lateral del sitio",
+    "nossasSolucoes": "Nuestras soluciones",
+    "nossasSolucoesLabel": "Ver las soluciones",
+    "acessibilidadeArq": "Accesibilidad arquitectónica",
+    "acessibilidadeArqLabel": "Ir a la pantalla de accesibilidad arquitectónica",
+    "acessibilidadeDig": "Accesibilidad digital",
+    "acessibilidadeDigLabel": "Ir a la pantalla de accesibilidad digital",
+    "noticias": "Noticias",
+    "noticiasLabel": "Ir a la pantalla de noticias",
+    "institudo": "Institución",
+    "institudoLabel": "Ir a la pantalla del instituto",
+    "empregabilidade": "Empleabilidad",
+    "empregabilidadeLabel": "Ir a la pantalla de empleabilidad",
+    "papoDiverso": "Chat diferente",
+    "papoDiversoLabel": "Ir al sitio web de chat diverso"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "Descripción de audio",
+        "ariaLabel": "Activar la descripción de audio"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Pequisis tu idioma ...",
+    "language": "Portugués (BR)",
+    "Portuguese": "Portugués (BR)",
+    "ChineseTraditional": "Chino (tradicional)",
+    "ChineseSimplified": "Chino (simplificado)",
+    "English": "Inglés",
+    "French": "Francés",
+    "German": "Alemán",
+    "Italian": "italiano",
+    "Bengali": "bengalí",
+    "Hindi": "hindi",
+    "Russian": "ruso",
+    "Japanese": "japonés",
+    "Korean": "coreano",
+    "Vietnamese": "vietnamita",
+    "Telugu": "Telugu",
+    "Cantonese": "Cantonés",
+    "Marathi": "Marathi",
+    "Tamil": "Tamil",
+    "Turkish": "turco",
+    "Urdu": "urdu",
+    "Gujarati": "Gujarati",
+    "Polish": "Polaco",
+    "Ukrainian": "ucraniano",
+    "Malay": "Migo",
+    "Kannada": "Canistas",
+    "Oriya": "Oriya",
+    "Punjabi": "punjabi",
+    "Romanian": "rumano",
+    "Azerbaijani": "Como azerbaija",
+    "Farsi": "Perdido",
+    "Burmese": "birmano",
+    "Thai": "tailandés",
+    "Dutch": "Holandés",
+    "Yoruba": "Yoruba",
+    "Sindhi": "Sindhi"
+  }
+}

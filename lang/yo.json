@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "Iyẹ",
+    "switchWithIcon": {
+      "light": "Yi pada si akori ti o ye",
+      "dark": "Akọle dudu"
+    },
+    "ativarVLibras": "Mu vlibra ṣiṣẹ",
+    "trocarIdioma": "Yipada",
+    "desenvolvida": {
+      "ferramenta": "Irinṣẹ",
+      "desenvolvida": "dagbasoke nipasẹ"
+    },
+    "logo": "Aami biomob",
+    "barraLateral": "Yi ọtun Bam Oṣiṣẹ ti aaye naa",
+    "nossasSolucoes": "Awọn ipinnu wa",
+    "nossasSolucoesLabel": "Wo awọn solusan",
+    "acessibilidadeArq": "Wiwọle ti ayaworan",
+    "acessibilidadeArqLabel": "Lọ si iboju wiwole ti ayaworan",
+    "acessibilidadeDig": "Wiwọn oni-nọmba",
+    "acessibilidadeDigLabel": "Lọ si iboju ti o wa ni ibaramu",
+    "noticias": "Irohin",
+    "noticiasLabel": "Lọ si iboju iroyin",
+    "institudo": "Ile-ẹkọ",
+    "institudoLabel": "Lọ si iboju Ile-iṣẹ",
+    "empregabilidade": "Gba oojọ",
+    "empregabilidadeLabel": "Lọ si iboju oojọ",
+    "papoDiverso": "Oriṣiriṣi iwiregbe",
+    "papoDiversoLabel": "Lọ si oju opo wẹẹbu Oniruuru"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "Apejuwe ohun",
+        "ariaLabel": "Muu apejuwe ohun"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Pequisis Ede ...",
+    "language": "Portuguese (bru)",
+    "Portuguese": "Portuguese (bru)",
+    "ChineseTraditional": "Kannada (ibile)",
+    "ChineseSimplified": "Kannada (irọrun)",
+    "English": "Gẹẹsi",
+    "French": "Faranse",
+    "German": "Jẹmánì",
+    "Italian": "Ilu Italia",
+    "Bengali": "bengali",
+    "Hindi": "ẹlẹsin Hindi",
+    "Russian": "Ara ilu Rọsia",
+    "Japanese": "Japanese",
+    "Korean": "Ara ẹni",
+    "Vietnamese": "Vietnamese",
+    "Telugu": "Dariga",
+    "Cantonese": "Kopipose",
+    "Marathi": "Marathi",
+    "Tamil": "Tomil",
+    "Turkish": "Turk",
+    "Urdu": "uru",
+    "Gujarati": "Gujarati",
+    "Polish": "Ohun didan nkan",
+    "Ukrainian": "Ti Ukarain",
+    "Malay": "Mito",
+    "Kannada": "Cannaries",
+    "Oriya": "Oriya",
+    "Punjabi": "Punjabi",
+    "Romanian": "Romania",
+    "Azerbaijani": "Bi azerbaija",
+    "Farsi": "Ti sọnu",
+    "Burmese": "Burmese",
+    "Thai": "Thai",
+    "Dutch": "Dutch",
+    "Yoruba": "Yoruba",
+    "Sindhi": "Poinhi"
+  }
+}

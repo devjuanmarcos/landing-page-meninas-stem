@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "可訪問性",
+    "switchWithIcon": {
+      "light": "更改為清晰的主題",
+      "dark": "黑暗主題"
+    },
+    "ativarVLibras": "啟用vlibras",
+    "trocarIdioma": "改變",
+    "desenvolvida": {
+      "ferramenta": "工具",
+      "desenvolvida": "開發"
+    },
+    "logo": "BioMob徽標",
+    "barraLateral": "更改網站的側欄工作人員",
+    "nossasSolucoes": "我們的解決方案",
+    "nossasSolucoesLabel": "請參閱解決方案",
+    "acessibilidadeArq": "建築可訪問性",
+    "acessibilidadeArqLabel": "轉到“建築可訪問性”屏幕",
+    "acessibilidadeDig": "數字可訪問性",
+    "acessibilidadeDigLabel": "進入數字可訪問性屏幕",
+    "noticias": "消息",
+    "noticiasLabel": "進入新聞屏幕",
+    "institudo": "機構",
+    "institudoLabel": "去研究所的屏幕",
+    "empregabilidade": "就業能力",
+    "empregabilidadeLabel": "進入就業屏幕",
+    "papoDiverso": "不同的聊天",
+    "papoDiversoLabel": "訪問多元化的聊天網站"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "音頻描述",
+        "ariaLabel": "激活音頻描述"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "你的語言...",
+    "language": "葡萄牙（BR）",
+    "Portuguese": "葡萄牙（BR）",
+    "ChineseTraditional": "中國（傳統）",
+    "ChineseSimplified": "中文（簡化）",
+    "English": "英語",
+    "French": "法語",
+    "German": "德語",
+    "Italian": "意大利人",
+    "Bengali": "孟加拉",
+    "Hindi": "印地語",
+    "Russian": "俄語",
+    "Japanese": "日本人",
+    "Korean": "韓國人",
+    "Vietnamese": "越南人",
+    "Telugu": "泰盧固語",
+    "Cantonese": "廣東話",
+    "Marathi": "馬拉地語",
+    "Tamil": "泰米爾人",
+    "Turkish": "土耳其",
+    "Urdu": "烏爾都語",
+    "Gujarati": "古吉拉特語",
+    "Polish": "拋光",
+    "Ukrainian": "烏克蘭",
+    "Malay": "Migo",
+    "Kannada": "大麻",
+    "Oriya": "奧里亞",
+    "Punjabi": "旁遮普",
+    "Romanian": "羅馬尼亞人",
+    "Azerbaijani": "作為阿塞拜亞",
+    "Farsi": "丟失的",
+    "Burmese": "緬甸",
+    "Thai": "泰國",
+    "Dutch": "荷蘭",
+    "Yoruba": "約魯巴",
+    "Sindhi": "信德"
+  }
+}

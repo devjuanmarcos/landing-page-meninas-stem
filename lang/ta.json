@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "அணுகல்",
+    "switchWithIcon": {
+      "light": "தெளிவான கருப்பொருளுக்கு மாற்றவும்",
+      "dark": "இருண்ட தீம்"
+    },
+    "ativarVLibras": "Vlibras ஐ இயக்கவும்",
+    "trocarIdioma": "மாற்றம்",
+    "desenvolvida": {
+      "ferramenta": "கருவி",
+      "desenvolvida": "உருவாக்கியது"
+    },
+    "logo": "பயோமோப் லோகோ",
+    "barraLateral": "தளத்தின் பக்க பார் ஊழியர்களை மாற்றவும்",
+    "nossasSolucoes": "எங்கள் தீர்வுகள்",
+    "nossasSolucoesLabel": "தீர்வுகளைக் காண்க",
+    "acessibilidadeArq": "கட்டடக்கலை அணுகல்",
+    "acessibilidadeArqLabel": "கட்டடக்கலை அணுகல் திரைக்குச் செல்லுங்கள்",
+    "acessibilidadeDig": "டிஜிட்டல் அணுகல்",
+    "acessibilidadeDigLabel": "டிஜிட்டல் அணுகல் திரைக்குச் செல்லவும்",
+    "noticias": "செய்தி",
+    "noticiasLabel": "செய்தித் திரைக்குச் செல்லுங்கள்",
+    "institudo": "நிறுவனம்",
+    "institudoLabel": "நிறுவனத்தின் திரைக்குச் செல்லுங்கள்",
+    "empregabilidade": "வேலைவாய்ப்பு",
+    "empregabilidadeLabel": "வேலைவாய்ப்பு திரைக்குச் செல்லுங்கள்",
+    "papoDiverso": "வெவ்வேறு அரட்டை",
+    "papoDiversoLabel": "மாறுபட்ட அரட்டை வலைத்தளத்திற்குச் செல்லவும்"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "ஆடியோ விளக்கம்",
+        "ariaLabel": "ஆடியோ விளக்கத்தை செயல்படுத்தவும்"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "உங்கள் மொழி பெக்விசிஸ் ...",
+    "language": "போர்த்துகீசியம் (பி.ஆர்)",
+    "Portuguese": "போர்த்துகீசியம் (பி.ஆர்)",
+    "ChineseTraditional": "சீன (பாரம்பரிய)",
+    "ChineseSimplified": "சீன (எளிமைப்படுத்தப்பட்ட)",
+    "English": "ஆங்கிலம்",
+    "French": "பிரஞ்சு",
+    "German": "ஜெர்மன்",
+    "Italian": "இத்தாலியன்",
+    "Bengali": "பெங்காலி",
+    "Hindi": "இந்தி",
+    "Russian": "ரஷ்ய",
+    "Japanese": "ஜப்பானியர்கள்",
+    "Korean": "கொரிய",
+    "Vietnamese": "வியட்நாமிய",
+    "Telugu": "தெலுங்கு",
+    "Cantonese": "கான்டோனீஸ்",
+    "Marathi": "மராத்தி",
+    "Tamil": "தமிழ்",
+    "Turkish": "துருக்கிய",
+    "Urdu": "உருது",
+    "Gujarati": "குஜராத்தி",
+    "Polish": "மெருகூட்டல்",
+    "Ukrainian": "உக்ரேனிய",
+    "Malay": "மிகோ",
+    "Kannada": "கன்னங்கள்",
+    "Oriya": "ஓரியா",
+    "Punjabi": "பஞ்சாபி",
+    "Romanian": "ருமேனிய",
+    "Azerbaijani": "அஜர்பைஜாவாக",
+    "Farsi": "இழந்தது",
+    "Burmese": "பர்மி",
+    "Thai": "தாய்",
+    "Dutch": "டச்சு",
+    "Yoruba": "யோருப்பா",
+    "Sindhi": "சிந்தி"
+  }
+}

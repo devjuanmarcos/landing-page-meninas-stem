@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "Toegankelijkheid",
+    "switchWithIcon": {
+      "light": "Wijzig naar het duidelijke thema",
+      "dark": "Donker thema"
+    },
+    "ativarVLibras": "Schakel Vlibras in",
+    "trocarIdioma": "Wijziging",
+    "desenvolvida": {
+      "ferramenta": "Hulpmiddel",
+      "desenvolvida": "ontwikkeld door"
+    },
+    "logo": "Biomob -logo",
+    "barraLateral": "Verander de zijbalkpersoneel van de site",
+    "nossasSolucoes": "Onze oplossingen",
+    "nossasSolucoesLabel": "Zie de oplossingen",
+    "acessibilidadeArq": "Architecturale toegankelijkheid",
+    "acessibilidadeArqLabel": "Ga naar het architecturale toegankelijkheidsscherm",
+    "acessibilidadeDig": "Digitale toegankelijkheid",
+    "acessibilidadeDigLabel": "Ga naar het scherm Digitale toegankelijkheid",
+    "noticias": "Nieuws",
+    "noticiasLabel": "Ga naar het nieuwscherm",
+    "institudo": "Instelling",
+    "institudoLabel": "Ga naar het scherm van het instituut",
+    "empregabilidade": "Inzetbaarheid",
+    "empregabilidadeLabel": "Ga naar het inzetbaarheidsscherm",
+    "papoDiverso": "Andere chat",
+    "papoDiversoLabel": "Ga naar de diverse chatwebsite"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "Audiobeschrijving",
+        "ariaLabel": "Activeer de audiobeschrijving"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Pequisis uw taal ...",
+    "language": "Portugees (Br)",
+    "Portuguese": "Portugees (Br)",
+    "ChineseTraditional": "Chinees (traditioneel)",
+    "ChineseSimplified": "Chinees (vereenvoudigd)",
+    "English": "Engels",
+    "French": "Frans",
+    "German": "Duits",
+    "Italian": "Italiaans",
+    "Bengali": "Bengaals",
+    "Hindi": "Hindi",
+    "Russian": "Russisch",
+    "Japanese": "Japanse",
+    "Korean": "Koreaans",
+    "Vietnamese": "Vietnamees",
+    "Telugu": "Telugu",
+    "Cantonese": "Kantonees",
+    "Marathi": "Marathi",
+    "Tamil": "Tamil",
+    "Turkish": "Turks",
+    "Urdu": "Urdu",
+    "Gujarati": "Gujarati",
+    "Polish": "Pools",
+    "Ukrainian": "Oekraïens",
+    "Malay": "Migo",
+    "Kannada": "Overdaad",
+    "Oriya": "Oriya",
+    "Punjabi": "Punjabi",
+    "Romanian": "Roemeense",
+    "Azerbaijani": "Als Azerbeidzja",
+    "Farsi": "Kwijt",
+    "Burmese": "Birmaans",
+    "Thai": "Thais",
+    "Dutch": "Nederlands",
+    "Yoruba": "Yoruba",
+    "Sindhi": "Sindhi"
+  }
+}

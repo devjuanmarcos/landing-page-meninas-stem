@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "Zugänglichkeit",
+    "switchWithIcon": {
+      "light": "Änderung zum klaren Thema",
+      "dark": "Dunkles Thema"
+    },
+    "ativarVLibras": "Aktivieren Sie Vlibras",
+    "trocarIdioma": "Ändern",
+    "desenvolvida": {
+      "ferramenta": "Werkzeug",
+      "desenvolvida": "entwickelt von"
+    },
+    "logo": "Biomob -Logo",
+    "barraLateral": "Seitbalkenpersonal der Website ändern",
+    "nossasSolucoes": "Unsere Lösungen",
+    "nossasSolucoesLabel": "Siehe die Lösungen",
+    "acessibilidadeArq": "Architektonische Zugänglichkeit",
+    "acessibilidadeArqLabel": "Gehen Sie zum Bildschirm \"Architectural Barrierefreiheit\"",
+    "acessibilidadeDig": "Digitale Zugänglichkeit",
+    "acessibilidadeDigLabel": "Gehen Sie zum Bildschirm Digital Barrierefreiheit",
+    "noticias": "Nachricht",
+    "noticiasLabel": "Gehen Sie zum Nachrichtenbildschirm",
+    "institudo": "Institution",
+    "institudoLabel": "Gehen Sie zum Bildschirm des Instituts",
+    "empregabilidade": "Beschäftigungsfähigkeit",
+    "empregabilidadeLabel": "Gehen Sie zum Bildschirm zur Beschäftigungsfähigkeit",
+    "papoDiverso": "Anderer Chat",
+    "papoDiversoLabel": "Gehen Sie zur vielfältigen Chat -Website"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "Audiobeschreibung",
+        "ariaLabel": "Aktivieren Sie die Audiobeschreibung"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Pequisis deine Sprache ...",
+    "language": "Portugiesisch (Br)",
+    "Portuguese": "Portugiesisch (Br)",
+    "ChineseTraditional": "Chinesisch (traditionell)",
+    "ChineseSimplified": "Chinesisch (vereinfacht)",
+    "English": "Englisch",
+    "French": "Französisch",
+    "German": "Deutsch",
+    "Italian": "Italienisch",
+    "Bengali": "Bengali",
+    "Hindi": "Hindi",
+    "Russian": "Russisch",
+    "Japanese": "japanisch",
+    "Korean": "Koreanisch",
+    "Vietnamese": "Vietnamesisch",
+    "Telugu": "Telugu",
+    "Cantonese": "Kantonesisch",
+    "Marathi": "Marathi",
+    "Tamil": "Tamil",
+    "Turkish": "Türkisch",
+    "Urdu": "Urdu",
+    "Gujarati": "Gujarati",
+    "Polish": "Polieren",
+    "Ukrainian": "ukrainisch",
+    "Malay": "Migo",
+    "Kannada": "Kanaren",
+    "Oriya": "Oriya",
+    "Punjabi": "Punjabi",
+    "Romanian": "rumänisch",
+    "Azerbaijani": "Als Aserbaija",
+    "Farsi": "Verloren",
+    "Burmese": "birmanisch",
+    "Thai": "Thai",
+    "Dutch": "Niederländisch",
+    "Yoruba": "Yoruba",
+    "Sindhi": "Sindhi"
+  }
+}

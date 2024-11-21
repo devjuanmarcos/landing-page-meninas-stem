@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "رسائي جي رسائي",
+    "switchWithIcon": {
+      "light": "صاف موضوع تي تبديل ڪريو",
+      "dark": "اونداهي جو موضوع"
+    },
+    "ativarVLibras": "vlibras کي فعال ڪريو",
+    "trocarIdioma": "تبديلي",
+    "desenvolvida": {
+      "ferramenta": "ٽڪرو",
+      "desenvolvida": "پاران تيار ڪيل"
+    },
+    "logo": "بائيوب لوگو",
+    "barraLateral": "سائيٽ جو سائڊ بار اسٽاف کي تبديل ڪريو",
+    "nossasSolucoes": "اسان جو حل",
+    "nossasSolucoesLabel": "حل ڏسو",
+    "acessibilidadeArq": "اڏاوتي رسائي",
+    "acessibilidadeArqLabel": "اڏاوتي رسائي واري اسڪرين تي وڃو",
+    "acessibilidadeDig": "ڊجيٽل رسائي",
+    "acessibilidadeDigLabel": "ڊجيٽل رسائي واري اسڪرين تي وڃو",
+    "noticias": "خبرون",
+    "noticiasLabel": "خبرن جي اسڪرين تي وڃو",
+    "institudo": "ننييڪٽ",
+    "institudoLabel": "انسٽيٽيوٽ جي اسڪرين تي وڃو",
+    "empregabilidade": "روزگار",
+    "empregabilidadeLabel": "روزگار جي اسڪرين تي وڃو",
+    "papoDiverso": "مختلف چيٽ",
+    "papoDiversoLabel": "متنوع چيٽ ويب سائيٽ تي وڃو"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "آڊيو وضاحت",
+        "ariaLabel": "آڊيو وضاحت چالو ڪيو"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "توهان جي ٻولي کي پيش ڪيو آهي ...",
+    "language": "پورچوگيز (BR)",
+    "Portuguese": "پورچوگيز (BR)",
+    "ChineseTraditional": "چيني (روايتي)",
+    "ChineseSimplified": "چيني (آسان)",
+    "English": "انگريزي",
+    "French": "فرانسي",
+    "German": "جرمني",
+    "Italian": "اطالوي",
+    "Bengali": "بنگالي",
+    "Hindi": "هندي",
+    "Russian": "روسي",
+    "Japanese": "جاپاني",
+    "Korean": "ڪورين",
+    "Vietnamese": "ويٽنامي",
+    "Telugu": "تيلوگو ٻولي",
+    "Cantonese": "ڪينٽوني",
+    "Marathi": "مراٺي",
+    "Tamil": "تاملي",
+    "Turkish": "ترڪي",
+    "Urdu": "اردو",
+    "Gujarati": "گجراتي",
+    "Polish": "پالش",
+    "Ukrainian": "يوڪريني",
+    "Malay": "لائيڊو",
+    "Kannada": "ڪينن",
+    "Oriya": "اوريائي",
+    "Punjabi": "پنجابي",
+    "Romanian": "رومانوي",
+    "Azerbaijani": "آذربائيجا وانگر",
+    "Farsi": "وڃايل",
+    "Burmese": "برمي",
+    "Thai": "ٿائي ٻولي",
+    "Dutch": "ڊچ ٻولي",
+    "Yoruba": "ياربا",
+    "Sindhi": "سنڌي"
+  }
+}

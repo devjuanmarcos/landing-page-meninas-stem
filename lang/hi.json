@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "सरल उपयोग",
+    "switchWithIcon": {
+      "light": "स्पष्ट विषय में बदलें",
+      "dark": "डार्क थीम"
+    },
+    "ativarVLibras": "Vlibras सक्षम करें",
+    "trocarIdioma": "परिवर्तन",
+    "desenvolvida": {
+      "ferramenta": "औजार",
+      "desenvolvida": "द्वारा विकसित किया गया"
+    },
+    "logo": "बायोमोब लोगो",
+    "barraLateral": "साइट के साइड बार स्टाफ बदलें",
+    "nossasSolucoes": "हमारे समाधान",
+    "nossasSolucoesLabel": "समाधान देखें",
+    "acessibilidadeArq": "वास्तु -अभिगम्यता",
+    "acessibilidadeArqLabel": "आर्किटेक्चरल एक्सेसिबिलिटी स्क्रीन पर जाएं",
+    "acessibilidadeDig": "अंकीय अभिगम्यता",
+    "acessibilidadeDigLabel": "डिजिटल एक्सेसिबिलिटी स्क्रीन पर जाएं",
+    "noticias": "समाचार",
+    "noticiasLabel": "समाचार स्क्रीन पर जाएं",
+    "institudo": "संस्था",
+    "institudoLabel": "संस्थान की स्क्रीन पर जाएं",
+    "empregabilidade": "रोजगार",
+    "empregabilidadeLabel": "रोजगार स्क्रीन पर जाएं",
+    "papoDiverso": "अलग चैट",
+    "papoDiversoLabel": "विविध चैट वेबसाइट पर जाएं"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "ऑडियो विवरण",
+        "ariaLabel": "ऑडियो विवरण सक्रिय करें"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Pequisis आपकी भाषा ...",
+    "language": "पुर्तगाली",
+    "Portuguese": "पुर्तगाली",
+    "ChineseTraditional": "चीनी पारंपरिक)",
+    "ChineseSimplified": "सरलीकृत चीनी)",
+    "English": "अंग्रेज़ी",
+    "French": "फ्रांसीसी",
+    "German": "जर्मन",
+    "Italian": "इतालवी",
+    "Bengali": "बंगाली",
+    "Hindi": "हिंदी",
+    "Russian": "रूसी",
+    "Japanese": "जापानी",
+    "Korean": "कोरियाई",
+    "Vietnamese": "वियतनामी",
+    "Telugu": "तेलुगू",
+    "Cantonese": "कैंटोनीज़",
+    "Marathi": "मराठी",
+    "Tamil": "तामिल",
+    "Turkish": "तुर्की",
+    "Urdu": "उर्दू",
+    "Gujarati": "गुजराती",
+    "Polish": "पोलिश",
+    "Ukrainian": "यूक्रेनी",
+    "Malay": "मिगो",
+    "Kannada": "कैनरी",
+    "Oriya": "ओरिया",
+    "Punjabi": "पंजाबी",
+    "Romanian": "रोमानियाई",
+    "Azerbaijani": "अजरबैजा के रूप में",
+    "Farsi": "खो गया",
+    "Burmese": "बर्मी",
+    "Thai": "थाई",
+    "Dutch": "डच",
+    "Yoruba": "योरूबा",
+    "Sindhi": "सिंधी"
+  }
+}

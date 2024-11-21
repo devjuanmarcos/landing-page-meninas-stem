@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "アクセシビリティ",
+    "switchWithIcon": {
+      "light": "明確なテーマに変更します",
+      "dark": "暗いテーマ"
+    },
+    "ativarVLibras": "vlibrasを有効にします",
+    "trocarIdioma": "変化",
+    "desenvolvida": {
+      "ferramenta": "道具",
+      "desenvolvida": "によって開発されました"
+    },
+    "logo": "Biomobロゴ",
+    "barraLateral": "サイトのサイドバースタッフを変更します",
+    "nossasSolucoes": "私たちのソリューション",
+    "nossasSolucoesLabel": "ソリューションを参照してください",
+    "acessibilidadeArq": "アーキテクチャのアクセシビリティ",
+    "acessibilidadeArqLabel": "アーキテクチャのアクセシビリティ画面に移動します",
+    "acessibilidadeDig": "デジタルアクセシビリティ",
+    "acessibilidadeDigLabel": "デジタルアクセシビリティ画面に移動します",
+    "noticias": "ニュース",
+    "noticiasLabel": "ニュース画面に移動します",
+    "institudo": "機関",
+    "institudoLabel": "研究所のスクリーンに移動します",
+    "empregabilidade": "雇用可能性",
+    "empregabilidadeLabel": "Employability画面に移動します",
+    "papoDiverso": "別のチャット",
+    "papoDiversoLabel": "多様なチャットWebサイトにアクセスしてください"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "オーディオの説明",
+        "ariaLabel": "オーディオの説明をアクティブにします"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "あなたの言語をpequisis ...",
+    "language": "ポルトガル（BR）",
+    "Portuguese": "ポルトガル（BR）",
+    "ChineseTraditional": "中国語（伝統）",
+    "ChineseSimplified": "中国語（簡素化）",
+    "English": "英語",
+    "French": "フランス語",
+    "German": "ドイツ語",
+    "Italian": "イタリア語",
+    "Bengali": "ベンガル語",
+    "Hindi": "ヒンディー語",
+    "Russian": "ロシア",
+    "Japanese": "日本語",
+    "Korean": "韓国語",
+    "Vietnamese": "ベトナム人",
+    "Telugu": "テルグ語",
+    "Cantonese": "広東語",
+    "Marathi": "マラーティー",
+    "Tamil": "タミル語",
+    "Turkish": "トルコ語",
+    "Urdu": "ウルドゥー語",
+    "Gujarati": "グジャラート語",
+    "Polish": "研磨",
+    "Ukrainian": "ウクライナ人",
+    "Malay": "ミゴ",
+    "Kannada": "カンリス",
+    "Oriya": "オリヤ",
+    "Punjabi": "パンジャブ",
+    "Romanian": "ルーマニア人",
+    "Azerbaijani": "アゼルバイジャとして",
+    "Farsi": "失った",
+    "Burmese": "ビルマ",
+    "Thai": "タイ",
+    "Dutch": "オランダ語",
+    "Yoruba": "ヨルバ",
+    "Sindhi": "シンディ"
+  }
+}

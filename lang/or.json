@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "ଅଭିଗମ୍ୟତା |",
+    "switchWithIcon": {
+      "light": "ସ୍ୱଚ୍ଛ ଥିମ୍ କୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ |",
+      "dark": "ଗା ark ଥିମ୍"
+    },
+    "ativarVLibras": "Vlibras ସକ୍ଷମ କରନ୍ତୁ |",
+    "trocarIdioma": "ପରିବର୍ତ୍ତନ",
+    "desenvolvida": {
+      "ferramenta": "ସାଧନ",
+      "desenvolvida": "ଦ୍ୱାରା ବିକଶିତ |"
+    },
+    "logo": "ବାୟୋମୋବ ଲୋଗୋ",
+    "barraLateral": "ସାଇଟର ପାର୍ଶ୍ୱ ଦଣ୍ଡିକା କର୍ମଚାରୀ ପରିବର୍ତ୍ତନ କରନ୍ତୁ |",
+    "nossasSolucoes": "ଆମର ସମାଧାନ",
+    "nossasSolucoesLabel": "ସମାଧାନ ଦେଖନ୍ତୁ |",
+    "acessibilidadeArq": "ସ୍ଥାପତ୍ୟ ଆକ୍ସେସିବିଲିଟି |",
+    "acessibilidadeArqLabel": "ସ୍ଥାପତ୍ୟ ଆକ୍ସେସିବିଲିଟି ସ୍କ୍ରିନକୁ ଯାଆନ୍ତୁ |",
+    "acessibilidadeDig": "ଡିଜିଟାଲ୍ ଆକ୍ସେସିବିଲିଟି |",
+    "acessibilidadeDigLabel": "ଡିଜିଟାଲ୍ ଆକ୍ସେସିବିଲିଟି ସ୍କ୍ରିନକୁ ଯାଆନ୍ତୁ |",
+    "noticias": "ସମ୍ବାଦ",
+    "noticiasLabel": "ନ୍ୟୁଜ୍ ସ୍କ୍ରିନ୍ କୁ ଯାଆନ୍ତୁ |",
+    "institudo": "ସଂସ୍ଥା",
+    "institudoLabel": "ଅନୁଷ୍ଠାନର ସ୍କ୍ରିନ୍ କୁ ଯାଆନ୍ତୁ |",
+    "empregabilidade": "ନିଯୁକ୍ତି ନିର୍ବାହ",
+    "empregabilidadeLabel": "ନିଯୁକ୍ତି ଯୋଗ୍ୟତା ପରଦାକୁ ଯାଆନ୍ତୁ |",
+    "papoDiverso": "ବିଭିନ୍ନ ଚାଟ୍",
+    "papoDiversoLabel": "ଡାଇଭର ଚାଟ୍ ୱେବସାଇଟ୍ କୁ ଯାଆନ୍ତୁ |"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "ଅଡିଓ ବର୍ଣ୍ଣନା",
+        "ariaLabel": "ଅଡିଓ ବର୍ଣ୍ଣନା ସକ୍ରିୟ କରନ୍ତୁ |"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "ପାଇକିସସ୍ ଆପଣଙ୍କ ଭାଷା ...",
+    "language": "ପର୍ତ୍ତୁଗୀଜ୍ (BR)",
+    "Portuguese": "ପର୍ତ୍ତୁଗୀଜ୍ (BR)",
+    "ChineseTraditional": "ଚାଇନିଜ୍ (ପାରମ୍ପାରିକ)",
+    "ChineseSimplified": "ଚାଇନିଜ୍ (ସରଳୀକୃତ)",
+    "English": "ଇଂରାଜୀ |",
+    "French": "ଫରାସୀ",
+    "German": "ଜର୍ମାନ୍",
+    "Italian": "ଇଟାଲୀୟ |",
+    "Bengali": "ବଙ୍ଗାଳୀ |",
+    "Hindi": "ହିନ୍ଦୀ",
+    "Russian": "Russian ଷିୟ |",
+    "Japanese": "ଜାପାନିଜ୍",
+    "Korean": "କୋରିଆନ୍",
+    "Vietnamese": "ଭିଏତନାମ",
+    "Telugu": "ତେଲୁଗୁ",
+    "Cantonese": "କାଣ୍ଟୋନିୟ |",
+    "Marathi": "ମରାଠୀ",
+    "Tamil": "ତାମିଲ୍ |",
+    "Turkish": "ତୁର୍କୀ",
+    "Urdu": "ଉର୍ଦ୍ଦୁ",
+    "Gujarati": "ଗୁଜରାଟୀ",
+    "Polish": "ପୋଲାଣ୍ଡ |",
+    "Ukrainian": "ୟୁକ୍ରେନ୍",
+    "Malay": "ମିଗୋ |",
+    "Kannada": "ଚନ୍ଦ୍ର",
+    "Oriya": "ଓଡିଆ",
+    "Punjabi": "ପଞ୍ଜାବୀ |",
+    "Romanian": "ରୋମାନିଆନ୍",
+    "Azerbaijani": "ଆଜେରବାୟଜା ଭାବରେ |",
+    "Farsi": "ହଜିଯାଇଛି |",
+    "Burmese": "ବର୍ମା",
+    "Thai": "ଥାଇ",
+    "Dutch": "ଡଚ୍",
+    "Yoruba": "ଓଡ଼ିଆ",
+    "Sindhi": "ସିନ୍ଧି |"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "冇障礙性",
+    "switchWithIcon": {
+      "light": "更改為清晰主題",
+      "dark": "黑暗主題"
+    },
+    "ativarVLibras": "啟用視頻",
+    "trocarIdioma": "改變",
+    "desenvolvida": {
+      "ferramenta": "工具",
+      "desenvolvida": "由"
+    },
+    "logo": "生物摩擋標誌",
+    "barraLateral": "更改本網站側棒職員",
+    "nossasSolucoes": "我哋嘅解決方案",
+    "nossasSolucoesLabel": "睇下解決方法",
+    "acessibilidadeArq": "建築冇障礙性",
+    "acessibilidadeArqLabel": "去建築冇障礙畫面",
+    "acessibilidadeDig": "數碼冇障礙性",
+    "acessibilidadeDigLabel": "去數碼冇障礙畫面",
+    "noticias": "新聞",
+    "noticiasLabel": "去新聞畫面",
+    "institudo": "機構",
+    "institudoLabel": "去研究所嘅畫面",
+    "empregabilidade": "就業能力",
+    "empregabilidadeLabel": "去就業畫面",
+    "papoDiverso": "唔同嘅聊天",
+    "papoDiversoLabel": "去多元化嘅聊天網站"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "音頻描述",
+        "ariaLabel": "啟動音頻描述"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "裕嘶嘥你嘅語言 ...",
+    "language": "葡萄牙 ( BR )",
+    "Portuguese": "葡萄牙 ( BR )",
+    "ChineseTraditional": "中文 ( 傳統 )",
+    "ChineseSimplified": "中文 ( 簡化 )",
+    "English": "英文",
+    "French": "法文",
+    "German": "德國人",
+    "Italian": "意大利人",
+    "Bengali": "貝加利",
+    "Hindi": "印地語",
+    "Russian": "俄文",
+    "Japanese": "日本人",
+    "Korean": "韓文",
+    "Vietnamese": "越南人",
+    "Telugu": "泰盧固語",
+    "Cantonese": "廣州話",
+    "Marathi": "馬拉蒂",
+    "Tamil": "泰米爾文",
+    "Turkish": "土耳其文",
+    "Urdu": "urdu",
+    "Gujarati": "古吉拉蒂",
+    "Polish": "波蘭人",
+    "Ukrainian": "烏克蘭人",
+    "Malay": "米高",
+    "Kannada": "金錢獎",
+    "Oriya": "奧里亞",
+    "Punjabi": "旁遮普",
+    "Romanian": "羅馬尼亞人",
+    "Azerbaijani": "作為阿塞拜疆",
+    "Farsi": "唔見咗",
+    "Burmese": "緬甸",
+    "Thai": "泰國",
+    "Dutch": "荷蘭人",
+    "Yoruba": "約魯巴",
+    "Sindhi": "辛德"
+  }
+}

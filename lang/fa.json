@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "قابلیت دسترسی",
+    "switchWithIcon": {
+      "light": "تغییر به موضوع روشن",
+      "dark": "تم تاریک"
+    },
+    "ativarVLibras": "vlibras را فعال کنید",
+    "trocarIdioma": "تغییر",
+    "desenvolvida": {
+      "ferramenta": "ابزار",
+      "desenvolvida": "توسعه یافته توسط"
+    },
+    "logo": "آرم زیست زیستی",
+    "barraLateral": "کارکنان نوار جانبی سایت را تغییر دهید",
+    "nossasSolucoes": "راه حل های ما",
+    "nossasSolucoesLabel": "راه حل ها را ببینید",
+    "acessibilidadeArq": "دسترسی به معماری",
+    "acessibilidadeArqLabel": "به صفحه دسترسی به معماری بروید",
+    "acessibilidadeDig": "قابلیت دسترسی دیجیتال",
+    "acessibilidadeDigLabel": "به صفحه دسترسی دیجیتال بروید",
+    "noticias": "خبر",
+    "noticiasLabel": "به صفحه خبر بروید",
+    "institudo": "نهادی",
+    "institudoLabel": "به صفحه نمایش موسسه بروید",
+    "empregabilidade": "قابلیت اشتغال",
+    "empregabilidadeLabel": "به صفحه اشتغالزایی بروید",
+    "papoDiverso": "گپ متفاوت",
+    "papoDiversoLabel": "به وب سایت متنوع چت بروید"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "توصیف صوتی",
+        "ariaLabel": "توضیحات صوتی را فعال کنید"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "pequisis زبان شما ...",
+    "language": "پرتغالی (BR)",
+    "Portuguese": "پرتغالی (BR)",
+    "ChineseTraditional": "چینی (سنتی)",
+    "ChineseSimplified": "چینی (ساده شده)",
+    "English": "انگلیسی",
+    "French": "فرانسوی",
+    "German": "آلمانی",
+    "Italian": "ایتالیایی",
+    "Bengali": "بنگالی",
+    "Hindi": "هندی",
+    "Russian": "روسی",
+    "Japanese": "وابسته به ژاپنی",
+    "Korean": "کره ای",
+    "Vietnamese": "وابسته به ویتنامی",
+    "Telugu": "تالگو",
+    "Cantonese": "کانتونی",
+    "Marathi": "ماراتی",
+    "Tamil": "تامیل",
+    "Turkish": "ترکی",
+    "Urdu": "اردو",
+    "Gujarati": "گجراتی",
+    "Polish": "صیقل دادن",
+    "Ukrainian": "وابسته به اوکراینی",
+    "Malay": "مگس",
+    "Kannada": "کاروان",
+    "Oriya": "اویریا",
+    "Punjabi": "پنجابی",
+    "Romanian": "وابسته به رومانی",
+    "Azerbaijani": "به عنوان آذربایجا",
+    "Farsi": "گمشده",
+    "Burmese": "برمه",
+    "Thai": "تایلندی",
+    "Dutch": "هلندی",
+    "Yoruba": "یوروبا",
+    "Sindhi": "سندی"
+  }
+}

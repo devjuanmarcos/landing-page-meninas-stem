@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "ಪ್ರವೇಶಿಸುವಿಕೆ",
+    "switchWithIcon": {
+      "light": "ಸ್ಪಷ್ಟ ಥೀಮ್‌ಗೆ ಬದಲಾಯಿಸಿ",
+      "dark": "ಡಾರ್ಕ್ ವಿಷಯ"
+    },
+    "ativarVLibras": "Vlibras ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ",
+    "trocarIdioma": "ಬದಲಾವಣೆ",
+    "desenvolvida": {
+      "ferramenta": "ಉಪಕರಣ",
+      "desenvolvida": "ಅಭಿವೃದ್ಧಿಪಡಿಸಲಾಗಿದೆ"
+    },
+    "logo": "ಬಯೋಮಾಬ್ ಲೋಗೊ",
+    "barraLateral": "ಸೈಟ್ನ ಸೈಡ್ ಬಾರ್ ಸಿಬ್ಬಂದಿಯನ್ನು ಬದಲಾಯಿಸಿ",
+    "nossasSolucoes": "ನಮ್ಮ ಪರಿಹಾರಗಳು",
+    "nossasSolucoesLabel": "ಪರಿಹಾರಗಳನ್ನು ನೋಡಿ",
+    "acessibilidadeArq": "ವಾಸ್ತುಶಿಲ್ಪ ಪ್ರವೇಶ",
+    "acessibilidadeArqLabel": "ವಾಸ್ತುಶಿಲ್ಪ ಪ್ರವೇಶಿಸುವಿಕೆ ಪರದೆಗೆ ಹೋಗಿ",
+    "acessibilidadeDig": "ಅಂಕಿ ಪ್ರವೇಶಿಸುವಿಕೆ",
+    "acessibilidadeDigLabel": "ಡಿಜಿಟಲ್ ಪ್ರವೇಶಿಸುವಿಕೆ ಪರದೆಗೆ ಹೋಗಿ",
+    "noticias": "ಸುದ್ದಿ",
+    "noticiasLabel": "ಸುದ್ದಿ ಪರದೆಗೆ ಹೋಗಿ",
+    "institudo": "ಸ್ಥಾಪನೆ",
+    "institudoLabel": "ಸಂಸ್ಥೆಯ ಪರದೆಗೆ ಹೋಗಿ",
+    "empregabilidade": "ಉದ್ಯೋಗಸಾಧ್ಯತೆ",
+    "empregabilidadeLabel": "ಉದ್ಯೋಗದ ಪರದೆಗೆ ಹೋಗಿ",
+    "papoDiverso": "ವಿಭಿನ್ನ ಚಾಟ್",
+    "papoDiversoLabel": "ವೈವಿಧ್ಯಮಯ ಚಾಟ್ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಹೋಗಿ"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "ಆಡಿಯೊ ವಿವರಣೆ",
+        "ariaLabel": "ಆಡಿಯೊ ವಿವರಣೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "ನಿಮ್ಮ ಭಾಷೆಯನ್ನು ಪೆಕ್ವಿಸಿಸ್ ...",
+    "language": "ಪೋರ್ಚುಗೀಸ್ (ಬಿಆರ್)",
+    "Portuguese": "ಪೋರ್ಚುಗೀಸ್ (ಬಿಆರ್)",
+    "ChineseTraditional": "ಚೈನೀಸ್ (ಸಾಂಪ್ರದಾಯಿಕ)",
+    "ChineseSimplified": "ಚೈನೀಸ್ (ಸರಳೀಕೃತ)",
+    "English": "ಇಂಗ್ಲಿಷ್",
+    "French": "ಫ್ರೆಂಚ್",
+    "German": "ಜರ್ಮನ್ ಭಾಷೆಯ",
+    "Italian": "ಇಟಲಿಯ",
+    "Bengali": "ಪಂಗಾಲಿ",
+    "Hindi": "ಹಿಂದಿ",
+    "Russian": "ರಷ್ಯಾದ",
+    "Japanese": "ಜಪಾನೀಸ್",
+    "Korean": "ಕೊರಿಯಾದ",
+    "Vietnamese": "ವಿಯೆಟ್ನಾಂ",
+    "Telugu": "ನಲುದು",
+    "Cantonese": "ಆವರಣ",
+    "Marathi": "ಮರತಿ",
+    "Tamil": "ತಮಿಳು",
+    "Turkish": "ಟರ್ಕಿಯ",
+    "Urdu": "ಮರಿ",
+    "Gujarati": "ಗುಜರಾತಿ",
+    "Polish": "ಪೋಲಿಷ್",
+    "Ukrainian": "ಯುಕೆರಿನ",
+    "Malay": "ಮಂಜು",
+    "Kannada": "ಚಿರತೆ",
+    "Oriya": "ಓರಿ",
+    "Punjabi": "ಪಂಜಾಬಿ",
+    "Romanian": "ರೊಮೇನಿಯನ್ ಭಾಷೆಯ",
+    "Azerbaijani": "ಅಜೆರ್ಬೈಜಾ ಆಗಿ",
+    "Farsi": "ಕಳೆದುಹೋದ",
+    "Burmese": "ಬರ್ಮದ",
+    "Thai": "ದರ್ಜೆ",
+    "Dutch": "ಡಚ್ಚರ",
+    "Yoruba": "ಯೊರುಬಾ",
+    "Sindhi": "ಸಿಂಧಿ"
+  }
+}

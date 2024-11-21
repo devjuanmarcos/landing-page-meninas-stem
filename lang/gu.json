@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "સુલભતા",
+    "switchWithIcon": {
+      "light": "સ્પષ્ટ થીમ પર બદલો",
+      "dark": "અંધારા"
+    },
+    "ativarVLibras": "વિલિબ્રાસને સક્ષમ કરો",
+    "trocarIdioma": "પરિવર્તન",
+    "desenvolvida": {
+      "ferramenta": "હાંસલ",
+      "desenvolvida": "દ્વારા વિકસિત"
+    },
+    "logo": "બાયોમોબ લોગો",
+    "barraLateral": "સાઇટનો સાઇડ બાર સ્ટાફ બદલો",
+    "nossasSolucoes": "અમારા ઉકેલો",
+    "nossasSolucoesLabel": "ઉકેલો જુઓ",
+    "acessibilidadeArq": "સ્થાપત્યની સુલભતા",
+    "acessibilidadeArqLabel": "આર્કિટેક્ચરલ access ક્સેસિબિલીટી સ્ક્રીન પર જાઓ",
+    "acessibilidadeDig": "ક્ષૂપી સુલભતા",
+    "acessibilidadeDigLabel": "ડિજિટલ access ક્સેસિબિલીટી સ્ક્રીન પર જાઓ",
+    "noticias": "સમાચાર",
+    "noticiasLabel": "ન્યૂઝ સ્ક્રીન પર જાઓ",
+    "institudo": "સંસ્થા",
+    "institudoLabel": "સંસ્થાના સ્ક્રીન પર જાઓ",
+    "empregabilidade": "રોજગારક્ષમતા",
+    "empregabilidadeLabel": "રોજગાર સ્ક્રીન પર જાઓ",
+    "papoDiverso": "જુદી જુદી ચેટ",
+    "papoDiversoLabel": "વિવિધ ચેટ વેબસાઇટ પર જાઓ"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "શ્રદ્ધા",
+        "ariaLabel": "Audio ડિઓ વર્ણન સક્રિય કરો"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "તમારી ભાષા પીક્વિસિસ ...",
+    "language": "પોર્ટુગીઝ (બીઆર)",
+    "Portuguese": "પોર્ટુગીઝ (બીઆર)",
+    "ChineseTraditional": "ચાઇનીઝ (પરંપરાગત)",
+    "ChineseSimplified": "ચાઇનીઝ (સરળ)",
+    "English": "અંગ્રેજી",
+    "French": "ફ્રેન્ચ",
+    "German": "જર્મન",
+    "Italian": "ઇટાલીનું",
+    "Bengali": "બંગાળ",
+    "Hindi": "હિંદી",
+    "Russian": "રશિયન",
+    "Japanese": "જાપાની",
+    "Korean": "કોરિયન",
+    "Vietnamese": "વિએટનાનાસ",
+    "Telugu": "તેલુગુ",
+    "Cantonese": "છાટા",
+    "Marathi": "મડારી",
+    "Tamil": "તમિલ",
+    "Turkish": "તુર્કી",
+    "Urdu": "એક જાતની કળા",
+    "Gujarati": "ગુજરાત",
+    "Polish": "નીલ",
+    "Ukrainian": "યુકમ",
+    "Malay": "મેઘ",
+    "Kannada": "માદા",
+    "Oriya": "ઓરિયા",
+    "Punjabi": "પંજાબી",
+    "Romanian": "રોમન",
+    "Azerbaijani": "અઝરબૈજા તરીકે",
+    "Farsi": "ખોવાયેલું",
+    "Burmese": "બર્મી",
+    "Thai": "થાઇ",
+    "Dutch": "ડચ",
+    "Yoruba": "યોરૂબા",
+    "Sindhi": "સિંધી"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "အသုံးပြုနိုင်မှု",
+    "switchWithIcon": {
+      "light": "ရှင်းရှင်းလင်းလင်းဆောင်ပုဒ်သို့ပြောင်းပါ",
+      "dark": "အမှောင်ဆောင်ပုဒ်"
+    },
+    "ativarVLibras": "Vlibras enable",
+    "trocarIdioma": "ပေြာင်းလဲခြင်း",
+    "desenvolvida": {
+      "ferramenta": "တန်းဆာကိရိယာ",
+      "desenvolvida": "အားဖြင့်ဖွံ့ဖြိုးပြီး"
+    },
+    "logo": "ဇီဝဗေဒ",
+    "barraLateral": "ဆိုက်၏ဘေးထွက်ဘား 0 န်ထမ်းများကိုပြောင်းလဲပါ",
+    "nossasSolucoes": "ကျွန်ုပ်တို့၏ဖြေရှင်းချက်များ",
+    "nossasSolucoesLabel": "ဖြေရှင်းချက်ကိုကြည့်ပါ",
+    "acessibilidadeArq": "ဗိသုကာလက်လှမ်းမီ",
+    "acessibilidadeArqLabel": "ဗိသုကာလက်လှမ်းမီနိုင်စွမ်းမျက်နှာပြင်သို့သွားပါ",
+    "acessibilidadeDig": "ဒစ်ဂျစ်တယ်အသုံးပြုနိုင်မှု",
+    "acessibilidadeDigLabel": "ဒီဂျစ်တယ်အသုံးပြုခွင့်မျက်နှာပြင်ကိုသွားပါ",
+    "noticias": "သတင်း",
+    "noticiasLabel": "သတင်းမျက်နှာပြင်ကိုသွားပါ",
+    "institudo": "တည်ထောင်ခြင်း",
+    "institudoLabel": "Institute ၏ဖန်သားပြင်သို့သွားပါ",
+    "empregabilidade": "အလုပ်အကိုင်အနေှသည်",
+    "empregabilidadeLabel": "အလုပ်ရှင်မျက်နှာပြင်ကိုသွားပါ",
+    "papoDiverso": "ကွဲပြားခြားနားသော chat",
+    "papoDiversoLabel": "မတူကွဲပြားသော chite website ကိုသွားပါ"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "အသံဖော်ပြချက်",
+        "ariaLabel": "အသံဖော်ပြချက်ကိုဖွင့်ပါ"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "သင်၏ဘာသာစကား ...",
+    "language": "ပေါ်တူဂီ (br)",
+    "Portuguese": "ပေါ်တူဂီ (br)",
+    "ChineseTraditional": "တရုတ် (ရိုးရာ)",
+    "ChineseSimplified": "တရုတ် (ရိုးရှင်းသော)",
+    "English": "အင်္ဂလိပ်",
+    "French": "ပြင်သစ်",
+    "German": "ဂျာမန်",
+    "Italian": "အီတလီ",
+    "Bengali": "ဘင်ျစဘီ",
+    "Hindi": "ဟိန္ဒင်ဟင်လိုသည်",
+    "Russian": "ကေြရုရု",
+    "Japanese": "ဂျပန်",
+    "Korean": "ကိုးရီးယား",
+    "Vietnamese": "ဗီယက်နမ်",
+    "Telugu": "တီလီဂို",
+    "Cantonese": "ဥစ်ပဲှ",
+    "Marathi": "မာရသီ",
+    "Tamil": "တမီးလ",
+    "Turkish": "တာယာတူ",
+    "Urdu": "အူဒူ",
+    "Gujarati": "ဂူဂျာရာတီ",
+    "Polish": "အရောင်တင်",
+    "Ukrainian": "ယူကရိန်း",
+    "Malay": "မိမ်",
+    "Kannada": "နံတွင်း",
+    "Oriya": "အိုရီရာ",
+    "Punjabi": "ပန်ဗတ်",
+    "Romanian": "ရိုမေးနီးယား",
+    "Azerbaijani": "အဇာဘိုင်ယသ",
+    "Farsi": "ပေျာက်နေသော",
+    "Burmese": "ဗမာ",
+    "Thai": "ထိုင်း",
+    "Dutch": "ဒတ်ခ်ဒင်",
+    "Yoruba": "ရိုရုဘာ",
+    "Sindhi": "စင်ဒီ"
+  }
+}

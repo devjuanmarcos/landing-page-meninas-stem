@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "Dostępność",
+    "switchWithIcon": {
+      "light": "Zmień na wyraźny motyw",
+      "dark": "Mroczny motyw"
+    },
+    "ativarVLibras": "Włącz vlibras",
+    "trocarIdioma": "Zmiana",
+    "desenvolvida": {
+      "ferramenta": "Narzędzie",
+      "desenvolvida": "opracowany przez"
+    },
+    "logo": "Logo biomobu",
+    "barraLateral": "Zmień personel boczny witryny",
+    "nossasSolucoes": "Nasze rozwiązania",
+    "nossasSolucoesLabel": "Zobacz rozwiązania",
+    "acessibilidadeArq": "Dostępność architektoniczna",
+    "acessibilidadeArqLabel": "Przejdź do ekranu dostępności architektonicznej",
+    "acessibilidadeDig": "Dostępność cyfrowa",
+    "acessibilidadeDigLabel": "Przejdź do ekranu dostępności cyfrowej",
+    "noticias": "Aktualności",
+    "noticiasLabel": "Przejdź do ekranu wiadomości",
+    "institudo": "Instytucja",
+    "institudoLabel": "Przejdź do ekranu instytutu",
+    "empregabilidade": "Możliwość zatrudnienia",
+    "empregabilidadeLabel": "Przejdź do ekranu zdolności do zatrudnienia",
+    "papoDiverso": "Inny czat",
+    "papoDiversoLabel": "Przejdź do zróżnicowanej strony internetowej czatu"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "Opis dźwięku",
+        "ariaLabel": "Aktywuj opis dźwięku"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Pequisis Twój język ...",
+    "language": "Portugalski (BR)",
+    "Portuguese": "Portugalski (BR)",
+    "ChineseTraditional": "Chińczycy (tradycyjne)",
+    "ChineseSimplified": "Chiński (uproszczony)",
+    "English": "angielski",
+    "French": "francuski",
+    "German": "niemiecki",
+    "Italian": "włoski",
+    "Bengali": "bengalski",
+    "Hindi": "hinduski",
+    "Russian": "rosyjski",
+    "Japanese": "japoński",
+    "Korean": "koreański",
+    "Vietnamese": "wietnamski",
+    "Telugu": "Telugu",
+    "Cantonese": "Kantoński",
+    "Marathi": "Marathi",
+    "Tamil": "Tamil",
+    "Turkish": "turecki",
+    "Urdu": "urdu",
+    "Gujarati": "Gujarati",
+    "Polish": "Polski",
+    "Ukrainian": "ukraiński",
+    "Malay": "Migo",
+    "Kannada": "Handle",
+    "Oriya": "Oriya",
+    "Punjabi": "Pendżab",
+    "Romanian": "rumuński",
+    "Azerbaijani": "Jako Azerbaija",
+    "Farsi": "Zaginiony",
+    "Burmese": "Birmańczyk",
+    "Thai": "tajski",
+    "Dutch": "Holenderski",
+    "Yoruba": "Joruba",
+    "Sindhi": "Sindhi"
+  }
+}

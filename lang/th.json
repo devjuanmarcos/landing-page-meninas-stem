@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "การเข้าถึงได้",
+    "switchWithIcon": {
+      "light": "เปลี่ยนเป็นธีมที่ชัดเจน",
+      "dark": "ธีมมืด"
+    },
+    "ativarVLibras": "เปิดใช้งาน vlibras",
+    "trocarIdioma": "เปลี่ยน",
+    "desenvolvida": {
+      "ferramenta": "เครื่องมือ",
+      "desenvolvida": "พัฒนาโดย"
+    },
+    "logo": "โลโก้ Biomob",
+    "barraLateral": "เปลี่ยนพนักงานบาร์ด้านข้างของเว็บไซต์",
+    "nossasSolucoes": "วิธีแก้ปัญหาของเรา",
+    "nossasSolucoesLabel": "ดูวิธีแก้ปัญหา",
+    "acessibilidadeArq": "การเข้าถึงสถาปัตยกรรม",
+    "acessibilidadeArqLabel": "ไปที่หน้าจอการเข้าถึงสถาปัตยกรรม",
+    "acessibilidadeDig": "การเข้าถึงดิจิตอล",
+    "acessibilidadeDigLabel": "ไปที่หน้าจอการเข้าถึงดิจิตอล",
+    "noticias": "ข่าว",
+    "noticiasLabel": "ไปที่หน้าจอข่าว",
+    "institudo": "สถาบัน",
+    "institudoLabel": "ไปที่หน้าจอของสถาบัน",
+    "empregabilidade": "การจ้างงาน",
+    "empregabilidadeLabel": "ไปที่หน้าจอการจ้างงาน",
+    "papoDiverso": "แชทที่แตกต่างกัน",
+    "papoDiversoLabel": "ไปที่เว็บไซต์แชทที่หลากหลาย"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "คำอธิบายเสียง",
+        "ariaLabel": "เปิดใช้งานคำอธิบายเสียง"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "pequisis ภาษาของคุณ ...",
+    "language": "โปรตุเกส (BR)",
+    "Portuguese": "โปรตุเกส (BR)",
+    "ChineseTraditional": "จีน (ดั้งเดิม)",
+    "ChineseSimplified": "ภาษาจีน (ง่าย)",
+    "English": "ภาษาอังกฤษ",
+    "French": "ภาษาฝรั่งเศส",
+    "German": "ชาวเยอรมัน",
+    "Italian": "อิตาลี",
+    "Bengali": "เบงกอล",
+    "Hindi": "ภาษาฮินดี",
+    "Russian": "ชาวรัสเซีย",
+    "Japanese": "ญี่ปุ่น",
+    "Korean": "เกาหลี",
+    "Vietnamese": "เวียดนาม",
+    "Telugu": "เตลูกู",
+    "Cantonese": "กวางตุ้ง",
+    "Marathi": "มาราธี",
+    "Tamil": "ทมิฬ",
+    "Turkish": "ตุรกี",
+    "Urdu": "ภาษาอูรดู",
+    "Gujarati": "รัฐคุชราต",
+    "Polish": "ขัด",
+    "Ukrainian": "ชาวยูเครน",
+    "Malay": "มิโกะ",
+    "Kannada": "ปืนใหญ่",
+    "Oriya": "โอริยะ",
+    "Punjabi": "ปัญจาบ",
+    "Romanian": "เกี่ยวกับโรมาเนีย",
+    "Azerbaijani": "เป็นอาเซอร์ไบจา",
+    "Farsi": "สูญหาย",
+    "Burmese": "พม่า",
+    "Thai": "แบบไทย",
+    "Dutch": "ชาวดัตช์",
+    "Yoruba": "โยรูบา",
+    "Sindhi": "ซินธี"
+  }
+}

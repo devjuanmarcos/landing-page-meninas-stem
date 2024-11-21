@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "Доступність",
+    "switchWithIcon": {
+      "light": "Змініть на чітку тему",
+      "dark": "Темна тема"
+    },
+    "ativarVLibras": "Увімкнути vlibras",
+    "trocarIdioma": "Зміна",
+    "desenvolvida": {
+      "ferramenta": "Інструмент",
+      "desenvolvida": "Розроблений"
+    },
+    "logo": "Логотип Biomob",
+    "barraLateral": "Змініть персонал бічної смуги сайту",
+    "nossasSolucoes": "Наші рішення",
+    "nossasSolucoesLabel": "Див. Рішення",
+    "acessibilidadeArq": "Архітектурна доступність",
+    "acessibilidadeArqLabel": "Перейдіть на екран архітектурної доступності",
+    "acessibilidadeDig": "Цифрова доступність",
+    "acessibilidadeDigLabel": "Перейдіть на екран цифрової доступності",
+    "noticias": "Новини",
+    "noticiasLabel": "Перейдіть на екран новин",
+    "institudo": "Установа",
+    "institudoLabel": "Перейдіть на екран інституту",
+    "empregabilidade": "Працездатність",
+    "empregabilidadeLabel": "Перейдіть на екран працевлаштування",
+    "papoDiverso": "Різний чат",
+    "papoDiversoLabel": "Перейдіть на веб -сайт різноманітного чату"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "Опис аудіо",
+        "ariaLabel": "Активуйте опис аудіо"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Pequisis ваша мова ...",
+    "language": "Португальська (BR)",
+    "Portuguese": "Португальська (BR)",
+    "ChineseTraditional": "Китайський (традиційний)",
+    "ChineseSimplified": "Китайська (спрощена)",
+    "English": "Англійська мова",
+    "French": "Французький",
+    "German": "Німецький",
+    "Italian": "Італійський",
+    "Bengali": "бенгальський",
+    "Hindi": "хінді",
+    "Russian": "Російський",
+    "Japanese": "Японський",
+    "Korean": "Корейський",
+    "Vietnamese": "В'єтнамський",
+    "Telugu": "Телугу",
+    "Cantonese": "Кантонський",
+    "Marathi": "Маратхі",
+    "Tamil": "Тамільський",
+    "Turkish": "Турецький",
+    "Urdu": "урду",
+    "Gujarati": "Гуджараті",
+    "Polish": "Польський",
+    "Ukrainian": "Український",
+    "Malay": "Міго",
+    "Kannada": "Канарці",
+    "Oriya": "Орія",
+    "Punjabi": "Пенджабі",
+    "Romanian": "Румунський",
+    "Azerbaijani": "Як Азербайя",
+    "Farsi": "Загублений",
+    "Burmese": "Бірманський",
+    "Thai": "Тайський",
+    "Dutch": "Голландський",
+    "Yoruba": "Йоруба",
+    "Sindhi": "Сіндхі"
+  }
+}

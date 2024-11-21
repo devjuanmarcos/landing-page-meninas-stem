@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "acessibilidade": "ప్రాప్యత",
+    "switchWithIcon": {
+      "light": "స్పష్టమైన థీమ్‌కు మార్చండి",
+      "dark": "చీకటి థీమ్"
+    },
+    "ativarVLibras": "Vlibras ని ప్రారంభించండి",
+    "trocarIdioma": "మార్పు",
+    "desenvolvida": {
+      "ferramenta": "సాధనం",
+      "desenvolvida": "అభివృద్ధి చేసింది"
+    },
+    "logo": "బయోమోబ్ లోగో",
+    "barraLateral": "సైట్ యొక్క సైడ్ బార్ సిబ్బందిని మార్చండి",
+    "nossasSolucoes": "మా పరిష్కారాలు",
+    "nossasSolucoesLabel": "పరిష్కారాలను చూడండి",
+    "acessibilidadeArq": "నిర్మాణ ప్రాప్యత",
+    "acessibilidadeArqLabel": "ఆర్కిటెక్చరల్ ప్రాప్యత స్క్రీన్‌కు వెళ్లండి",
+    "acessibilidadeDig": "డిజిటల్ ప్రాప్యత",
+    "acessibilidadeDigLabel": "డిజిటల్ ప్రాప్యత స్క్రీన్‌కు వెళ్లండి",
+    "noticias": "వార్తలు",
+    "noticiasLabel": "న్యూస్ స్క్రీన్‌కు వెళ్లండి",
+    "institudo": "సంస్థ",
+    "institudoLabel": "ఇన్స్టిట్యూట్ స్క్రీన్‌కు వెళ్లండి",
+    "empregabilidade": "ఉపాధి",
+    "empregabilidadeLabel": "ఉపాధి స్క్రీన్‌కు వెళ్లండి",
+    "papoDiverso": "విభిన్న చాట్",
+    "papoDiversoLabel": "విభిన్న చాట్ వెబ్‌సైట్‌కు వెళ్లండి"
+  },
+  "ObraPage": {
+    "buttons": {
+      "audiodescricao": {
+        "text": "ఆడియో వివరణ",
+        "ariaLabel": "ఆడియో వివరణను సక్రియం చేయండి"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "పెక్విసిస్ మీ భాష ...",
+    "language": "పోర్చుగీస్ (BR)",
+    "Portuguese": "పోర్చుగీస్ (BR)",
+    "ChineseTraditional": "చైనీయులు (సాంప్రదాయ)",
+    "ChineseSimplified": "చైనీయులు",
+    "English": "ఇంగ్లీష్",
+    "French": "ఫ్రెంచ్",
+    "German": "జర్మన్",
+    "Italian": "ఇటాలియన్",
+    "Bengali": "బెంగాలీ",
+    "Hindi": "హిందీ",
+    "Russian": "రష్యన్",
+    "Japanese": "జపనీస్",
+    "Korean": "కొరియన్",
+    "Vietnamese": "వియత్నామీస్",
+    "Telugu": "తెలుగు",
+    "Cantonese": "కాంటోనీస్",
+    "Marathi": "మరాఠీ",
+    "Tamil": "తమిళ",
+    "Turkish": "టర్కిష్",
+    "Urdu": "ఉర్దూ",
+    "Gujarati": "గుజరాతీ",
+    "Polish": "పోలిష్",
+    "Ukrainian": "ఉక్రేనియన్",
+    "Malay": "మిగో",
+    "Kannada": "కాన్యరీలు",
+    "Oriya": "ఓరియా",
+    "Punjabi": "పంజాబీ",
+    "Romanian": "రొమేనియన్",
+    "Azerbaijani": "అజర్‌బైజా",
+    "Farsi": "కోల్పోయింది",
+    "Burmese": "బర్మీస్",
+    "Thai": "థాయ్",
+    "Dutch": "డచ్",
+    "Yoruba": "యోరుబా",
+    "Sindhi": "సింధి"
+  }
+}
