@@ -208,7 +208,7 @@ export function ComboboxLanguage({
       <PopoverTrigger asChild>
         <div className="relative flex items-center gap-1 cursor-pointer">
           <Image
-            src={theme == "light" ? "/ico/google-translateDark.svg" : "/ico/google-translate.svg"}
+            src={"/ico/google-translate.svg"}
             alt={t("trocarIdioma")}
             height={32}
             width={32}

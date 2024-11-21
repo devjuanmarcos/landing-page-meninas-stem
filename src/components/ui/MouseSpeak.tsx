@@ -75,13 +75,7 @@ const MouseSpeak: React.FC = () => {
             className="text-text-verde-medio p-1 rounded-full bg-white w-full h-full"
           />
         ) : (
-          <Image
-            src={theme == "light" ? "/ico/speakerDark.svg" : "/ico/speaker.svg"}
-            alt="Ler textos"
-            height={32}
-            width={32}
-            className="text-white"
-          />
+          <Image src={"/ico/speaker.svg"} alt="Ler textos" height={32} width={32} className="text-white" />
         )}
       </button>
       {isListening && (

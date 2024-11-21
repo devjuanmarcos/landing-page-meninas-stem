@@ -25,6 +25,19 @@ export const CombinedHeader = ({ locale }: Readonly<{ locale: string }>) => {
     setIsMounted(true);
   }, []);
 
+  const [hasScrolled, setHasScrolled] = React.useState(false);
+
+  React.useEffect(() => {
+    const handleScroll = () => {
+      setHasScrolled(window.scrollY > 0);
+    };
+
+    window.addEventListener("scroll", handleScroll);
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
+
   React.useEffect(() => {
     function handleClickOutside(event: MouseEvent) {
       if (dropdownVisible && dropdownRef.current && !dropdownRef.current.contains(event.target as Node)) {
@@ -50,26 +63,27 @@ export const CombinedHeader = ({ locale }: Readonly<{ locale: string }>) => {
   }
 
   if (!isMounted) {
-    return <BarToolsSkeleton />;
+    return;
   }
 
   return (
-    <header className="fixed top-0 left-0 right-0 z-50 backdrop-blur-lg bg-var-background-claro ">
-      {/* BarTools */}
-      <div className="relative flex justify-center md:justify-between gap-4 items-center bg-text-verde-medio w-full px-4 py-1 my-0 mx-auto text-cinza-800 ">
+    <header className="fixed top-0 left-0 right-0 z-50">
+      <div
+        className={`relative flex justify-center md:justify-between gap-4 items-center ${hasScrolled && "bg-primary dark:bg-bg-marca100"} w-full px-4 py-1 my-0 mx-auto text-white `}
+      >
         <VLibrasIntegration />
-        <div className="flex gap-4 text-cinza-800 items-center">
+        <div className="flex gap-4 text-white items-center">
           <span className="md:contents hidden h2-semibold text-[1.4rem]">{t("acessibilidade")}</span>
           <SwitchWithIcon />
           <FontSizeSlider />
 
           <Image
-            src={theme == "light" ? "/ico/librasDark.svg" : "/ico/libras.svg"}
+            src={"/ico/libras.svg"}
             onClick={ativarVLibras}
             alt={t("ativarVLibras")}
             height={32}
             width={32}
-            className="text-cinza-800 cursor-pointer"
+            className="text-white cursor-pointer"
           />
           <MouseSpeak />
           <ComboboxLanguage locale={locale} type="header" />
@@ -80,7 +94,7 @@ export const CombinedHeader = ({ locale }: Readonly<{ locale: string }>) => {
           </span>
 
           <NextImage
-            imageUrl={theme == "light" ? "/img/BIOMOB-PRETA-VERDE.png" : "/img/BIOMOB-BRANCA.png"}
+            imageUrl={"/img/BIOMOB-BRANCA.png"}
             altImage={t("logo")}
             ariaLabel={t("logo")}
             sizes="100vw"

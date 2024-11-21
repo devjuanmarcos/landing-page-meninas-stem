@@ -24,7 +24,7 @@
     --var-marca-50: 241, 252, 248;
     --var-marca-65: 231, 251, 244;
     --var-marca-80: 218, 249, 239;
-    --var-marca-100: 208, 247, 234;
+    --var-marca-100: 255, 255, 255;
     --var-marca-100-08: 208, 247, 234, 0.9;
     --var-marca-200: 162, 237, 215;
     --var-marca-300: 107, 221, 191;
@@ -51,7 +51,7 @@
     --card-foreground: 222.2 84% 4.9%;
     --popover: 0 0% 100%;
     --popover-foreground: 222.2 84% 4.9%;
-    --primary: 222.2 47.4% 11.2%;
+    --primary: 313 100 44;
     --primary-foreground: 210 40% 98%;
     --secondary: 210 40% 96.1%;
     --secondary-foreground: 222.2 47.4% 11.2%;
@@ -119,7 +119,7 @@
     --card-foreground: 210 40% 98%;
     --popover: 222.2 84% 4.9%;
     --popover-foreground: 210 40% 98%;
-    --primary: 210 40% 98%;
+    --primary: 313 100 44;
     --primary-foreground: 222.2 47.4% 11.2%;
     --secondary: 217.2 32.6% 17.5%;
     --secondary-foreground: 210 40% 98%;
@@ -392,7 +392,7 @@ input[type="range"] {
   -webkit-appearance: none; /* Remove o estilo padrão do controle deslizante */
   width: 100%;
   height: 2px; /* Espessura do trilho do controle deslizante */
-  background: rgb(var(--var-cinza-800)); /* Cor do trilho do controle deslizante */
+  background: #ffffff; /* Cor do trilho do controle deslizante */
   border-radius: 5px; /* Cantos arredondados */
   cursor: pointer; /* Muda o cursor ao passar sobre o controle */
   outline: none; /* Remove o contorno padrão */
@@ -404,7 +404,7 @@ input[type="range"]::-webkit-slider-thumb {
   width: 4px; /* Largura do "thumb" */
   height: 20px; /* Altura do "thumb" */
   border-radius: 12px; /* "thumb" arredondado */
-  background: rgb(var(--var-cinza-800)); /* Cor do "thumb" */
+  background: #ffffff; /* Cor do "thumb" */
   cursor: pointer; /* Muda o cursor ao passar sobre o "thumb" */
   box-shadow: 0 0 2px rgba(0, 0, 0, 0.5); /* Sombra para o "thumb" */
 }
@@ -414,7 +414,7 @@ input[type="range"]::-moz-range-thumb {
   width: 4px; /* Largura do "thumb" */
   height: 20px; /* Altura do "thumb" */
   border-radius: 12px; /* "thumb" arredondado */
-  background: rgb(var(--var-cinza-800)); /* Cor do "thumb" */
+  background: #ffffff; /* Cor do "thumb" */
   cursor: pointer; /* Muda o cursor ao passar sobre o "thumb" */
 }
 
@@ -423,13 +423,13 @@ input[type="range"]::-ms-thumb {
   width: 20px; /* Largura do "thumb" */
   height: 20px; /* Altura do "thumb" */
   border-radius: 50%; /* "thumb" arredondado */
-  background: rgb(var(--var-cinza-800)); /* Cor do "thumb" */
+  background: #ffffff; /* Cor do "thumb" */
   cursor: pointer; /* Muda o cursor ao passar sobre o "thumb" */
 }
 
 /* Estilo para o trilho do controle deslizante em IE */
 input[type="range"]::-ms-track {
-  background: rgb(var(--var-cinza-800)); /* Cor do trilho do controle deslizante */
+  background: #ffffff; /* Cor do trilho do controle deslizante */
   border-color: transparent; /* Remove a borda do trilho */
   color: transparent; /* Torna a cor do trilho transparente */
 }
