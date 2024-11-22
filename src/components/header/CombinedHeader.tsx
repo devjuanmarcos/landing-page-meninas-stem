@@ -69,7 +69,7 @@ export const CombinedHeader = ({ locale }: Readonly<{ locale: string }>) => {
   return (
     <header className="fixed top-0 left-0 right-0 z-50">
       <div
-        className={`relative flex justify-center md:justify-between gap-4 items-center ${hasScrolled && "bg-primary dark:bg-bg-marca100"} w-full px-4 py-1 my-0 mx-auto text-white `}
+        className={`relative flex justify-center md:justify-between gap-4 items-center ${hasScrolled && "bg-primary dark:bg-bg-marca100"} max-h-[3.125rem] overflow-hidden w-full px-4 py-1 my-0 mx-auto text-white `}
       >
         <VLibrasIntegration />
         <div className="flex gap-4 text-white items-center">

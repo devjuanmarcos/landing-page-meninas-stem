@@ -31,10 +31,10 @@ export const ScaleCarouselBanner = () => {
         />
       </div>
 
-      <div className="px-4 sm:px-6 md:px-10">
+      <div className="md:px-10">
         <div className="flex justify-center">
           <div className="max-w-full flex flex-col gap-[5.3125rem]">
-            <div className="max-w-[60rem] mx-auto">
+            <div className="max-w-[60rem] mx-auto px-4 sm:px-6 ">
               <TextsVariants
                 textCenter={true}
                 text={t("OQueEBanner.topTitle")}

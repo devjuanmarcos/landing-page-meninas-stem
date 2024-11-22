@@ -10,6 +10,7 @@ import Link from "next/link";
 const MainBanner: FC = () => {
   const imageRef1 = React.useRef(null);
   const t = useTranslations("MainBanner");
+  const ondinhas = useTranslations("Outros");
 
   const handleScrollToContato = (event: React.MouseEvent) => {
     event.preventDefault();
@@ -31,14 +32,20 @@ const MainBanner: FC = () => {
       className="relative bg-no-repeat bg-cover flex justify-center items-center"
       style={{ backgroundImage: `url(/img/wallpaper/meninasStem.png)` }}
     >
-      <div className="px-4 sm:px-6 md:px-[9.875rem] absolute top-16 w-full flex justify-between gap-4 section">
-        <Image src={"/img/logoMeninasSTEM.png"} alt="Logo Meninas STEM" width={124} height={81} />
+      <div className="px-4 sm:px-6 md:px-[9.875rem]  absolute top-16 w-full grid grid-cols-2 sm:flex justify-between gap-4 section">
+        <Image
+          src={"/img/logoMeninasSTEM.png"}
+          alt="Logo Meninas STEM"
+          width={124}
+          height={81}
+          className="w-[5rem] sm:w-[6.6875rem] h-auto"
+        />
         <Image
           src={"/img/logobiomobheader.png"}
           alt="Logo BIOMOB"
           width={203}
           height={60}
-          className="w-[12.6875rem] h-[3.75rem]"
+          className="w-[9rem] sm:w-[12.6875rem] h-auto sm:h-[3.75rem] ml-auto"
         />
       </div>
       <div className="flex flex-col items-center justify-center h-[90vh] overflow-hidden w-full">
@@ -62,7 +69,7 @@ const MainBanner: FC = () => {
           <Image
             ref={imageRef1}
             src="/img/grafismos/onda_1.svg"
-            alt={t("Outros.ondinhas")}
+            alt={t("ondinhas")}
             width={1300}
             height={142}
             className=" h-auto blur-up"

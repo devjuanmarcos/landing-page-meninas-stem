@@ -21,7 +21,6 @@ type SimpleImageWithTextBannerProps = {
 
 export const SimpleImageWithTextBanner: React.FC<SimpleImageWithTextBannerProps> = ({
   type,
-  button,
   topTitle,
   paragraph,
   title,
@@ -31,7 +30,7 @@ export const SimpleImageWithTextBanner: React.FC<SimpleImageWithTextBannerProps>
   const imageRef1 = React.useRef<HTMLImageElement | null>(null);
 
   const commonContainerClasses =
-    "flex flex-col max-lg:px-8 lg:grid grid-cols-2 max-w-[60rem] gap-8 justify-center text-center w-full items-center";
+    "flex flex-col px-4 lg:px-8 lg:grid grid-cols-2 max-w-[60rem] md:gap-8 gap-2 justify-center text-center w-full items-center";
   const commonTextClasses = "flex flex-col text-left";
 
   const TextContent: React.FC = () => (
@@ -54,7 +53,7 @@ export const SimpleImageWithTextBanner: React.FC<SimpleImageWithTextBannerProps>
     <div
       className={
         type === "col"
-          ? "max-w-[60rem] mx-auto max-lg:px-8"
+          ? "max-w-[60rem] mx-auto px-2 lg:px-8"
           : commonContainerClasses + (type === "row-reverse" ? " lg:flex-row-reverse" : "")
       }
     >
@@ -69,7 +68,7 @@ export const SimpleImageWithTextBanner: React.FC<SimpleImageWithTextBannerProps>
               width={706}
               height={435}
               quality={100}
-              className="rounded-[1.25rem] mt-8 mx-auto"
+              className="rounded-[1.25rem] mt-8 mx-auto object-cover w-full bg-cover"
             />
           )}
         </>
@@ -82,7 +81,7 @@ export const SimpleImageWithTextBanner: React.FC<SimpleImageWithTextBannerProps>
               src={image}
               alt={altImage || ""}
               sizes="100%"
-              className="w-auto h-full aspect-video rounded-lg"
+              className="w-full h-full aspect-video rounded-lg object-cover bg-cover"
               placeholder="blur"
               blurDataURL="data:..."
               quality={100}

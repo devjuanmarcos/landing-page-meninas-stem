@@ -131,7 +131,7 @@ const HomePage: React.FC = () => {
         <MemoizedMainBanner />
       </React.Suspense>
 
-      <div className="flex flex-col gap-24 items-center justify-center w-full bg-bg-marca100 rounded-[2.5rem] sm:rounded-[7rem] mt-[-64px]  lg:py-[6.25rem] py-[4.0625rem]  z-10 mb-16">
+      <div className="flex flex-col border border-border gap-8 md:gap-24 items-center justify-center w-full bg-bg-marca100 rounded-[2.5rem] sm:rounded-[7rem] mt-[-6.25rem]  lg:py-[6.25rem] py-[4.0625rem]  z-10 mb-16">
         <ScaleCarouselBanner />
         <SimpleTextWithBackgroundBanner />
         <SimpleImageWithTextBanner
