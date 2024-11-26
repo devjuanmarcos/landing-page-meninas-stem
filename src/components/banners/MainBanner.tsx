@@ -38,7 +38,8 @@ const MainBanner: FC = () => {
           alt="Logo Meninas STEM"
           width={124}
           height={81}
-          className="w-[5rem] sm:w-[6.6875rem] h-auto"
+          quality={100}
+          className="w-[5rem] sm:w-[10rem] h-auto"
         />
         <Image
           src={"/img/logobiomobheader.png"}
