@@ -3,7 +3,7 @@
 import dynamic from "next/dynamic";
 import React from "react";
 import { ThreeIconWithTextBannersProps } from "../banners/ThreeIconWithTextsBanner";
-import { FaCar, FaChalkboardTeacher, FaCode, FaFileAlt, FaFlask, FaGamepad, FaMicrophoneAlt } from "react-icons/fa";
+import { FaChalkboardTeacher, FaCode, FaFileAlt, FaFlask, FaGamepad, FaMicrophoneAlt } from "react-icons/fa";
 import { useTranslations } from "next-intl";
 
 const MemoizedMainBanner = dynamic(() => import("@banners/MainBanner").then((mod) => mod.default), {

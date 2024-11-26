@@ -9,7 +9,7 @@ export const SimpleTextWithBackgroundBanner = () => {
   const t = useTranslations("");
   return (
     <div
-      className={`flex justify-center text-center bg-[url(/img/wallpaper/banner_mar.png)] py-28 object-cover bg-cover w-full relative `}
+      className={`flex justify-center text-center bg-[url(/img/wallpaper/cientistamenina.jpg)] py-28 object-cover bg-cover w-full relative `}
     >
       <TextsVariants
         textCenter={true}
