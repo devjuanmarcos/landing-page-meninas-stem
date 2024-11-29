@@ -11,6 +11,10 @@ import { ComboboxLanguage } from "../ui/combobox-language";
 import { useTheme } from "next-themes";
 import BarToolsSkeleton from "../ui/BarToolsSkeleton";
 import { VLibrasIntegration } from "./VLibrasIntegration";
+import Link from "next/link";
+import { buttonVariants } from "../ui/button";
+import { LucideInstagram, LucideLinkedin } from "lucide-react";
+import { InstagramLogoIcon, LinkedInLogoIcon } from "@radix-ui/react-icons";
 
 export const CombinedHeader = ({ locale }: Readonly<{ locale: string }>) => {
   const [dropdownVisible, setDropdownVisible] = React.useState(false);
@@ -87,6 +91,22 @@ export const CombinedHeader = ({ locale }: Readonly<{ locale: string }>) => {
           />
           {/* <MouseSpeak /> */}
           <ComboboxLanguage locale={locale} type="header" />
+          <Link
+            href="https://www.linkedin.com/in/meninas-stem-petr%C3%B3polis-3a205033b/"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="LinkedIn"
+          >
+            <LinkedInLogoIcon className="h-6 w-6 text-white" />
+          </Link>
+          <Link
+            href="https://www.instagram.com/meninastempetropolis?igsh=eWt4cnkydGJtYTZ5  "
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Instagram"
+          >
+            <InstagramLogoIcon className="h-6 w-6 text-white" />
+          </Link>
         </div>
       </div>
     </header>

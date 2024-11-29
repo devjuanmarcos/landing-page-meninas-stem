@@ -36,7 +36,7 @@ const MainBanner: FC = () => {
           theme == "light" ? `url(/img/wallpaper/meninasStemLIGHT.png)` : `url(/img/wallpaper/meninasStem.png)`,
       }}
     >
-      <div className="px-4 sm:px-6 md:px-[9.875rem]  absolute top-32 w-full flex justify-center gap-4 section">
+      <div className="px-4 sm:px-6 md:px-[9.875rem]  absolute top-12 sm:top-32 w-full flex justify-center gap-4 section">
         <Image
           src={"/img/logoMeninasSTEM.png"}
           alt="Logo Meninas STEM"

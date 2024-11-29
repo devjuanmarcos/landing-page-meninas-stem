@@ -1,20 +1,18 @@
-import type { Metadata } from "next";
+import Script from "next/script";
 import "./globals.css";
+import type { Metadata } from "next";
 import { HtmlFontSizeProvider } from "@/context/HtmlFontSizeContext";
 import { ThemeProvider } from "next-themes";
 import { WindowSizeProvider } from "@/context/WindowSizeContext";
 import { Nunito, Martel, Montserrat } from "next/font/google";
-import { Header } from "@/components/header/Header";
-import { BarTools } from "@/components/barra-acessibilidade/BarTools";
-import Script from "next/script";
 import { Footer } from "@/components/footer/footer";
 import { NextIntlClientProvider, useMessages } from "next-intl";
 import CombinedHeader from "@/components/header/CombinedHeader";
 
-const APP_NAME = "Biomob";
-const APP_DEFAULT_TITLE = "Biomob";
+const APP_NAME = "Meninas STEM";
+const APP_DEFAULT_TITLE = "Meninas STEM";
 const APP_TITLE_TEMPLATE = "%s";
-const APP_DESCRIPTION = "Biomob!";
+const APP_DESCRIPTION = "Formando futuras cientistas!";
 
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_FRONTEND_URL || "http://localhost:3000"),
@@ -84,7 +82,7 @@ export default function RootLayout({
     <html
       className="transition-all h-full w-full scrollbar-thin scrollbar-webkit duration-200 ease-in-out"
       suppressHydrationWarning
-      lang="pt-BR"
+      lang={params.locale}
     >
       <Script defer data-domain="biomob.org" src="https://plausible.biomob.app/js/script.js" />
       <body className={`${nunito.variable} ${martel.variable} ${montserrat.variable}`}>

@@ -27,7 +27,7 @@ const SwitchWithIcon: React.FC<SwitchWithIconProps> = ({ onToggle }) => {
       className={`flex items-center justify-between w-[3rem] h-[1.5rem]   rounded-full transition-colors duration-300 bg-white`}
     >
       <div
-        className={`w-7 h-7 rounded-full  flex items-center justify-center transition-transform duration-300 ${theme == "light" ? "translate-x-5" : "translate-x-0"}`}
+        className={`w-7 h-7 rounded-full  flex items-center justify-center transition-transform duration-300 ${theme == "light" ? "translate-x-3 sm:translate-x-5" : "translate-x-0"}`}
       >
         {theme == "light" ? (
           <FaSun

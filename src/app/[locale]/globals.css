@@ -385,7 +385,7 @@
 
 .custom-transform {
   transform: none !important; /* Sobrescreve o transform do plugin */
-  top: 100% !important;
+  top: 52px !important;
 }
 /* Estilos globais para o controle deslizante de tamanho de fonte */
 input[type="range"] {
