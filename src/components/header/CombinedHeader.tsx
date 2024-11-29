@@ -69,7 +69,7 @@ export const CombinedHeader = ({ locale }: Readonly<{ locale: string }>) => {
   return (
     <header className="fixed top-0 left-0 right-0 z-50">
       <div
-        className={`relative flex justify-center md:justify-between gap-4 items-center ${hasScrolled && "bg-primary dark:bg-bg-marca100"} max-h-[3.125rem] overflow-hidden w-full px-4 py-1 my-0 mx-auto text-white `}
+        className={`relative flex justify-center  gap-4 items-center ${"bg-primary dark:bg-bg-marca100"} max-h-[3.125rem] overflow-hidden w-full px-4 py-1 my-0 mx-auto text-white `}
       >
         <VLibrasIntegration />
         <div className="flex gap-4 text-white items-center">
@@ -85,21 +85,8 @@ export const CombinedHeader = ({ locale }: Readonly<{ locale: string }>) => {
             width={32}
             className="text-white cursor-pointer"
           />
-          <MouseSpeak />
+          {/* <MouseSpeak /> */}
           <ComboboxLanguage locale={locale} type="header" />
-        </div>
-        <div className="hidden lg:flex gap-1 items-center text-end max-h-[3.125rem] overflow-hidden">
-          <span className="flex flex-col text-sm justify-end ">
-            <span className="w-max text-end ">by</span>
-          </span>
-
-          <NextImage
-            imageUrl={"/img/BIOMOB-BRANCA.png"}
-            altImage={t("logo")}
-            ariaLabel={t("logo")}
-            sizes="100vw"
-            className="w-[8.75rem] h-[1.625rem]"
-          />
         </div>
       </div>
     </header>

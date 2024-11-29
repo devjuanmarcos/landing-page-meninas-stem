@@ -1,7 +1,7 @@
+import React from "react";
 import Image from "next/image";
 import TextsVariants from "../texts/TextsVariants";
 import { handleImageLoad } from "@/utils/handleImageLoad";
-import React from "react";
 import { useTranslations } from "next-intl";
 
 export const SimpleTextWithBackgroundBanner = () => {

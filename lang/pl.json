@@ -183,6 +183,10 @@
       }
     ]
   },
+  "OQueSeEsperaBanner": {
+    "title": "O que se espera?",
+    "paragraph": "O projeto busca fortalecer a imaginação e autoestima das meninas, combater a evasão escolar e contribuir para a construção de uma sociedade mais justa. Espera-se estimular e ampliar a participação feminina em STEM, ao mesmo tempo em que se reduzem estigmas e discriminações."
+  },
   "ContatoBanner": {
     "topTitle": "kontakt",
     "title": "Skontaktuj się z nami",

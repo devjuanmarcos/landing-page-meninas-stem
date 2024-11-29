@@ -6,11 +6,12 @@ import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { buttonVariants } from "@/components/ui/button";
 import Link from "next/link";
+import { useTheme } from "next-themes";
 
 const MainBanner: FC = () => {
   const imageRef1 = React.useRef(null);
   const t = useTranslations("MainBanner");
-  const ondinhas = useTranslations("Outros");
+  const { theme } = useTheme();
 
   const handleScrollToContato = (event: React.MouseEvent) => {
     event.preventDefault();
@@ -30,37 +31,33 @@ const MainBanner: FC = () => {
   return (
     <div
       className="relative bg-no-repeat bg-cover flex justify-center items-center"
-      style={{ backgroundImage: `url(/img/wallpaper/meninasStem.png)` }}
+      style={{
+        backgroundImage:
+          theme == "light" ? `url(/img/wallpaper/meninasStemLIGHT.png)` : `url(/img/wallpaper/meninasStem.png)`,
+      }}
     >
-      <div className="px-4 sm:px-6 md:px-[9.875rem]  absolute top-16 w-full grid grid-cols-2 sm:flex justify-between gap-4 section">
+      <div className="px-4 sm:px-6 md:px-[9.875rem]  absolute top-32 w-full flex justify-center gap-4 section">
         <Image
           src={"/img/logoMeninasSTEM.png"}
           alt="Logo Meninas STEM"
-          width={124}
-          height={81}
+          width={300}
+          height={200}
           quality={100}
-          className="w-[5rem] sm:w-[10rem] h-auto"
-        />
-        <Image
-          src={"/img/logobiomobheader.png"}
-          alt="Logo BIOMOB"
-          width={203}
-          height={60}
-          className="w-[9rem] sm:w-[12.6875rem] h-auto sm:h-[3.75rem] ml-auto"
+          className="w-[10rem] sm:w-[16rem] h-auto mx-auto"
         />
       </div>
       <div className="flex flex-col items-center justify-center h-[90vh] overflow-hidden w-full">
         <div className="flex flex-col gap-4 items-center max-w-[60rem] relative">
           <TextsVariants
-            color="text-white"
+            color=""
             text={t("topTitle")}
             variant="topTitle"
             showLine={false}
             extraClassName="text-center"
           />
-          <TextsVariants color="text-white" variant="titleH1Bold" text={t("title")} textCenter={true} />
+          <TextsVariants color="" variant="titleH1Bold" text={t("title")} textCenter={true} />
           <div className="max-w-[40.9375rem]">
-            <TextsVariants color="text-white" variant="titleBold" text={t("paragraph")} textCenter={true} />
+            <TextsVariants color="" variant="titleBold" text={t("paragraph")} textCenter={true} />
           </div>
           <Link onClick={handleScrollToContato} href={"#contato"} className={buttonVariants({ variant: "default" })}>
             {t("buttonText")}
