@@ -4,16 +4,11 @@ import React from "react";
 import SwitchWithIcon from "../ui/switchWithIcon";
 import Image from "next/image";
 import FontSizeSlider from "../ui/FontSizeSlider";
-import { NextImage } from "../ui/NextImage";
-import MouseSpeak from "../ui/MouseSpeak";
 import { useTranslations } from "next-intl";
 import { ComboboxLanguage } from "../ui/combobox-language";
-import { useTheme } from "next-themes";
-import BarToolsSkeleton from "../ui/BarToolsSkeleton";
 import { VLibrasIntegration } from "./VLibrasIntegration";
 import Link from "next/link";
-import { buttonVariants } from "../ui/button";
-import { LucideInstagram, LucideLinkedin } from "lucide-react";
+
 import { InstagramLogoIcon, LinkedInLogoIcon } from "@radix-ui/react-icons";
 
 export const CombinedHeader = ({ locale }: Readonly<{ locale: string }>) => {
@@ -23,7 +18,6 @@ export const CombinedHeader = ({ locale }: Readonly<{ locale: string }>) => {
   const sidebarRef = React.useRef<HTMLDivElement>(null);
   const [isMounted, setIsMounted] = React.useState<boolean>(false);
   const t = useTranslations("Header");
-  const { theme } = useTheme();
 
   React.useEffect(() => {
     setIsMounted(true);
@@ -73,7 +67,7 @@ export const CombinedHeader = ({ locale }: Readonly<{ locale: string }>) => {
   return (
     <header className="fixed top-0 left-0 right-0 z-50">
       <div
-        className={`relative flex justify-center  gap-4 items-center ${"bg-primary dark:bg-bg-marca100"} max-h-[3.125rem] overflow-hidden w-full px-4 py-1 my-0 mx-auto text-white `}
+        className={`relative flex justify-between gap-4 items-center ${"bg-primary dark:bg-bg-marca100"} max-h-[3.125rem] overflow-hidden w-full px-4 py-1 my-0 mx-auto text-white `}
       >
         <VLibrasIntegration />
         <div className="flex gap-4 text-white items-center">
@@ -91,6 +85,8 @@ export const CombinedHeader = ({ locale }: Readonly<{ locale: string }>) => {
           />
           {/* <MouseSpeak /> */}
           <ComboboxLanguage locale={locale} type="header" />
+        </div>
+        <div className="hidden md:flex gap-4">
           <Link
             href="https://www.linkedin.com/in/meninas-stem-petr%C3%B3polis-3a205033b/"
             target="_blank"

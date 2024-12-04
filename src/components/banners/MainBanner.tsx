@@ -7,11 +7,13 @@ import { useTranslations } from "next-intl";
 import { buttonVariants } from "@/components/ui/button";
 import Link from "next/link";
 import { useTheme } from "next-themes";
+import { Skeleton } from "../ui/skeleton";
 
 const MainBanner: FC = () => {
   const imageRef1 = React.useRef(null);
   const t = useTranslations("MainBanner");
   const { theme } = useTheme();
+  const [isMounted, setIsMounted] = React.useState<boolean>(false);
 
   const handleScrollToContato = (event: React.MouseEvent) => {
     event.preventDefault();
@@ -27,6 +29,14 @@ const MainBanner: FC = () => {
   const handleImageLoad = (ref: React.MutableRefObject<any>) => {
     ref.current.dataset.loaded = "true";
   };
+
+  React.useEffect(() => {
+    setIsMounted(true);
+  }, []);
+
+  if (!isMounted) {
+    return <Skeleton className="w-full h-auto aspect-[1440/900]" />;
+  }
 
   return (
     <div
