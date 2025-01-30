@@ -94,6 +94,7 @@ type GetState = {
   success: boolean;
   total?: number;
   items?: NewsType[];
+  news?: NewsType;
 };
 
 export type {

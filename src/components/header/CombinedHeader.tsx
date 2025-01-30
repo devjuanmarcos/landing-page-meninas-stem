@@ -11,6 +11,9 @@ import Link from "next/link";
 
 import { InstagramLogoIcon, LinkedInLogoIcon } from "@radix-ui/react-icons";
 import Header from "./Header";
+import { NextImage } from "../ui/NextImage";
+import BarToolsSkeleton from "../barra-acessibilidade/BarToolsSkeleton";
+import HeaderSkeleton from "./HeaderSkeleton";
 
 export const CombinedHeader = ({ locale }: Readonly<{ locale: string }>) => {
   const [dropdownVisible, setDropdownVisible] = React.useState(false);
@@ -62,7 +65,12 @@ export const CombinedHeader = ({ locale }: Readonly<{ locale: string }>) => {
   }
 
   if (!isMounted) {
-    return;
+    return (
+      <header className="fixed top-0 left-0 right-0 z-50">
+        <BarToolsSkeleton />
+        <HeaderSkeleton />
+      </header>
+    );
   }
 
   return (
@@ -72,6 +80,16 @@ export const CombinedHeader = ({ locale }: Readonly<{ locale: string }>) => {
       >
         <VLibrasIntegration />
         <div className="flex gap-4 text-white items-center">
+          <div className="hidden sm:flex gap-1 items-center text-end ">
+            <span className="flex flex-col text-sm justify-center">by</span>
+            <NextImage
+              imageUrl="/img/LOGO_INSTITUTO_BRANCA.png"
+              altImage={t("logo")}
+              ariaLabel={t("logo")}
+              sizes="100vw"
+              className="w-auto h-[1.625rem]"
+            />
+          </div>
           <span className="md:contents hidden h2-semibold text-[1.4rem]">{t("acessibilidade")}</span>
           <SwitchWithIcon />
           <FontSizeSlider />

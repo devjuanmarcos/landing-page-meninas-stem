@@ -46,7 +46,7 @@ export const SimpleTextWithBackgroundBanner: React.FC<SimpleImageWithTextBannerP
           textCenter={true}
           text={t("Noticias.bannerTitle")}
           variant="titleH1Bold"
-          extraClassName=" px-4 w-full border-b border-border text-start max-w-[33.875rem] ml-4"
+          extraClassName=" px-4 w-full border-b border-white text-start max-w-[33.875rem] ml-4"
           color="text-white"
         />
       </div>

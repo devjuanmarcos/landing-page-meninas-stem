@@ -24,3 +24,7 @@ async function getNewsWithParams(
 export async function findApprovedNews(params: SearchParamsType): Promise<AxiosResponse<Pagination<NewsType>>> {
   return getNewsWithParams("approved", params);
 }
+
+export async function findNewsById(id: string): Promise<AxiosResponse<NewsType>> {
+  return await api.get(`/news/news-id/${id}`);
+}

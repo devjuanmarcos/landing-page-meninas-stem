@@ -38,7 +38,7 @@ export const NewsBanner: React.FC = () => {
         const response = await getNewsAction(searchParams);
         const data = response.items as NewsType[];
         console.log("response", response, "Data: ", data);
-        if (data.length > 0) {
+        if (data && data.length > 0) {
           setNewsData(data);
           setPagination((prev) => ({ ...prev, totalItems: response.total }));
         } else {
@@ -64,7 +64,7 @@ export const NewsBanner: React.FC = () => {
       >
         <div className="relative w-full">
           <input
-            className="border border-primary rounded-xl bg-background h-9 placeholder:m-auto pl-2 w-full"
+            className="border border-primary rounded-lg bg-bg-marca100 h-9 placeholder:m-auto pl-2 w-full"
             placeholder={t("pesquisarPlaceholder")}
             onChange={(e) => setFindValue(e.target.value)}
             value={findValue}
@@ -83,7 +83,7 @@ export const NewsBanner: React.FC = () => {
             </button>
           )}
           <button
-            className="absolute right-0 top-0 h-9 border border-primary w-fit flex gap-2 items-center justify-center px-2  rounded-xl bg-background"
+            className="absolute right-0 top-0 h-9 border border-primary w-fit flex gap-2 items-center justify-center px-2  rounded-lg bg-bg-marca100"
             type="submit"
             onClick={() => {
               setTitle(findValue);
