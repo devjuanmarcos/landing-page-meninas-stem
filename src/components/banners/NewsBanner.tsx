@@ -37,6 +37,7 @@ export const NewsBanner: React.FC = () => {
       try {
         const response = await getNewsAction(searchParams);
         const data = response.items as NewsType[];
+        console.log("response", response, "Data: ", data);
         if (data.length > 0) {
           setNewsData(data);
           setPagination((prev) => ({ ...prev, totalItems: response.total }));

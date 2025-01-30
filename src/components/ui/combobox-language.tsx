@@ -209,7 +209,7 @@ export function ComboboxLanguage({
         <div className="relative flex items-center gap-1 cursor-pointer">
           <Image
             src={"/ico/google-translate.svg"}
-            alt={t("trocarIdioma")}
+            alt={t("Header.trocarIdioma")}
             height={32}
             width={32}
             className="text-white"

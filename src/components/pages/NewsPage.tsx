@@ -15,7 +15,7 @@ const NewsPage: React.FC = () => {
   }, []);
 
   return (
-    <div className="flex flex-col gap-5 mb-20">
+    <div className="flex flex-col gap-12 mb-20">
       <React.Suspense>
         <SimpleTextWithBackgroundBanner type="cover" />
       </React.Suspense>
