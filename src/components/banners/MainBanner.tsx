@@ -40,24 +40,24 @@ const MainBanner: FC = () => {
 
   return (
     <div
-      className="relative bg-no-repeat bg-cover flex justify-center items-center"
+      className="relative bg-no-repeat bg-cover flex flex-col justify-center items-center"
       style={{
         backgroundImage:
           theme == "light" ? `url(/img/wallpaper/meninasStemLIGHT.png)` : `url(/img/wallpaper/meninasStem.png)`,
       }}
     >
-      <div className="px-4 sm:px-6 md:px-[9.875rem]  absolute top-12 sm:top-32 w-full flex justify-center gap-4 section">
-        <Image
-          src={"/img/logoMeninasSTEM.png"}
-          alt="Logo Meninas STEM"
-          width={300}
-          height={200}
-          quality={100}
-          className="w-[10rem] sm:w-[16rem] h-auto mx-auto"
-        />
-      </div>
       <div className="flex flex-col items-center justify-center h-[90vh] overflow-hidden w-full">
         <div className="flex flex-col gap-4 items-center max-w-[60rem] relative">
+          <div className="px-4 sm:px-6 md:px-[9.875rem] w-full flex justify-center gap-4 section">
+            <Image
+              src={"/img/logoMeninasSTEM.png"}
+              alt="Logo Meninas STEM"
+              width={300}
+              height={200}
+              quality={100}
+              className="w-[10rem] sm:w-[16rem] h-auto mx-auto"
+            />
+          </div>
           <TextsVariants
             color=""
             text={t("topTitle")}

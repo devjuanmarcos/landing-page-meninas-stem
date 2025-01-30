@@ -181,6 +181,13 @@
     "paragraph": "Para entrar em contato conosco, envie uma mensagem para o nosso e-mail meninasstempetropolis@gmail.com. Respondemos o mais rápido possível!"
   },
 
+  "Noticias": {
+    "bannerTitle": "Notícias",
+    "pesquisarPlaceholder": "Insira o título da notícia aqui",
+    "pesquisarBotao": "Pesquisar",
+    "ariaLabelLimpar": "Limpar pesquisa"
+  },
+
   "Outros": {
     "ondinhas": "Grafismo de onda"
   }

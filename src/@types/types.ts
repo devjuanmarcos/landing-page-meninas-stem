@@ -48,6 +48,54 @@ type IconTextCardType = {
   icon: IconType | ElementType;
 };
 
+type MetaPagination = {
+  currentPage: number;
+  itemsPerPage: number;
+  totalItems: number;
+  totalPages: number;
+};
+
+type Pagination<T> = {
+  items?: T[];
+  pagination: MetaPagination;
+};
+
+type NewsType = {
+  id: string;
+  title: string;
+  paragraphs: string[];
+  sources: string[];
+  category: string;
+  summary: string;
+  images: string[];
+  image_alt: string[];
+  approved: boolean;
+  archived: boolean;
+  user_id: string;
+  created_at: string;
+  updated_at: string;
+  views: number;
+  author_name: string;
+  author_email: string;
+  categoryLabel: string;
+};
+
+type SearchParamsType = {
+  page: number;
+  size: number;
+  title: string;
+  startDate: string;
+  endDate: string;
+  category: string;
+};
+
+type GetState = {
+  message: string;
+  success: boolean;
+  total?: number;
+  items?: NewsType[];
+};
+
 export type {
   NextImageType,
   IconProps,
@@ -55,4 +103,9 @@ export type {
   InnovationInMovieSectionType,
   ItemCarouselType,
   IconTextCardType,
+  NewsType,
+  SearchParamsType,
+  GetState,
+  Pagination,
+  MetaPagination,
 };

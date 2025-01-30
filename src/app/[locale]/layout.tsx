@@ -8,6 +8,10 @@ import { Nunito, Martel, Montserrat } from "next/font/google";
 import { Footer } from "@/components/footer/footer";
 import { NextIntlClientProvider, useMessages } from "next-intl";
 import CombinedHeader from "@/components/header/CombinedHeader";
+import { GeistSans } from "geist/font/sans";
+import { Toaster } from "sonner";
+import { getMessages } from "next-intl/server";
+import { SortProvider } from "@/context/SortContext";
 
 const APP_NAME = "Meninas STEM";
 const APP_DEFAULT_TITLE = "Meninas STEM";
@@ -69,18 +73,18 @@ const martel = Martel({
   weight: ["400", "700"],
 });
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
   params,
 }: Readonly<{
   children: React.ReactNode;
   params: { locale: string };
 }>) {
-  const messages = useMessages();
+  const messages = await getMessages(params.locale as any);
 
   return (
     <html
-      className="transition-all h-full w-full scrollbar-thin scrollbar-webkit duration-200 ease-in-out"
+      className={`${GeistSans.variable} transition-all h-full w-full scrollbar-thin scrollbar-webkit duration-200 ease-in-out`}
       suppressHydrationWarning
       lang={params.locale}
     >
@@ -89,13 +93,15 @@ export default function RootLayout({
         <NextIntlClientProvider messages={messages} locale={params.locale}>
           <WindowSizeProvider>
             <HtmlFontSizeProvider>
-              <ThemeProvider defaultTheme="dark" attribute="class" enableSystem={false}>
-                <div className="header">
-                  <CombinedHeader locale={params.locale} />
-                </div>
-                <main className="">{children}</main>
-                <Footer />
-              </ThemeProvider>
+              <SortProvider>
+                <ThemeProvider defaultTheme="dark" attribute="class" enableSystem={false}>
+                  <div className="header">
+                    <CombinedHeader locale={params.locale} />
+                  </div>
+                  <main className="">{children}</main>
+                  <Footer />
+                </ThemeProvider>
+              </SortProvider>
             </HtmlFontSizeProvider>
           </WindowSizeProvider>
         </NextIntlClientProvider>

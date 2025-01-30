@@ -37,7 +37,7 @@ const nextConfig = {
         pathname: "/**",
       },
     ],
-    domains: ["i.ytimg.com", "biomobtinastorage.blob.core.windows.net", "img.youtube.com"],
+    domains: ["i.ytimg.com", "biomobtinastorage.blob.core.windows.net", "img.youtube.com", "biomob-api.com"],
   },
 };
 

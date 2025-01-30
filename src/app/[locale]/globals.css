@@ -184,7 +184,6 @@
   .cta {
     font-size: 0.875rem;
     font-weight: 132%;
-    color: rgb(var(--var-verde-300));
   }
 
   @media (max-width: 480px) {

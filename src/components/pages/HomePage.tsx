@@ -133,7 +133,7 @@ const HomePage: React.FC = () => {
 
       <div className="flex flex-col border border-border gap-8 md:gap-24 items-center justify-center w-full bg-bg-marca100 rounded-[2.5rem] sm:rounded-[7rem] mt-[-6.25rem]  lg:py-[6.25rem] py-[4.0625rem]  z-10 mb-16">
         <ScaleCarouselBanner />
-        <SimpleTextWithBackgroundBanner />
+        <SimpleTextWithBackgroundBanner type="normal" />
         <SimpleImageWithTextBanner
           type="row-reverse"
           title={MetodologiaBanner("title")}
