@@ -54,9 +54,9 @@ export const Header = () => {
         <NavLink href="/noticias" isActive={isActive("/noticias")}>
           Notícias
         </NavLink>
-        <NavLink href="/eventos" isActive={isActive("/eventos")}>
+        {/* <NavLink href="/eventos" isActive={isActive("/eventos")}>
           Eventos
-        </NavLink>
+        </NavLink> */}
       </nav>
 
       <Link href="/pt" className="text-xl font-bold">
@@ -87,9 +87,9 @@ export const Header = () => {
             <NavLink href="/noticias" isActive={isActive("/noticias")} onClick={() => setIsOpen(false)}>
               Notícias
             </NavLink>
-            <NavLink href="/eventos" isActive={isActive("/eventos")} onClick={() => setIsOpen(false)}>
+            {/* <NavLink href="/eventos" isActive={isActive("/eventos")} onClick={() => setIsOpen(false)}>
               Eventos
-            </NavLink>
+            </NavLink> */}
           </motion.div>
         )}
       </AnimatePresence>

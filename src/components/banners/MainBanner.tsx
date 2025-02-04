@@ -58,13 +58,13 @@ const MainBanner: FC = () => {
               className="w-[10rem] sm:w-[16rem] h-auto mx-auto"
             />
           </div>
-          <TextsVariants
+          {/* <TextsVariants
             color=""
             text={t("topTitle")}
             variant="topTitle"
             showLine={false}
             extraClassName="text-center"
-          />
+          /> */}
           <TextsVariants color="" variant="titleH1Bold" text={t("title")} textCenter={true} />
           <div className="max-w-[40.9375rem]">
             <TextsVariants color="" variant="titleBold" text={t("paragraph")} textCenter={true} />
