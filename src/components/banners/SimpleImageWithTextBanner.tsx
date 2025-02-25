@@ -78,7 +78,7 @@ export const SimpleImageWithTextBanner: React.FC<SimpleImageWithTextBannerProps>
               width={706}
               height={435}
               quality={100}
-              className="rounded-[1.25rem] mt-8 mx-auto object-cover w-full bg-cover"
+              className="rounded-[1.25rem] mt-8 mx-auto object-cover w-full bg-cover max-h-[44rem]"
             />
           )}
         </>
