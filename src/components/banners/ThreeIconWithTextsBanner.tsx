@@ -28,7 +28,7 @@ export const ThreeIconWithTextsBanner: React.FC<ThreeIconWithTextBannersProps> =
         {topTitle && title && (
           <TextsVariants textCenter={true} text={topTitle} variant={"topTitle"} showLine={true} subtitle={title} />
         )}
-        {paragraph && <TextsVariants text={paragraph} variant="bannerParagraph" extraClassName="max-w-[60rem]" />}
+        {paragraph && <TextsVariants text={paragraph} variant="bannerParagraph" extraClassName="max-w-[80rem]" />}
       </div>
       <div className="flex flex-wrap [&>*]:max-w-[20rem] items-start justify-center gap-20 max-w-screen-xl">
         {iconsCards.map((iconCard: IconWithTextBannersProps) => (

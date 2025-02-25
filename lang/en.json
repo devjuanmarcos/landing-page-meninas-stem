@@ -90,9 +90,14 @@
     "paragraph": "The project aims to encourage technological literacy between students and educators, promoting an inclusive culture in the exact sciences.",
     "altImage": "Girls stem"
   },
+  "ProjetoBanner": {
+    "title": "Stem Girls Project - Petrópolis Tec Hub",
+    "paragraph": "Join our supporter network and participate in a project to include girls in science and technology! Fill out the form and indicate how you would like to contribute:",
+    "altImage": "Girls stem"
+  },
   "ComoBanner": "The project uses the Scratch platform to teach programming in a playful and interdisciplinary way, incorporating debates on gender, human rights and inequalities.",
   "MetodologiaBanner": {
-    "title": "Motodologia",
+    "title": "Methodology",
     "paragraph": "The project aims to encourage technological literacy between students and educators, promoting an inclusive culture in the exact sciences.",
     "altImage": "Girls stem"
   },
@@ -107,10 +112,10 @@
       },
       {
         "title": "SERRATEC",
-        "description": "Serratec is a non -profit technology park in the interior of Rio de Janeiro, acting as an IT business inductor and covering the cities of Petrópolis, Teresópolis, Nova Friburgo and Areal."
+        "description": "Serratec is a non -profit technology park in the interior of the state of Rio de Janeiro, acting as a business inductor in IT and covering the cities of Petrópolis, Teresópolis, Nova Friburgo and Areal."
       },
       {
-        "title": "FAETERJ PETROPOLIS",
+        "title": "FAETEJ PETROPOLIS",
         "description": "Faeterj Petrópolis is a public higher education institution linked to Faetec, offering technical and higher courses in various areas."
       },
       {
@@ -161,7 +166,7 @@
   "QuemParticipaBanner": {
     "topTitle": "Part",
     "title": "Who participates?",
-    "paragraph": "Students will be selected from the 8th and 9th anniversary of Elementary School II and the 1st, 2nd and 3rd years of high school, following the criteria of the project, together with at least one teacher of each of the participating schools. Scholarship holders will be involved in the following activities and objectives:",
+    "paragraph": "Students will be selected from the 8th and 9th anniversary of Elementary School II and the 1st, 2nd and 3rd years of high school, following the criteria of the project, together with at least one teacher of each of the participating schools. Fellows will be involved in the following activities and objectives:",
     "iconCards": [
       {
         "title": "Learning on Programming"
@@ -187,6 +192,12 @@
     "topTitle": "contact",
     "title": "Contact us",
     "paragraph": "To contact us, send a message to our e-mail girlstempetropolis@gmail.com. We respond as soon as possible!"
+  },
+  "Noticias": {
+    "bannerTitle": "News",
+    "pesquisarPlaceholder": "Enter the news title here",
+    "pesquisarBotao": "To look for",
+    "ariaLabelLimpar": "Seamper"
   },
   "Outros": {
     "ondinhas": "Wave"

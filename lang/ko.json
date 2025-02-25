@@ -90,9 +90,14 @@
     "paragraph": "이 프로젝트는 학생과 교육자 사이의 기술 문해력을 장려하여 정확한 과학의 포괄적 인 문화를 장려하는 것을 목표로합니다.",
     "altImage": "여자 줄기"
   },
+  "ProjetoBanner": {
+    "title": "STEM GIRLS PROJECT -PETRópolis Tec Hub",
+    "paragraph": "서포터 네트워크에 가입하고 과학 및 기술에 소녀들을 포함시키기 위해 프로젝트에 참여하십시오! 양식을 작성하고 귀하가 어떻게 기여하고 싶은지 표시하십시오.",
+    "altImage": "여자 줄기"
+  },
   "ComoBanner": "이 프로젝트는 스크래치 플랫폼을 사용하여 성별, 인권 및 불평등에 대한 토론을 통합하여 장난스럽고 학제 간 방식으로 프로그래밍을 가르칩니다.",
   "MetodologiaBanner": {
-    "title": "Motodologia",
+    "title": "방법론",
     "paragraph": "이 프로젝트는 학생과 교육자 사이의 기술 문해력을 장려하여 정확한 과학의 포괄적 인 문화를 장려하는 것을 목표로합니다.",
     "altImage": "여자 줄기"
   },
@@ -107,10 +112,10 @@
       },
       {
         "title": "Serratec",
-        "description": "Serratec은 Rio de Janeiro 내부의 비영리 기술 공원으로 IT 비즈니스 인덕터 역할을하며 Petrópolis, Teresópolis, Nova Friburgo 및 Areal의 도시를 덮고 있습니다."
+        "description": "Serratec은 리우데 자네이루 (Rio de Janeiro) 주 내부에있는 비영리 기술 공원으로, 비즈니스 인덕터 역할을하며 Petrópolis, Teresópolis, Nova Friburgo 및 Areal의 도시를 덮고 있습니다."
       },
       {
-        "title": "Faeterj Petropolis",
+        "title": "Faetej Petropolis",
         "description": "Faeterj Petrópolis는 FAETEC와 관련된 공공 고등 교육 기관으로 다양한 분야에서 기술 및 고등 과정을 제공합니다."
       },
       {
@@ -135,7 +140,7 @@
       },
       {
         "title": "TJ-RJ",
-        "description": "리우데 자네이로 법원 (TJ-RJ)은 전체 Fluminense 영토에 대한 관할권을 가진 국가의 정의 행정을 담당합니다."
+        "description": "리우데 자네이루 법원 (TJ-RJ)은 전체 Fluminense 영토에 대한 관할권을 가진 국가의 정의 행정을 담당합니다."
       },
       {
         "title": "Petrópolis 시청",
@@ -161,7 +166,7 @@
   "QuemParticipaBanner": {
     "topTitle": "부분",
     "title": "누가 참여합니까?",
-    "paragraph": "초등학교 II의 8 학년과 9 학년과 9 학년과 고등학교의 1, 2, 3 년은 프로젝트 기준에 따라 각 참여 학교의 최소 한 명의 교사와 함께 선정됩니다. 장학금 소지자는 다음 활동과 목표에 참여합니다.",
+    "paragraph": "학생들은 초등학교 II의 8 주년과 9 주년과 고등학교의 1, 2, 3 년차에 선정되며, 프로젝트 기준에 따라 각 학교의 최소 한 명의 교사와 함께 프로젝트 기준에 따라 선정됩니다. 펠로우는 다음 활동과 목표에 참여할 것입니다.",
     "iconCards": [
       {
         "title": "프로그래밍에 대한 학습"
@@ -187,6 +192,12 @@
     "topTitle": "연락하다",
     "title": "저희에게 연락하십시오",
     "paragraph": "저희에게 연락하려면 이메일 Girlstempetropolis@gmail.com으로 메시지를 보내십시오. 우리는 가능한 빨리 응답합니다!"
+  },
+  "Noticias": {
+    "bannerTitle": "소식",
+    "pesquisarPlaceholder": "여기에 뉴스 제목을 입력하십시오",
+    "pesquisarBotao": "찾기 위해",
+    "ariaLabelLimpar": "이임퍼"
   },
   "Outros": {
     "ondinhas": "파도"

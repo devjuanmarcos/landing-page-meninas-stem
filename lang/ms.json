@@ -90,9 +90,14 @@
     "paragraph": "Projek ini bertujuan untuk menggalakkan literasi teknologi antara pelajar dan pendidik, mempromosikan budaya inklusif dalam sains yang tepat.",
     "altImage": "Gadis batang"
   },
+  "ProjetoBanner": {
+    "title": "Projek STEM Girls - Petrópolis Tec Hub",
+    "paragraph": "Sertai rangkaian penyokong kami dan turut serta dalam projek untuk memasukkan gadis dalam sains dan teknologi! Isi borang dan nyatakan bagaimana anda ingin menyumbang:",
+    "altImage": "Gadis batang"
+  },
   "ComoBanner": "Projek ini menggunakan platform awal untuk mengajar pengaturcaraan dengan cara yang suka bermain dan interdisipliner, menggabungkan perdebatan mengenai jantina, hak asasi manusia dan ketidaksamaan.",
   "MetodologiaBanner": {
-    "title": "Motodologia",
+    "title": "Metodologi",
     "paragraph": "Projek ini bertujuan untuk menggalakkan literasi teknologi antara pelajar dan pendidik, mempromosikan budaya inklusif dalam sains yang tepat.",
     "altImage": "Gadis batang"
   },
@@ -110,16 +115,16 @@
         "description": "Serratec adalah taman teknologi bukan keuntungan di pedalaman Rio de Janeiro, bertindak sebagai induktor perniagaan IT dan meliputi bandar -bandar Petrópolis, Teresópolis, Nova Friburgo dan Areal."
       },
       {
-        "title": "Faeterj petropolis",
+        "title": "Faetej Petropolis",
         "description": "Faeterj Petrópolis adalah institusi pengajian tinggi awam yang dikaitkan dengan Faetec, yang menawarkan kursus teknikal dan lebih tinggi di pelbagai bidang."
       },
       {
         "title": "Cefet/rj uned petrópolis",
-        "description": "CEFET/RJ Petrópolis adalah institusi pengajian tinggi awam yang pertama di bandar, menawarkan kursus -kursus di wajah -face -face modality dan kepunyaan sistem CEFET/RJ."
+        "description": "CEFET/RJ Petrópolis adalah institusi pendidikan tinggi awam yang pertama di bandar, yang menawarkan kursus -kursus di wajah -face -face modality dan kepunyaan sistem CEFET/RJ."
       },
       {
         "title": "Uff",
-        "description": "Universiti Persekutuan Fluminense (UFF) adalah institusi pengajian tinggi awam rujukan kebangsaan, yang berdiri di pelbagai bidang pengetahuan."
+        "description": "Universiti Persekutuan Fluminense (UFF) adalah Institusi Pendidikan Tinggi Awam Rujukan Kebangsaan, yang berdiri di pelbagai bidang pengetahuan."
       },
       {
         "title": "UFBA",
@@ -127,7 +132,7 @@
       },
       {
         "title": "Biomob",
-        "description": "Biomob mengkhususkan diri dalam penyelesaian aksesibiliti dan projek sosial, yang memberi tumpuan kepada mempromosikan masyarakat yang lebih inklusif dan egalitarian."
+        "description": "Biomob mengkhususkan diri dalam penyelesaian aksesibiliti dan projek sosial, memberi tumpuan kepada mempromosikan masyarakat yang lebih inklusif dan egalitarian."
       },
       {
         "title": "Quipotec",
@@ -161,7 +166,7 @@
   "QuemParticipaBanner": {
     "topTitle": "Bahagian",
     "title": "Siapa yang mengambil bahagian?",
-    "paragraph": "Pelajar akan dipilih dari ulang tahun ke -8 dan ke -9 Sekolah Rendah II dan tahun ke -1, ke -2 dan ke -3 sekolah menengah, berikutan kriteria projek, bersama -sama dengan sekurang -kurangnya seorang guru dari setiap sekolah yang mengambil bahagian. Pemegang biasiswa akan terlibat dalam aktiviti dan objektif berikut:",
+    "paragraph": "Pelajar akan dipilih dari ulang tahun ke -8 dan ke -9 Sekolah Rendah II dan tahun ke -1, ke -2 dan ke -3 sekolah menengah, berikutan kriteria projek, bersama -sama dengan sekurang -kurangnya seorang guru dari setiap sekolah yang mengambil bahagian. Fellows akan terlibat dalam aktiviti dan objektif berikut:",
     "iconCards": [
       {
         "title": "Belajar pada pengaturcaraan"
@@ -187,6 +192,12 @@
     "topTitle": "hubungi",
     "title": "Hubungi kami",
     "paragraph": "Untuk menghubungi kami, hantar mesej ke girlstempetropolis@gmail.com e-mel kami. Kami bertindak balas secepat mungkin!"
+  },
+  "Noticias": {
+    "bannerTitle": "Berita",
+    "pesquisarPlaceholder": "Masukkan tajuk berita di sini",
+    "pesquisarBotao": "Untuk mencari",
+    "ariaLabelLimpar": "Pelaut"
   },
   "Outros": {
     "ondinhas": "Gelombang"

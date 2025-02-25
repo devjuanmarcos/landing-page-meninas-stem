@@ -54,7 +54,7 @@
     "Vietnamese": "越南人",
     "Telugu": "泰盧固語",
     "Cantonese": "廣州話",
-    "Marathi": "馬拉提",
+    "Marathi": "馬拉蒂",
     "Tamil": "泰米爾文",
     "Turkish": "土耳其文",
     "Urdu": "urdu",
@@ -90,9 +90,14 @@
     "paragraph": "項目旨在鼓勵學生與教育工作者之間科技素養，促進精確科學中包容文化。",
     "altImage": "女仔茎"
   },
+  "ProjetoBanner": {
+    "title": "幹女生計劃 - 彼得羅波利斯 · 特克樞紐",
+    "paragraph": "加入我哋嘅支持網絡，參與一個項目，包括科技女生！ 填寫表格，同埋指出你想點樣貢獻 :",
+    "altImage": "女仔茎"
+  },
   "ComoBanner": "呢個項目係用 Scratch 平台以玩味同跨學科嘅方式去教編程，納入性別、人權同不平等嘅辯論。",
   "MetodologiaBanner": {
-    "title": "莫托科科",
+    "title": "方法論",
     "paragraph": "項目旨在鼓勵學生與教育工作者之間科技素養，促進精確科學中包容文化。",
     "altImage": "女仔茎"
   },
@@ -110,7 +115,7 @@
         "description": "塞拉特係里約熱內盧內部嘅非牟利科技公園，擔任 IT 商業電感器，亦覆蓋咗彼得羅波利斯、特雷索波利斯、新弗里伯諾同阿雷爾嘅城市。"
       },
       {
-        "title": "福特爾吉 · 佩特羅波利斯",
+        "title": "費蒂吉 · 佩特羅波利斯",
         "description": "Feeterj Petrópolis 係一個同 Feetec 有關嘅公共高等教育機構，喺唔同領域提供技術同更高嘅課程。"
       },
       {
@@ -161,7 +166,7 @@
   "QuemParticipaBanner": {
     "topTitle": "部分",
     "title": "邊個參與？",
-    "paragraph": "學生將從小學 8 、 9 週年及高中 1 、 2 、 3 年級，按照項目標準，與每間參與學校至少一位教師一齊入選。 獎學金持有人將參與以下活動及目標 : 1.",
+    "paragraph": "學生將從小學 8 、 9 週年及高中 1 、 2 、 3 年級，按照項目標準，與每間參與學校至少一位教師一齊入選。 同學會參與以下活動同目標 : 1.",
     "iconCards": [
       {
         "title": "學習編程"
@@ -187,6 +192,12 @@
     "topTitle": "聯絡",
     "title": "聯絡我哋",
     "paragraph": "要聯絡我哋，請向我哋嘅電郵女生 stempropos @ gmail . com 發送訊息。 我哋盡快回應！"
+  },
+  "Noticias": {
+    "bannerTitle": "新聞",
+    "pesquisarPlaceholder": "喺呢度輸入新聞標題",
+    "pesquisarBotao": "要搵",
+    "ariaLabelLimpar": "辛特姆"
   },
   "Outros": {
     "ondinhas": "波浪"

@@ -90,9 +90,14 @@
     "paragraph": "Proje, öğrenciler ve eğitimciler arasında teknolojik okuryazarlığı teşvik etmeyi ve tam bilimlerde kapsayıcı bir kültürü teşvik etmeyi amaçlamaktadır.",
     "altImage": "Kızlar sap"
   },
+  "ProjetoBanner": {
+    "title": "STEM Girls Project - Petrópolis Tec Hub",
+    "paragraph": "Destekçi ağımıza katılın ve kızları bilim ve teknolojiye dahil etmek için bir projeye katılın! Formu doldurun ve nasıl katkıda bulunmak istediğinizi belirtin:",
+    "altImage": "Kızlar sap"
+  },
   "ComoBanner": "Proje, programlamayı, cinsiyet, insan hakları ve eşitsizlikler üzerine tartışmalar içeren eğlenceli ve disiplinlerarası bir şekilde öğretmek için Scratch platformunu kullanıyor.",
   "MetodologiaBanner": {
-    "title": "Motodoloji",
+    "title": "Metodoloji",
     "paragraph": "Proje, öğrenciler ve eğitimciler arasında teknolojik okuryazarlığı teşvik etmeyi ve tam bilimlerde kapsayıcı bir kültürü teşvik etmeyi amaçlamaktadır.",
     "altImage": "Kızlar sap"
   },
@@ -110,11 +115,11 @@
         "description": "Serratec, Rio de Janeiro'nun iç kısmında, BT iş indüktörü olarak görev yapan ve Petrópolis, Teresópolis, Nova Friburgo ve Areal şehirlerini kapsayan kar amacı gütmeyen bir teknoloji parkıdır."
       },
       {
-        "title": "Faeterj Petropolis",
+        "title": "Faetej Petropolis",
         "description": "Faeterj Petrópolis, FAETEC ile bağlantılı bir kamu yükseköğretim kurumudur ve çeşitli alanlarda teknik ve yüksek dersler sunmaktadır."
       },
       {
-        "title": "Cefet/rj uned petrópolis",
+        "title": "Cefet/RJ Uned Petrópolis",
         "description": "CEFET/RJ Petrópolis, şehirdeki ilk kamu yüksek öğrenim kurumudur ve yüz yüze modalitede ve CEFET/RJ sistemine ait kurslar sunmaktadır."
       },
       {
@@ -161,7 +166,7 @@
   "QuemParticipaBanner": {
     "topTitle": "Parça",
     "title": "Kim Katılır?",
-    "paragraph": "Öğrenciler, ilkokul II'nin 8. ve 9. yıldönümlerinden ve projenin kriterlerini takip ederek, katılımcı okulların her birinin en az bir öğretmeni ile birlikte lisenin 1., 2. ve 3. yılından seçilecektir. Burs sahipleri aşağıdaki faaliyetlere ve hedeflere katılacaktır:",
+    "paragraph": "Öğrenciler, ilkokul II'nin 8. ve 9. yıldönümlerinden ve projenin kriterlerini takip ederek, katılımcı okulların her birinin en az bir öğretmeni ile birlikte lisenin 1., 2. ve 3. yılından seçilecektir. Bursiyerler aşağıdaki faaliyetlere ve hedeflere katılacaktır:",
     "iconCards": [
       {
         "title": "Programlama konusunda öğrenme"
@@ -187,6 +192,12 @@
     "topTitle": "temas etmek",
     "title": "Bize Ulaşın",
     "paragraph": "Bizimle iletişime geçmek için e-posta Girlstempetropolis@gmail.com'a bir mesaj gönderin. Mümkün olan en kısa sürede cevap veriyoruz!"
+  },
+  "Noticias": {
+    "bannerTitle": "Haberler",
+    "pesquisarPlaceholder": "Haber başlığını buraya girin",
+    "pesquisarBotao": "Aramak için",
+    "ariaLabelLimpar": "Terbiyeci"
   },
   "Outros": {
     "ondinhas": "Dalga"

@@ -90,9 +90,14 @@
     "paragraph": "Das Projekt zielt darauf ab, die technologische Kompetenz zwischen Studenten und Pädagogen zu fördern und eine integrative Kultur in den genauen Wissenschaften zu fördern.",
     "altImage": "Mädchen Stamm"
   },
+  "ProjetoBanner": {
+    "title": "STEM Girls Project - Petrópolis TEC Hub",
+    "paragraph": "Treten Sie unserem Unterstützer -Netzwerk bei und nehmen Sie an einem Projekt teil, um Mädchen in Wissenschaft und Technologie einzubeziehen! Füllen Sie das Formular aus und geben Sie an, wie Sie einen Beitrag leisten möchten:",
+    "altImage": "Mädchen Stamm"
+  },
   "ComoBanner": "Das Projekt nutzt die Scratch -Plattform, um Programmierung auf spielerische und interdisziplinäre Weise zu unterrichten und Debatten über Geschlecht, Menschenrechte und Ungleichheiten zu berücksichtigen.",
   "MetodologiaBanner": {
-    "title": "Motodologia",
+    "title": "Methodik",
     "paragraph": "Das Projekt zielt darauf ab, die technologische Kompetenz zwischen Studenten und Pädagogen zu fördern und eine integrative Kultur in den genauen Wissenschaften zu fördern.",
     "altImage": "Mädchen Stamm"
   },
@@ -110,7 +115,7 @@
         "description": "Serratec ist ein nicht profitierender Technologiepark im Inneren von Rio de Janeiro, der als IT -Business -Induktor fungiert und die Städte Petrópolis, Teresópolis, Nova Friburgo und Areal abdeckt."
       },
       {
-        "title": "Faeterj Petroolis",
+        "title": "Faetej Petroolis",
         "description": "Faeterj Petrópolis ist eine öffentliche Hochschuleinrichtung, die mit FAETEC verbunden ist und technische und höhere Kurse in verschiedenen Bereichen bietet."
       },
       {
@@ -150,7 +155,7 @@
   "OqueSeEsperaBanner": {
     "topTitle": "SUCHEN",
     "title": "Was wird vom Projekt erwartet?",
-    "paragraph": "Das Projekt versucht, die Vorstellungskraft und das Selbstwertgefühl der Mädchen zu stärken, den Ausfall zu bekämpfen und zur Konstruktion einer gerechteren Gesellschaft beizutragen. Es wird erwartet, dass die weibliche Teilnahme an STEM anregt und erweitert wird und gleichzeitig die Stigmen und Diskriminierung reduziert.",
+    "paragraph": "Das Projekt versucht, die Vorstellungskraft und das Selbstwertgefühl der Mädchen zu stärken, den Ausfall zu bekämpfen und zum Aufbau einer gerechteren Gesellschaft beizutragen. Es wird erwartet, dass die weibliche Teilnahme an STEM anregt und erweitert wird und gleichzeitig die Stigmen und Diskriminierung reduziert.",
     "altImage": {
       "text": "",
       "from": "auto",
@@ -161,7 +166,7 @@
   "QuemParticipaBanner": {
     "topTitle": "Teil",
     "title": "Wer beteiligt sich?",
-    "paragraph": "Die Schüler werden vom 8. und 9. Jahrestag der Grundschule II und der 1., 2. und 3. Jahre der High School nach den Kriterien des Projekts zusammen mit mindestens einem Lehrer jeder der teilnehmenden Schulen ausgewählt. Stipendieninhaber werden an folgenden Aktivitäten und Zielen beteiligt sein:",
+    "paragraph": "Die Schüler werden vom 8. und 9. Jahrestag der Grundschule II und der 1., 2. und 3. Jahre der High School nach den Kriterien des Projekts zusammen mit mindestens einem Lehrer jeder der teilnehmenden Schulen ausgewählt. Die Fellows werden an folgenden Aktivitäten und Zielen beteiligt sein:",
     "iconCards": [
       {
         "title": "Beim Programmieren lernen"
@@ -187,6 +192,12 @@
     "topTitle": "Kontakt",
     "title": "Kontaktieren Sie uns",
     "paragraph": "Um uns zu kontaktieren, senden Sie eine Nachricht an unsere E-Mail-GirlStempetropolis@gmail.com. Wir antworten so schnell wie möglich!"
+  },
+  "Noticias": {
+    "bannerTitle": "Nachricht",
+    "pesquisarPlaceholder": "Geben Sie hier den Nachrichtentitel ein",
+    "pesquisarBotao": "Nach suchen",
+    "ariaLabelLimpar": "Nahper"
   },
   "Outros": {
     "ondinhas": "Welle"

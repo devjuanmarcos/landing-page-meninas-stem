@@ -77,7 +77,7 @@
   "MainBanner": {
     "topTitle": "Toekomstige wetenschappers vormen",
     "title": "Meisjes stelen",
-    "paragraph": "Impact meisjes die, nog op school, worden geconfronteerd met de uitdagingen voor hun betrokkenheid in de wetenschapsgebieden",
+    "paragraph": "Impact meisjes die, nog op school, worden geconfronteerd met de uitdagingen voor hun betrokkenheid bij de wetenschappen",
     "buttonText": "Contact"
   },
   "OQueEBanner": {
@@ -90,9 +90,14 @@
     "paragraph": "Het project is bedoeld om technologische geletterdheid tussen studenten en opvoeders aan te moedigen, een inclusieve cultuur te promoten in de exacte wetenschappen.",
     "altImage": "Meisjes stelen"
   },
+  "ProjetoBanner": {
+    "title": "STEM Girls Project - Petrópolis TEC Hub",
+    "paragraph": "Word lid van ons supporternetwerk en neem deel aan een project met meisjes in wetenschap en technologie! Vul het formulier in en geef aan hoe u wilt bijdragen:",
+    "altImage": "Meisjes stelen"
+  },
   "ComoBanner": "Het project gebruikt het krasplatform om programmeren op een speelse en interdisciplinaire manier te onderwijzen, met debatten over geslacht, mensenrechten en ongelijkheden.",
   "MetodologiaBanner": {
-    "title": "Motodologia",
+    "title": "Methodologie",
     "paragraph": "Het project is bedoeld om technologische geletterdheid tussen studenten en opvoeders aan te moedigen, een inclusieve cultuur te promoten in de exacte wetenschappen.",
     "altImage": "Meisjes stelen"
   },
@@ -110,7 +115,7 @@
         "description": "Serratec is een niet -profit technologiepark in het interieur van Rio de Janeiro, die fungeert als een IT -zakelijke inductor en de steden Petrópolis, Teresópolis, Nova Friburgo en Areal."
       },
       {
-        "title": "Faeterj petropolis",
+        "title": "Faetej petropolis",
         "description": "Faeterj Petrópolis is een openbare instelling voor hoger onderwijs gekoppeld aan FAetec en biedt technische en hogere cursussen op verschillende gebieden."
       },
       {
@@ -161,7 +166,7 @@
   "QuemParticipaBanner": {
     "topTitle": "Deel",
     "title": "Wie neemt er deel aan?",
-    "paragraph": "De 8e en 9e graden van de basisschool II en de 1e, 2e en 3e jaar van de middelbare school zullen worden geselecteerd, na de projectcriteria, samen met ten minste één leraar van elk van de deelnemende scholen. Scholarshiphouders zullen betrokken zijn bij de volgende activiteiten en doelstellingen:",
+    "paragraph": "Studenten worden geselecteerd uit het 8e en 9e verjaardag van de basisschool II en de 1e, 2e en 3e jaar van de middelbare school, na de criteria van het project, samen met ten minste één leraar van elk van de deelnemende scholen. Fellows zullen worden betrokken bij de volgende activiteiten en doelstellingen:",
     "iconCards": [
       {
         "title": "Leren over programmeren"
@@ -187,6 +192,12 @@
     "topTitle": "contact",
     "title": "Neem contact met ons op",
     "paragraph": "Stuur een bericht naar onze e-mail girlstempetropolis@gmail.com om contact met ons op te nemen. We reageren zo snel mogelijk!"
+  },
+  "Noticias": {
+    "bannerTitle": "Nieuws",
+    "pesquisarPlaceholder": "Voer hier de nieuwstitel in",
+    "pesquisarBotao": "Om te zoeken",
+    "ariaLabelLimpar": "Zeemper"
   },
   "Outros": {
     "ondinhas": "Golf"

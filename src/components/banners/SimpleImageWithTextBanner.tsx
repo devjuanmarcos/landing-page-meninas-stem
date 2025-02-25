@@ -2,6 +2,9 @@ import Image from "next/image";
 import TextsVariants from "../texts/TextsVariants";
 import { handleImageLoad } from "@/utils/handleImageLoad";
 import React from "react";
+import Link from "next/link";
+import { buttonVariants } from "../ui/button";
+import { Link2Icon } from "lucide-react";
 
 type ButtonContent = {
   text: string;
@@ -16,6 +19,7 @@ type SimpleImageWithTextBannerProps = {
   paragraph?: string;
   button?: ButtonContent;
   image?: string;
+  link?: string;
   altImage?: string;
 };
 
@@ -26,25 +30,31 @@ export const SimpleImageWithTextBanner: React.FC<SimpleImageWithTextBannerProps>
   title,
   image,
   altImage,
+  link,
 }) => {
   const imageRef1 = React.useRef<HTMLImageElement | null>(null);
 
   const commonContainerClasses =
-    "flex flex-col px-4 lg:px-8 lg:grid grid-cols-2 max-w-[60rem] md:gap-8 gap-2 justify-center text-center w-full items-center";
+    "flex flex-col px-4 lg:px-8 lg:grid grid-cols-2 max-w-[80rem] md:gap-8 gap-2 justify-center text-center w-full items-center";
   const commonTextClasses = "flex flex-col text-left";
 
   const TextContent: React.FC = () => (
     <div className={commonTextClasses}>
       {title && (
-        <TextsVariants textCenter={type === "col"} text={title} variant="titleH2Bold" extraClassName="max-w-[60rem]" />
+        <TextsVariants textCenter={type === "col"} text={title} variant="titleH2Bold" extraClassName="max-w-[80rem]" />
       )}
       {paragraph && (
         <TextsVariants
           textCenter={type === "col"}
           text={paragraph}
           variant="bannerParagraph"
-          extraClassName="max-w-[60rem]"
+          extraClassName="max-w-[80rem]"
         />
+      )}
+      {link && (
+        <Link href={link} target="_blank" className={`${buttonVariants({ variant: "link" })} w-fit `}>
+          <Link2Icon /> Clique aqui
+        </Link>
       )}
     </div>
   );
@@ -53,7 +63,7 @@ export const SimpleImageWithTextBanner: React.FC<SimpleImageWithTextBannerProps>
     <div
       className={
         type === "col"
-          ? "max-w-[60rem] mx-auto px-2 lg:px-8"
+          ? "max-w-[80rem] mx-auto px-2 lg:px-8"
           : commonContainerClasses + (type === "row-reverse" ? " lg:flex-row-reverse" : "")
       }
     >

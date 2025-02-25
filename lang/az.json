@@ -90,9 +90,14 @@
     "paragraph": "Layihə, tələbələr və müəllimlər arasında texnoloji savadlılığı, dəqiq elmlərdə inklüziv mədəniyyətin təşviqi ilə təşviq etmək məqsədi daşıyır.",
     "altImage": "Qızlar kök"
   },
+  "ProjetoBanner": {
+    "title": "Stem Qızlar Layihəsi - Petrópolis Tec Hub",
+    "paragraph": "Tərəfdar şəbəkəmizə qoşulun və Elm və Texnologiyalardakı qızları daxil etmək üçün bir layihədə iştirak edin! Formanı doldurun və necə töhfə vermək istədiyinizi göstərin:",
+    "altImage": "Qızlar kök"
+  },
   "ComoBanner": "Layihə, cinsiyyət, insan hüquqları və bərabərsizliklərə dair mübahisələri birləşdirən, oynaq və fənlərarası bir şəkildə proqramlaşdırma platformasını öyrətmək üçün cızma platformasından istifadə edir.",
   "MetodologiaBanner": {
-    "title": "Motodologiyası",
+    "title": "Metodologiya",
     "paragraph": "Layihə, tələbələr və müəllimlər arasında texnoloji savadlılığı, dəqiq elmlərdə inklüziv mədəniyyətin təşviqi ilə təşviq etmək məqsədi daşıyır.",
     "altImage": "Qızlar kök"
   },
@@ -110,7 +115,7 @@
         "description": "SERRATEC, Rio-de-Janeyro-nın daxili hissəsində, İT biznes induktoru kimi fəaliyyət göstərən və Petropolis, Teresópolis, Nova Friburgo və Areal şəhərlərini əhatə edən Rio de Janeyro-nun daxili hissəsində qeyri-kommersiya parkıdır."
       },
       {
-        "title": "Faeterj Petropopolis",
+        "title": "Faetej Petropopolis",
         "description": "Faeterj Petrópolis, müxtəlif sahələrdə texniki və daha yüksək kurslar təklif edən Faetec ilə əlaqəli bir ictimai ali təhsil müəssisəsidir."
       },
       {
@@ -161,7 +166,7 @@
   "QuemParticipaBanner": {
     "topTitle": "Qismən",
     "title": "Kim iştirak edir?",
-    "paragraph": "Tələbələr, İbtidai məktəbinin 8 və 9-cu ildönümündən seçiləcək, Layihə meyarlarının ardınca, iştirakçı məktəblərin ən azı bir müəllimi ilə birlikdə layihə meyarlarından sonra. Təqaüd sahibləri aşağıdakı fəaliyyətlərdə və məqsədlərdə iştirak edəcəklər:",
+    "paragraph": "Tələbələr, İbtidai məktəbinin 8 və 9-cu ildönümündən seçiləcək, Layihə meyarlarının ardınca, iştirakçı məktəblərin ən azı bir müəllimi ilə birlikdə layihə meyarlarından sonra. Fellows aşağıdakı fəaliyyətlərdə və məqsədlərə cəlb ediləcəkdir:",
     "iconCards": [
       {
         "title": "Proqramlaşdırma öyrənmək"
@@ -187,6 +192,12 @@
     "topTitle": "əlaqə",
     "title": "Bizimlə əlaqə saxlayın",
     "paragraph": "Bizimlə əlaqə qurmaq üçün elektron poçtumuza girlStempetropolis@gmail.com elektron poçtumuza bir mesaj göndərin. Ən qısa müddətdə cavab veririk!"
+  },
+  "Noticias": {
+    "bannerTitle": "Xəbəri",
+    "pesquisarPlaceholder": "Xəbər başlığını buraya daxil edin",
+    "pesquisarBotao": "Axtarmaq",
+    "ariaLabelLimpar": "Dirəkçi"
   },
   "Outros": {
     "ondinhas": "Dalğalanmaq"

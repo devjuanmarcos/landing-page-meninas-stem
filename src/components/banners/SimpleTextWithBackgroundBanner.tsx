@@ -21,7 +21,7 @@ export const SimpleTextWithBackgroundBanner: React.FC<SimpleImageWithTextBannerP
           textCenter={true}
           text={t("ComoBanner")}
           variant="bannerParagraph"
-          extraClassName="max-w-[60rem] px-4"
+          extraClassName="max-w-[80rem] px-4"
           color="text-white"
         />
         <Image

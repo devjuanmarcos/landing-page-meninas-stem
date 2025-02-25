@@ -90,9 +90,14 @@
     "paragraph": "該項目旨在鼓勵學生與教育者之間的技術素養，並在確切的科學中促進包容性文化。",
     "altImage": "女孩莖"
   },
+  "ProjetoBanner": {
+    "title": "Stem Girls項目-PetrópolisTec Hub",
+    "paragraph": "加入我們的支持者網絡，並參加一個項目，包括科學技術的女孩！ 填寫表格並指示您想如何做出貢獻：",
+    "altImage": "女孩莖"
+  },
   "ComoBanner": "該項目使用刮擦平台以一種嬉戲而跨學科的方式教授編程，並結合了有關性別，人權和不平等的辯論。",
   "MetodologiaBanner": {
-    "title": "Motodologia",
+    "title": "方法論",
     "paragraph": "該項目旨在鼓勵學生與教育者之間的技術素養，並在確切的科學中促進包容性文化。",
     "altImage": "女孩莖"
   },
@@ -110,7 +115,7 @@
         "description": "Serratec是在里約熱內盧內部的非營利技術公園，充當IT商業電感器，涵蓋了Petrópolis，Teresópolis，Nova Friburgo和Areal的城市。"
       },
       {
-        "title": "Faeterj Petropolis",
+        "title": "Faetej Petropolis",
         "description": "Faeterjpetrópolis是與Faetec相關的公共高等教育機構，在各個領域提供技術和更高的課程。"
       },
       {
@@ -161,7 +166,7 @@
   "QuemParticipaBanner": {
     "topTitle": "部分",
     "title": "誰參加？",
-    "paragraph": "遵循該項目的標準，將從小學II八週年和9週年中選出學生，以及至少一名參與學校的教師。 獎學金持有人將參與以下活動和目標：",
+    "paragraph": "遵循該項目的標準，將從小學II八週年和9週年中選出學生，以及至少一名參與學校的教師。 研究員將參與以下活動和目標：",
     "iconCards": [
       {
         "title": "學習編程"
@@ -187,6 +192,12 @@
     "topTitle": "接觸",
     "title": "聯繫我們",
     "paragraph": "要與我們聯繫，請發送一條消息到我們的電子郵件girlstemporpolis@gmail.com。 我們盡快回复！"
+  },
+  "Noticias": {
+    "bannerTitle": "消息",
+    "pesquisarPlaceholder": "在這裡輸入新聞標題",
+    "pesquisarBotao": "尋找",
+    "ariaLabelLimpar": "接縫器"
   },
   "Outros": {
     "ondinhas": "海浪"

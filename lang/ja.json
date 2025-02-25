@@ -90,9 +90,14 @@
     "paragraph": "このプロジェクトの目的は、学生と教育者の間の技術リテラシーを奨励し、正確な科学の包括的な文化を促進することを目指しています。",
     "altImage": "女の子の茎"
   },
+  "ProjetoBanner": {
+    "title": "STEM Girls Project -PetrópolisTecHub",
+    "paragraph": "サポーターネットワークに参加して、プロジェクトに参加して、科学技術に女の子を含めてください！ フォームに記入し、貢献したい方法を示します。",
+    "altImage": "女の子の茎"
+  },
   "ComoBanner": "このプロジェクトは、スクラッチプラットフォームを使用して、性別、人権、不平等に関する議論を取り入れ、遊び心のある学際的な方法でプログラミングを教えることです。",
   "MetodologiaBanner": {
-    "title": "Motodologia",
+    "title": "方法論",
     "paragraph": "このプロジェクトの目的は、学生と教育者の間の技術リテラシーを奨励し、正確な科学の包括的な文化を促進することを目指しています。",
     "altImage": "女の子の茎"
   },
@@ -103,14 +108,14 @@
     "iconCards": [
       {
         "title": "LNCC",
-        "description": "科学コンピューティングの国立研究所は、科学、技術、革新省に関連する科学的コンピューティングに特化したブラジルの研究および技術研究機関です。"
+        "description": "科学コンピューティングの国立研究所は、科学的コンピューティングに特化したブラジルの研究および技術研究機関であり、科学、技術、革新省に関連しています。"
       },
       {
         "title": "Serratec",
-        "description": "Serratecは、Rio de Janeiroの内部にある非営利のテクノロジーパークで、ITビジネスインダクタとして機能し、ペトロポリス、テレソポリス、ノバフリバルゴ、面積の都市をカバーしています。"
+        "description": "Serratecは、Rio de Janeiroの内部にある非営利のテクノロジーパークであり、ITビジネスインダクタとして機能し、ペトロポリス、テレソポリス、ノヴァフリバルゴ、アリアルの都市をカバーしています。"
       },
       {
-        "title": "Faeterj Petropolis",
+        "title": "Faetej Petropolis",
         "description": "FaeterjPetrópolisは、FAETECにリンクされた公立高等教育機関であり、さまざまな分野で技術的およびより高いコースを提供しています。"
       },
       {
@@ -161,7 +166,7 @@
   "QuemParticipaBanner": {
     "topTitle": "一部",
     "title": "誰が参加しますか？",
-    "paragraph": "小学校IIの8年生と9年生は、プロジェクトの基準に従って、参加している各学校の少なくとも1人の教師とともに、高校の1年生、2年生、3年生が選ばれます。 奨学金保有者は、次の活動と目的に関与します。",
+    "paragraph": "生徒は、小学校IIの8周年と9周年から選ばれ、プロジェクトの基準に従って、参加している各学校の少なくとも1人の教師とともに、高校の1年生、2年生、3年目から選ばれます。 フェローは、次の活動と目的に関与します。",
     "iconCards": [
       {
         "title": "プログラミングの学習"
@@ -187,6 +192,12 @@
     "topTitle": "接触",
     "title": "お問い合わせ",
     "paragraph": "私たちに連絡するには、私たちの電子メールgirlystempetropolis@gmail.comにメッセージを送信してください。 できるだけ早く応答します！"
+  },
+  "Noticias": {
+    "bannerTitle": "ニュース",
+    "pesquisarPlaceholder": "ここからニュースタイトルを入力してください",
+    "pesquisarBotao": "探します",
+    "ariaLabelLimpar": "Seamper"
   },
   "Outros": {
     "ondinhas": "波"

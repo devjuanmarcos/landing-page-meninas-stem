@@ -47,7 +47,7 @@ const MainBanner: FC = () => {
       }}
     >
       <div className="flex flex-col items-center justify-center h-[90vh] overflow-hidden w-full">
-        <div className="flex flex-col gap-4 items-center max-w-[60rem] relative">
+        <div className="flex flex-col gap-4 items-center max-w-[80rem] relative">
           <div className="px-4 sm:px-6 md:px-[9.875rem] w-full flex justify-center gap-4 section">
             <Image
               src={"/img/logoMeninasSTEM.png"}

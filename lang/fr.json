@@ -90,9 +90,14 @@
     "paragraph": "Le projet vise à encourager la littératie technologique entre les étudiants et les éducateurs, promouvant une culture inclusive dans les sciences exactes.",
     "altImage": "Les filles tiennent"
   },
+  "ProjetoBanner": {
+    "title": "STEM Girls Project - Petrópolis Tec Hub",
+    "paragraph": "Rejoignez notre réseau de supporters et participez à un projet pour inclure des filles en science et technologie! Remplissez le formulaire et indiquez comment vous souhaitez contribuer:",
+    "altImage": "Les filles tiennent"
+  },
   "ComoBanner": "Le projet utilise la plate-forme à gratter pour enseigner la programmation de manière ludique et interdisciplinaire, incorporant des débats sur le sexe, les droits de l'homme et les inégalités.",
   "MetodologiaBanner": {
-    "title": "Motodologia",
+    "title": "Méthodologie",
     "paragraph": "Le projet vise à encourager la littératie technologique entre les étudiants et les éducateurs, promouvant une culture inclusive dans les sciences exactes.",
     "altImage": "Les filles tiennent"
   },
@@ -103,14 +108,14 @@
     "iconCards": [
       {
         "title": "LNCC",
-        "description": "Le Laboratoire national de l'informatique scientifique est une institution brésilienne de recherche et de recherche technologique, spécialisée dans l'informatique scientifique, liée au ministère des Sciences, de la Technologie et de l'innovation."
+        "description": "Le National Laboratory of Scientific Computing est une institution brésilienne de recherche et de recherche technologique, spécialisée dans l'informatique scientifique, liée au ministère des Sciences, de la Technologie et de l'innovation."
       },
       {
         "title": "Serratec",
         "description": "Serratec est un parc technologique à but non lucratif à l'intérieur de Rio de Janeiro, agissant en tant qu'inductance informatique et couvrant les villes de Petrópolis, Teresópolis, Nova Friburgo et areal."
       },
       {
-        "title": "Faeterj Petropolis",
+        "title": "Faetej Petropolis",
         "description": "Faeterj Petrópolis est un établissement public d'enseignement supérieur lié à Faetec, offrant des cours techniques et plus élevés dans divers domaines."
       },
       {
@@ -161,7 +166,7 @@
   "QuemParticipaBanner": {
     "topTitle": "Partie",
     "title": "Qui participe?",
-    "paragraph": "Les élèves seront sélectionnés parmi les 8e et 9e anniversaire de l'école primaire II et les 1er, 2e et 3e années du lycée, suivant les critères du projet, avec au moins un enseignant de chacune des écoles participantes. Les détenteurs de bourses seront impliqués dans les activités et objectifs suivants:",
+    "paragraph": "Les élèves seront sélectionnés parmi les 8e et 9e anniversaire de l'école primaire II et les 1er, 2e et 3e années du lycée, suivant les critères du projet, avec au moins un enseignant de chacune des écoles participantes. Les boursiers seront impliqués dans les activités et objectifs suivants:",
     "iconCards": [
       {
         "title": "Apprendre sur la programmation"
@@ -187,6 +192,12 @@
     "topTitle": "contact",
     "title": "Contactez-nous",
     "paragraph": "Pour nous contacter, envoyez un message à notre e-mail girlstempetropolis@gmail.com. Nous répondons dès que possible!"
+  },
+  "Noticias": {
+    "bannerTitle": "Nouvelles",
+    "pesquisarPlaceholder": "Entrez le titre d'actualités ici",
+    "pesquisarBotao": "Chercher",
+    "ariaLabelLimpar": "Robuste"
   },
   "Outros": {
     "ondinhas": "Vague"

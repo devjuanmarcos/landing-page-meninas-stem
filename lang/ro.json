@@ -90,9 +90,14 @@
     "paragraph": "Proiectul își propune să încurajeze alfabetizarea tehnologică între studenți și educatori, promovând o cultură incluzivă în științele exacte.",
     "altImage": "Fetele tulpină"
   },
-  "ComoBanner": "Proiectul folosește platforma zgârieturi pentru a preda programarea într -un mod jucăuș și interdisciplinar, încorporând dezbateri despre gen, drepturi omului și inegalități.",
+  "ProjetoBanner": {
+    "title": "Proiect STEM Girls - Petrópolis TEC Hub",
+    "paragraph": "Alăturați -vă rețelei noastre de suport și participați la un proiect pentru a include fete în știință și tehnologie! Completați formularul și indicați cum doriți să contribuiți:",
+    "altImage": "Fetele tulpină"
+  },
+  "ComoBanner": "Proiectul folosește platforma zgârieturi pentru a preda programarea într -un mod jucăuș și interdisciplinar, încorporând dezbateri despre gen, drepturi ale omului și inegalități.",
   "MetodologiaBanner": {
-    "title": "Motodologia",
+    "title": "Metodologie",
     "paragraph": "Proiectul își propune să încurajeze alfabetizarea tehnologică între studenți și educatori, promovând o cultură incluzivă în științele exacte.",
     "altImage": "Fetele tulpină"
   },
@@ -110,7 +115,7 @@
         "description": "Serratec este un parc tehnologic non -profit din interiorul Rio de Janeiro, acționând ca un inductor de afaceri IT și care acoperă orașele Petrópolis, Teresópolis, Nova Friburgo și Areal."
       },
       {
-        "title": "Faeterj Petropolis",
+        "title": "Faetej Petropolis",
         "description": "Faeterj Petrópolis este o instituție publică de învățământ superior legată de FAETEC, oferind cursuri tehnice și superioare în diferite domenii."
       },
       {
@@ -123,15 +128,15 @@
       },
       {
         "title": "Ufba",
-        "description": "Universitatea Federală din Bahia (UFBA) este o instituție publică de învățământ superior cu sediul în Salvador, legată de Ministerul Educației, cu autonomie administrativă și legală."
+        "description": "Universitatea Federală din Bahia (UFBA) este o instituție publică de învățământ superior cu sediul în Salvador, legată de Ministerul Educației, cu autonomie administrativă și juridică."
       },
       {
         "title": "Biomob",
-        "description": "BioMob este specializată în soluții de accesibilitate și proiecte sociale, concentrându -se pe promovarea unei societăți mai incluzive și egalitare."
+        "description": "BioMob este specializat în soluții de accesibilitate și proiecte sociale, concentrându -se pe promovarea unei societăți mai incluzive și egalitare."
       },
       {
         "title": "Quipotec",
-        "description": "Quipo Tech dezvoltă proiecte de cercetare, dezvoltare și inovare pentru companii și instituții guvernamentale, care vizează inovația și avansarea tehnologică."
+        "description": "Quipo Tech dezvoltă proiecte de cercetare, dezvoltare și inovare pentru companii și instituții guvernamentale, urmărind inovația și avansarea tehnologică."
       },
       {
         "title": "TJ-RJ",
@@ -161,7 +166,7 @@
   "QuemParticipaBanner": {
     "topTitle": "Parte",
     "title": "Cine participă?",
-    "paragraph": "Se vor selecta clasele a VIII -a și a IX -a ale școlii elementare II și al primului, al 2 -lea și al 3 -lea an de liceu, urmând criteriile proiectului, împreună cu cel puțin un profesor al fiecăreia dintre școlile participante. Deținătorii de burse vor fi implicați în următoarele activități și obiective:",
+    "paragraph": "Elevii vor fi selectați de la a 8 -a și a 9 -a aniversare a Școlii Elementare II și a primului, 2 și 3 ani de liceu, urmând criteriile proiectului, împreună cu cel puțin un profesor al fiecăreia dintre școlile participante. Fellows vor fi implicați în următoarele activități și obiective:",
     "iconCards": [
       {
         "title": "Învățarea la programare"
@@ -187,6 +192,12 @@
     "topTitle": "contact",
     "title": "Contactaţi-ne",
     "paragraph": "Pentru a ne contacta, trimiteți un mesaj la e-mail-ul nostru Girlstempetropolis@gmail.com. Răspundem cât mai curând posibil!"
+  },
+  "Noticias": {
+    "bannerTitle": "Ştiri",
+    "pesquisarPlaceholder": "Introduceți titlul de știri aici",
+    "pesquisarBotao": "A căuta",
+    "ariaLabelLimpar": "Cusător"
   },
   "Outros": {
     "ondinhas": "Val"

@@ -90,9 +90,14 @@
     "paragraph": "Projekt ma na celu zachęcanie do umiejętności technologicznej między studentami i nauczycielami, promując kulturę integracyjną w dokładnych naukach.",
     "altImage": "Girls STEM"
   },
-  "ComoBanner": "Projekt wykorzystuje platformę Scratch do nauczania programowania w zabawny i interdyscyplinarny sposób, obejmujący debaty na temat płci, praw człowieka i nierówności.",
+  "ProjetoBanner": {
+    "title": "STEM Girls Project - Petrópolis Tec Hub",
+    "paragraph": "Dołącz do naszej sieci zwolenników i weź udział w projekcie obejmującym dziewczęta w nauce i technologii! Wypełnij formularz i wskaż, w jaki sposób chciałbyś wnieść wkład:",
+    "altImage": "Girls STEM"
+  },
+  "ComoBanner": "Projekt wykorzystuje platformę Scratch do nauczania programowania w zabawny i interdyscyplinarny sposób, obejmując debaty na temat płci, praw człowieka i nierówności.",
   "MetodologiaBanner": {
-    "title": "Motodologia",
+    "title": "Metodologia",
     "paragraph": "Projekt ma na celu zachęcanie do umiejętności technologicznej między studentami i nauczycielami, promując kulturę integracyjną w dokładnych naukach.",
     "altImage": "Girls STEM"
   },
@@ -110,12 +115,12 @@
         "description": "Serratec jest parkiem technologicznym niezwiązanym z organizacją we wnętrzu Rio de Janeiro, działającego jako induktor biznesowy IT i obejmujący miasta Petrópolis, Teresópolis, Nova Friburgo i Areal."
       },
       {
-        "title": "Faeterj Petropolis",
+        "title": "Faetej Petropolis",
         "description": "Faeterj Petrópolis to publiczna instytucja szkolnictwa wyższego związana z FAETEC, oferującą kursy techniczne i wyższe w różnych obszarach."
       },
       {
         "title": "Cefet/RJ UNED Petrópolis",
-        "description": "CEFET/RJ Petrópolis jest pierwszą publiczną instytucją szkolnictwa wyższego w mieście, oferującą kursy w twarz -do metody i należące do systemu CEFET/RJ."
+        "description": "CEFET/RJ Petrópolis jest pierwszą publiczną instytucją szkolnictwa wyższego w mieście, oferującą kursy w twarz -nacisk i należąc do systemu CEFET/RJ."
       },
       {
         "title": "Uff",
@@ -123,7 +128,7 @@
       },
       {
         "title": "UFBA",
-        "description": "Federalny Uniwersytet Bahia (UFBA) to publiczna instytucja szkolnictwa wyższego z siedzibą w Salvador, powiązana z Ministerstwem Edukacji, z autonomią administracyjną i prawną."
+        "description": "Federalny University of Bahia (UFBA) to publiczna instytucja szkolnictwa wyższego z siedzibą w Salvador, powiązana z Ministerstwem Edukacji, z autonomią administracyjną i prawną."
       },
       {
         "title": "Biomob",
@@ -135,7 +140,7 @@
       },
       {
         "title": "TJ-RJ",
-        "description": "Sąd Sprawiedliwości Rio de Janeiro (TJ-RJ) jest odpowiedzialny za administrację sprawiedliwości w państwie, z jurysdykcją nad całym terytorium Fluminense."
+        "description": "Rio de Janeiro Court of Justice (TJ-RJ) jest odpowiedzialny za administrację sprawiedliwości w państwie, z jurysdykcją nad całym terytorium Fluminense."
       },
       {
         "title": "Ratusz Petrópolis",
@@ -161,7 +166,7 @@
   "QuemParticipaBanner": {
     "topTitle": "Część",
     "title": "Kto uczestniczy?",
-    "paragraph": "Uczniowie zostaną wybrani z 8 i 9 rocznicy szkoły podstawowej II oraz pierwszego, 2. i 3 lat liceum, zgodnie z kryteriami projektu, wraz z co najmniej jednym nauczycielem każdej z uczestniczących szkół. Posiadacze stypendiów będą zaangażowani w następujące działania i cele:",
+    "paragraph": "Uczniowie zostaną wybrani z 8 i 9 rocznicy szkoły podstawowej II oraz pierwszego, 2. i 3. lat liceum, zgodnie z kryteriami projektu, wraz z co najmniej jednym nauczycielem każdej z uczestniczących szkół. Stypendyści będą zaangażowani w następujące działania i cele:",
     "iconCards": [
       {
         "title": "Uczenie się na programowaniu"
@@ -183,14 +188,16 @@
       }
     ]
   },
-  "OQueSeEsperaBanner": {
-    "title": "O que se espera?",
-    "paragraph": "O projeto busca fortalecer a imaginação e autoestima das meninas, combater a evasão escolar e contribuir para a construção de uma sociedade mais justa. Espera-se estimular e ampliar a participação feminina em STEM, ao mesmo tempo em que se reduzem estigmas e discriminações."
-  },
   "ContatoBanner": {
     "topTitle": "kontakt",
     "title": "Skontaktuj się z nami",
     "paragraph": "Aby się z nami skontaktować, wyślij wiadomość na nasz e-mail girlstempetropolis@gmail.com. Odpowiadamy jak najszybciej!"
+  },
+  "Noticias": {
+    "bannerTitle": "Aktualności",
+    "pesquisarPlaceholder": "Wprowadź tytuł wiadomości tutaj",
+    "pesquisarBotao": "Szukać",
+    "ariaLabelLimpar": "Marynarka"
   },
   "Outros": {
     "ondinhas": "Fala"

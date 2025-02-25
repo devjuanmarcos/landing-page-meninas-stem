@@ -90,9 +90,14 @@
     "paragraph": "El proyecto tiene como objetivo fomentar la alfabetización tecnológica entre estudiantes y educadores, promoviendo una cultura inclusiva en las ciencias exactas.",
     "altImage": "Las chicas se encuentran"
   },
+  "ProjetoBanner": {
+    "title": "Proyecto STEM Girls - Petrópolis Tec Hub",
+    "paragraph": "¡Únase a nuestra red de seguidores y participe en un proyecto para incluir niñas en ciencia y tecnología! Complete el formulario e indique cómo le gustaría contribuir:",
+    "altImage": "Las chicas se encuentran"
+  },
   "ComoBanner": "El proyecto utiliza la plataforma Scratch para enseñar la programación de una manera lúdica e interdisciplinaria, incorporando debates sobre género, derechos humanos y desigualdades.",
   "MetodologiaBanner": {
-    "title": "Motodologia",
+    "title": "Metodología",
     "paragraph": "El proyecto tiene como objetivo fomentar la alfabetización tecnológica entre estudiantes y educadores, promoviendo una cultura inclusiva en las ciencias exactas.",
     "altImage": "Las chicas se encuentran"
   },
@@ -107,10 +112,10 @@
       },
       {
         "title": "Serratec",
-        "description": "Serratec es un parque de tecnología sin fines de lucro en el interior de Río de Janeiro, actuando como inductor de negocios de TI y que cubre las ciudades de Petrópolis, Teresópolis, Nova Friburgo y Areal."
+        "description": "Serratec es un parque de tecnología sin fines de lucro en el interior de Río de Janeiro, que actúa como inductor de negocios de TI y cubre las ciudades de Petrópolis, Teresópolis, Nova Friburgo y Areal."
       },
       {
-        "title": "Faeterj petropolis",
+        "title": "Faetej petropolis",
         "description": "Faeterj Petrópolis es una institución pública de educación superior vinculada a Faetec, que ofrece cursos técnicos y superiores en varias áreas."
       },
       {
@@ -161,7 +166,7 @@
   "QuemParticipaBanner": {
     "topTitle": "Parte",
     "title": "¿Quién participa?",
-    "paragraph": "Los estudiantes serán seleccionados del octavo y noveno aniversario de la escuela primaria II y el 1º, segundo y tercer año de la escuela secundaria, luego de los criterios del proyecto, junto con al menos un maestro de cada una de las escuelas participantes. Los titulares de becas participarán en las siguientes actividades y objetivos:",
+    "paragraph": "Los estudiantes serán seleccionados del octavo y noveno aniversario de la Escuela Primaria II y el 1º, segundo y tercer año de la escuela secundaria, luego de los criterios del proyecto, junto con al menos un maestro de cada una de las escuelas participantes. Los becarios participarán en las siguientes actividades y objetivos:",
     "iconCards": [
       {
         "title": "Aprendiendo en programación"
@@ -187,6 +192,12 @@
     "topTitle": "contacto",
     "title": "Contáctenos",
     "paragraph": "Para contactarnos, envíe un mensaje a nuestro correo electrónico girlstempetropolis@gmail.com. ¡Respondemos lo antes posible!"
+  },
+  "Noticias": {
+    "bannerTitle": "Noticias",
+    "pesquisarPlaceholder": "Ingrese el título de noticias aquí",
+    "pesquisarBotao": "Buscar",
+    "ariaLabelLimpar": "Marinero"
   },
   "Outros": {
     "ondinhas": "Ola"

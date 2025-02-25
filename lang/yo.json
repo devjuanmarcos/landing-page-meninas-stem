@@ -90,9 +90,14 @@
     "paragraph": "Ise agbese naa n ni iyanju imọ-ẹrọ laarin awọn ọmọ ile-iwe ati awọn ẹkọ, igbelaruge aṣa ti o wa ni awọn imọ aṣa gangan.",
     "altImage": "Awọn ọmọbirin yio"
   },
+  "ProjetoBanner": {
+    "title": "Ise Ọmọbinrin Stem - Petópopolis Tec Hub",
+    "paragraph": "Darapọ mọ nẹtiwọọki alatilẹyin wa ati kopa ninu iṣẹ akanṣe lati pẹlu awọn ọmọbirin ni imọ-jinlẹ ati imọ-ẹrọ! Fọwọsi fọọmu ati pe bi o ṣe fẹ lati ṣe alabapin:",
+    "altImage": "Awọn ọmọbirin yio"
+  },
   "ComoBanner": "Ise agbese na nlo Syeed Street lati kọ siseto ni ere idaraya ati isọdọkan, kopopo awọn ariyanjiyan lori abo, awọn ẹtọ eniyan ati aidogba eniyan.",
   "MetodologiaBanner": {
-    "title": "Motodogia",
+    "title": "Ilana ẹkọ",
     "paragraph": "Ise agbese naa n ni iyanju imọ-ẹrọ laarin awọn ọmọ ile-iwe ati awọn ẹkọ, igbelaruge aṣa ti o wa ni awọn imọ aṣa gangan.",
     "altImage": "Awọn ọmọbirin yio"
   },
@@ -107,10 +112,10 @@
       },
       {
         "title": "Serratec",
-        "description": "Serratec jẹ ọgba-ẹrọ imọ-ẹrọ ti kii ṣe -PoroFit ni inu ti rio de Janeiro, ṣiṣe bi awọn ilu ti o iṣowo ati bo awọn ilu Patópolis, Nosa Friburgo ati Areal."
+        "description": "Serratec jẹ ọgba-ẹrọ imọ-ẹrọ ti kii ṣe -PoroFit ni inu ti ilu ti Rio de Janeiro, ṣiṣe bi awọn ilu ti Petrópolis, Nosa Friburgo ati Areal."
       },
       {
-        "title": "Faopopolis",
+        "title": "Fatej Petropolis",
         "description": "Irisi - Ile-ẹkọ giga ti Ẹjọ giga ti gbogbo eniyan ni ọna asopọ si Taeec, nfunni awọn iṣẹ giga ati giga ni awọn agbegbe pupọ."
       },
       {
@@ -161,7 +166,7 @@
   "QuemParticipaBanner": {
     "topTitle": "Apakan",
     "title": "Tani o kopa?",
-    "paragraph": "Awọn ọmọ ile-iwe yoo ti yan lati ọdun kẹrin ati 9th ti ile-iwe alakọbẹrẹ II ati 1std ati awọn ọdun ti ile-iwe giga, ni atẹle pe o kere ju olukọ kan ti awọn ile-iwe ti o kopa kọọkan. Awọn olutọju sikolashipu yoo kopa ninu awọn iṣẹ atẹle ati awọn ipinnu:",
+    "paragraph": "Awọn ọmọ ile-iwe yoo ti yan lati ọdun kẹrin ati 9th ti ile-iwe alakọbẹrẹ II ati 1std ati awọn ọdun ti ile-iwe giga, ni atẹle pe o kere ju olukọ kan ti awọn ile-iwe ti o kopa kọọkan. Awọn ẹlẹgbẹ yoo kopa ninu awọn iṣẹ atẹle ati awọn ipinnu:",
     "iconCards": [
       {
         "title": "Kọ ẹkọ lori siseto"
@@ -187,6 +192,12 @@
     "topTitle": "kan",
     "title": "Pe wa",
     "paragraph": "Lati Kan si Wa, fi ifiranṣẹ ranṣẹ si ọmọbirin imeeli wa@gmail.com. A fesi ni kete bi o ti ṣee!"
+  },
+  "Noticias": {
+    "bannerTitle": "Irohin",
+    "pesquisarPlaceholder": "Tẹ akọle iroyin naa nibi",
+    "pesquisarBotao": "Lati wa",
+    "ariaLabelLimpar": "E jade"
   },
   "Outros": {
     "ondinhas": "Igbi"

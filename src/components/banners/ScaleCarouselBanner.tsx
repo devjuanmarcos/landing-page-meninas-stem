@@ -34,7 +34,7 @@ export const ScaleCarouselBanner = () => {
       <div className="md:px-10">
         <div className="flex justify-center">
           <div className="max-w-full flex flex-col gap-[5.3125rem]">
-            <div className="max-w-[60rem] mx-auto px-4 sm:px-6 ">
+            <div className="max-w-[80rem] mx-auto px-4 sm:px-6 ">
               <TextsVariants
                 textCenter={true}
                 text={t("OQueEBanner.topTitle")}
@@ -44,7 +44,15 @@ export const ScaleCarouselBanner = () => {
               />
               <TextsVariants textCenter={true} text={t("OQueEBanner.paragraph")} variant="bannerParagraph" />
             </div>
-            <div>
+            <div className="flex flex-col gap-[5.3125rem]">
+              <SimpleImageWithTextBanner
+                type="row-reverse"
+                title={t("ProjetoBanner.title")}
+                paragraph={t("ProjetoBanner.paragraph")}
+                image="https://biomobtinastorage.blob.core.windows.net/images/meninas-stem.jpg"
+                altImage={t("ProjetoBanner.altImage")}
+                link={"https://bit.ly/ApoiadoresMeninasSTEM"}
+              />
               <SimpleImageWithTextBanner
                 type="row"
                 title={t("ObjetivoBanner.title")}

@@ -94,6 +94,12 @@
     "altImage": "Meninas STEM"
   },
 
+  "ProjetoBanner": {
+    "title": "PROJETO MENINAS STEM - Petrópolis Tec Hub",
+    "paragraph": "Junte-se à nossa rede de apoiadores e participe de um projeto de inclusão de meninas na ciência e tecnologia! Preencha o formulário e indique como você gostaria de contribuir: ",
+    "altImage": "Meninas STEM"
+  },
+
   "ComoBanner": "O projeto utiliza a plataforma Scratch para ensinar programação de maneira lúdica e interdisciplinar, incorporando debates sobre gênero, direitos humanos e desigualdades.",
 
   "MetodologiaBanner": {
