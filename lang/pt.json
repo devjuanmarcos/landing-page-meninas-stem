@@ -194,6 +194,13 @@
     "ariaLabelLimpar": "Limpar pesquisa"
   },
 
+  "Eventos": {
+    "bannerTitle": "Eventos",
+    "pesquisarPlaceholder": "Insira o título do evento aqui",
+    "pesquisarBotao": "Pesquisar",
+    "ariaLabelLimpar": "Limpar pesquisa"
+  },
+
   "Outros": {
     "ondinhas": "Grafismo de onda"
   }

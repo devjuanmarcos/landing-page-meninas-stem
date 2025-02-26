@@ -77,7 +77,6 @@ api.interceptors.response.use(
               _error?.response?.data?.message === "No refresh token found" ||
               _error?.response?.data?.message === "Token is not active"
             ) {
-              console.log("No refresh token found");
               cookies().delete("biomob-node-admin.token");
 
               if (typeof window !== "undefined") {

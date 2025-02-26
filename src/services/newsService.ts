@@ -16,8 +16,6 @@ async function getNewsWithParams(
     category: params.category,
   }).toString();
 
-  console.log(`/news/${endpoint}?${query}`);
-
   return await api.get(`/news/${endpoint}?${query}`);
 }
 

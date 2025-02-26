@@ -1,19 +1,19 @@
 "use client";
-import { NewsType, SearchParamsType } from "@/@types/types";
-import { getNewsAction } from "@/app/actions/newsActions";
+import { EventType, SearchParamsType } from "@/@types/types";
 import { useSort } from "@/context/SortContext";
 import { Search } from "lucide-react";
 import { useTranslations } from "next-intl";
 import React from "react";
-import { NewsCard } from "../ui/newsCard";
 import Pagination from "../ui/pagination";
 import { Skeleton } from "../ui/skeleton";
 import { FaTimes } from "react-icons/fa";
+import { getEventsAction } from "@/app/actions/eventsActions";
+import { EventsCard } from "../ui/eventsCard";
 
-export const NewsBanner: React.FC = () => {
-  const t = useTranslations("Noticias");
+export const EventsBanner: React.FC = () => {
+  const t = useTranslations("Eventos");
   const { pagination, setPagination, title, setTitle, startAndEndDate, deleteValues, resetPagination } = useSort();
-  const [newsData, setNewsData] = React.useState<NewsType[] | []>([]);
+  const [newsData, setNewsData] = React.useState<EventType[] | []>([]);
   const [loading, setLoading] = React.useState<boolean>(true);
   const [findValue, setFindValue] = React.useState<string>("");
 
@@ -35,8 +35,8 @@ export const NewsBanner: React.FC = () => {
     async function fetch() {
       setLoading(true);
       try {
-        const response = await getNewsAction(searchParams);
-        const data = response.items as NewsType[];
+        const response = await getEventsAction(searchParams);
+        const data = response.items as EventType[];
         if (data && data.length > 0) {
           setNewsData(data);
           setPagination((prev) => ({ ...prev, totalItems: response.total }));
@@ -96,7 +96,7 @@ export const NewsBanner: React.FC = () => {
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-y-6 gap-x-4 ">
         {loading && Array.from({ length: 8 }, (_, index) => <Skeleton key={index} className="w-full h-[20.75rem]" />)}
-        {!loading && newsData.map((news) => <NewsCard {...news} key={news.id} />)}
+        {!loading && newsData.map((news) => <EventsCard {...news} key={news.id} />)}
       </div>
       <Pagination
         currentPage={pagination.pageIndex}

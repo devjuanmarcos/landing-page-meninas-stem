@@ -19,12 +19,10 @@ export const Header = () => {
     return currentPath === href;
   };
 
-  // Fecha o menu ao navegar para outra página
   useEffect(() => {
     setIsOpen(false);
   }, [pathname]);
 
-  // Fecha o menu ao clicar fora
   useEffect(() => {
     function handleClickOutside(event: MouseEvent) {
       if (menuRef.current && !menuRef.current.contains(event.target as Node)) {
@@ -41,12 +39,10 @@ export const Header = () => {
 
   return (
     <header className="w-full bg-[rgb(var(--var-marca-100))] backdrop-blur-lg flex items-center justify-between px-4 py-2 z-50">
-      {/* Logo */}
       <button onClick={() => setIsOpen(!isOpen)} className="md:hidden ">
         {isOpen ? <X size={28} /> : <Menu size={28} />}
       </button>
 
-      {/* Menu Desktop */}
       <nav className="hidden md:flex gap-4">
         <NavLink href="/pt" isActive={isActive("/")}>
           Início
@@ -54,9 +50,9 @@ export const Header = () => {
         <NavLink href="/noticias" isActive={isActive("/noticias")}>
           Notícias
         </NavLink>
-        {/* <NavLink href="/eventos" isActive={isActive("/eventos")}>
+        <NavLink href="/eventos" isActive={isActive("/eventos")}>
           Eventos
-        </NavLink> */}
+        </NavLink>
       </nav>
 
       <Link href="/pt" className="text-xl font-bold">
@@ -70,7 +66,6 @@ export const Header = () => {
         />
       </Link>
 
-      {/* Menu Mobile */}
       <AnimatePresence>
         {isOpen && (
           <motion.div
@@ -87,9 +82,9 @@ export const Header = () => {
             <NavLink href="/noticias" isActive={isActive("/noticias")} onClick={() => setIsOpen(false)}>
               Notícias
             </NavLink>
-            {/* <NavLink href="/eventos" isActive={isActive("/eventos")} onClick={() => setIsOpen(false)}>
+            <NavLink href="/eventos" isActive={isActive("/eventos")} onClick={() => setIsOpen(false)}>
               Eventos
-            </NavLink> */}
+            </NavLink>
           </motion.div>
         )}
       </AnimatePresence>

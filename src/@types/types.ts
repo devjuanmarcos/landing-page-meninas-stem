@@ -80,6 +80,29 @@ type NewsType = {
   categoryLabel: string;
 };
 
+type EventType = {
+  id: string;
+  title: string;
+  paragraphs: string[];
+  sources: string[];
+  address: string;
+  mode: "online" | "in_person" | "hybrid";
+  summary: string;
+  images: string[];
+  image_alt: string[];
+  approved: boolean;
+  archived: boolean;
+  user_id: string;
+  created_at: string;
+  updated_at: string;
+  views: number;
+  publication_date: string;
+  start_date: string;
+  end_date: string;
+  author_name: string;
+  author_email: string;
+};
+
 type SearchParamsType = {
   page: number;
   size: number;
@@ -93,8 +116,9 @@ type GetState = {
   message: string;
   success: boolean;
   total?: number;
-  items?: NewsType[];
+  items?: NewsType[] | EventType[];
   news?: NewsType;
+  event?: EventType;
 };
 
 export type {
@@ -109,4 +133,5 @@ export type {
   GetState,
   Pagination,
   MetaPagination,
+  EventType,
 };

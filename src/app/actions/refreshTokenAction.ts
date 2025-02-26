@@ -8,8 +8,6 @@ export async function actionRefreshToken() {
     const data = await RefreshToken();
     const acessToken = await data.json();
 
-    console.log("acessToken em processo", acessToken);
-
     const setCookieHeader = data.headers.get("Set-Cookie");
 
     const accessTokenOptions = {
@@ -27,8 +25,6 @@ export async function actionRefreshToken() {
       sameSite: "none" as const,
       maxAge: 604800,
     };
-
-    console.log("Tentando fazer o set dos cookies", acessToken);
 
     cookies().set("biomob-node-admin.token", acessToken.accessToken, accessTokenOptions);
     cookies().set("biomob-node-admin.refresh-token", acessToken.refreshToken, refreshTokenOptions);

@@ -8,8 +8,6 @@ export async function RefreshToken(): Promise<any> {
     throw new Error("Refresh token não encontrado");
   }
 
-  console.log("meus cookies", JSON.stringify({ refreshToken }));
-
   return await fetch(`${process.env.BASE_URL_NODE}/auth/refresh-token`, {
     method: "POST",
     credentials: "include",

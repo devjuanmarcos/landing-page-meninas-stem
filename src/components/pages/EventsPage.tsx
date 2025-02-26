@@ -8,9 +8,9 @@ const SimpleTextWithBackgroundBanner = dynamic(() =>
   import("@/components/banners/SimpleTextWithBackgroundBanner").then((mod) => mod.SimpleTextWithBackgroundBanner)
 );
 
-const NewsBanner = dynamic(() => import("@/components/banners/NewsBanner").then((mod) => mod.NewsBanner));
+const EventsBanner = dynamic(() => import("@/components/banners/EventsBanner").then((mod) => mod.EventsBanner));
 
-const NewsPage: React.FC = () => {
+const EventsPage: React.FC = () => {
   React.useEffect(() => {
     import("@/components/banners/SimpleTextWithBackgroundBanner");
   }, []);
@@ -20,12 +20,12 @@ const NewsPage: React.FC = () => {
   return (
     <div className="flex flex-col gap-12 mb-20">
       <React.Suspense>
-        <SimpleTextWithBackgroundBanner title={t("Noticias.bannerTitle")} type="cover" />
+        <SimpleTextWithBackgroundBanner title={t("Eventos.bannerTitle")} type="cover" />
       </React.Suspense>
 
-      <NewsBanner />
+      <EventsBanner />
     </div>
   );
 };
 
-export default NewsPage;
+export default EventsPage;

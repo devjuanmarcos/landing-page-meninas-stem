@@ -6,9 +6,10 @@ import { useTranslations } from "next-intl";
 
 interface SimpleImageWithTextBannerProps {
   type: "normal" | "cover";
+  title?: string;
 }
 
-export const SimpleTextWithBackgroundBanner: React.FC<SimpleImageWithTextBannerProps> = ({ type }) => {
+export const SimpleTextWithBackgroundBanner: React.FC<SimpleImageWithTextBannerProps> = ({ type, title }) => {
   const imageRef1 = React.useRef(null);
   const t = useTranslations("");
 
@@ -44,7 +45,7 @@ export const SimpleTextWithBackgroundBanner: React.FC<SimpleImageWithTextBannerP
       >
         <TextsVariants
           textCenter={true}
-          text={t("Noticias.bannerTitle")}
+          text={title!}
           variant="titleH1Bold"
           extraClassName=" px-4 w-full border-b border-white text-start max-w-[33.875rem] ml-4"
           color="text-white"
