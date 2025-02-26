@@ -66,7 +66,7 @@ export const CombinedHeader = ({ locale }: Readonly<{ locale: string }>) => {
 
   if (!isMounted) {
     return (
-      <header className="fixed top-0 left-0 right-0 z-50">
+      <header className="fixed top-0 left-0 right-0 z-50 ">
         <BarToolsSkeleton />
         <HeaderSkeleton />
       </header>
@@ -74,9 +74,9 @@ export const CombinedHeader = ({ locale }: Readonly<{ locale: string }>) => {
   }
 
   return (
-    <header className="fixed top-0 left-0 right-0 z-50">
+    <header className="fixed top-0 left-0 right-0 z-50 max-h-[6.375rem] ">
       <div
-        className={`relative flex justify-between gap-4 items-center ${"bg-primary dark:bg-bg-marca100"} overflow-hidden w-full px-4 my-0 mx-auto p-1 text-white `}
+        className={`relative flex justify-between gap-4 items-center ${"bg-primary dark:bg-bg-marca100"} overflow-hidden w-full max-h-[3.125rem] px-4 my-0 mx-auto p-1 text-white `}
       >
         <VLibrasIntegration />
         <div className="flex gap-4 text-white items-center">
@@ -102,7 +102,6 @@ export const CombinedHeader = ({ locale }: Readonly<{ locale: string }>) => {
             width={32}
             className="text-white cursor-pointer"
           />
-          {/* <MouseSpeak /> */}
           <ComboboxLanguage locale={locale} type="header" />
         </div>
         <div className="hidden md:flex gap-4">

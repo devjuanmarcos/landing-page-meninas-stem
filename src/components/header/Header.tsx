@@ -7,11 +7,13 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X } from "lucide-react";
 import { Button } from "../ui/button";
 import Image from "next/image";
+import { useTheme } from "next-themes";
 
 export const Header = () => {
   const pathname = usePathname();
   const [isOpen, setIsOpen] = useState(false);
   const menuRef = useRef<HTMLDivElement>(null);
+  const { theme } = useTheme();
 
   const isActive = (href: string) => {
     const pathSegments = pathname.split("/").filter(Boolean);
@@ -57,7 +59,7 @@ export const Header = () => {
 
       <Link href="/pt" className="text-xl font-bold">
         <Image
-          src={"/img/logoMeninasSTEM.png"}
+          src={theme == "light" ? "/img/escuro.png" : "/img/claro.png"}
           alt="Logo Meninas STEM"
           width={300}
           height={200}
