@@ -37,6 +37,7 @@ export const NewsBanner: React.FC = () => {
       try {
         const response = await getNewsAction(searchParams);
         const data = response.items as NewsType[];
+        console.log("Minha data, ", data);
         if (data && data.length > 0) {
           setNewsData(data);
           setPagination((prev) => ({ ...prev, totalItems: response.total }));
@@ -96,7 +97,12 @@ export const NewsBanner: React.FC = () => {
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-y-6 gap-x-4 ">
         {loading && Array.from({ length: 8 }, (_, index) => <Skeleton key={index} className="w-full h-[20.75rem]" />)}
-        {!loading && newsData.map((news) => <NewsCard {...news} key={news.id} />)}
+        {!loading && newsData.length > 0 && newsData.map((news) => <NewsCard {...news} key={news.id} />)}
+        {!loading && newsData.length === 0 && (
+          <div className="col-span-1 sm:col-span-2 md:col-span-3 xl:col-span-4 flex justify-center items-center py-16">
+            <p className="text-xl text-gray-500">{"Não há notícias disponíveis no momento."}</p>
+          </div>
+        )}
       </div>
       <Pagination
         currentPage={pagination.pageIndex}

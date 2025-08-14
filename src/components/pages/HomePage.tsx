@@ -15,6 +15,7 @@ const ScaleCarouselBanner = dynamic(() =>
 const SimpleTextWithBackgroundBanner = dynamic(() =>
   import("@/components/banners/SimpleTextWithBackgroundBanner").then((mod) => mod.SimpleTextWithBackgroundBanner)
 );
+const NewsCarousel = dynamic(() => import("@/components/banners/NewsCarousel").then((mod) => mod.default));
 const SimpleImageWithTextBanner = dynamic(() =>
   import("@/components/banners/SimpleImageWithTextBanner").then((mod) => mod.SimpleImageWithTextBanner)
 );
@@ -25,6 +26,7 @@ const ThreeIconWithTextsBanner = dynamic(() =>
 const HomePage: React.FC = () => {
   React.useEffect(() => {
     import("@banners/MainBanner");
+    import("@/components/banners/NewsCarousel");
   }, []);
 
   const MetodologiaBanner = useTranslations("MetodologiaBanner");
@@ -134,6 +136,7 @@ const HomePage: React.FC = () => {
       <div className="flex flex-col border border-border gap-8 md:gap-24 items-center justify-center w-full bg-bg-marca100 rounded-[2.5rem] sm:rounded-[7rem] mt-[-6.25rem]  lg:py-[6.25rem] py-[4.0625rem]  z-10 mb-16">
         <ScaleCarouselBanner />
         <SimpleTextWithBackgroundBanner type="normal" />
+        <NewsCarousel />
         <SimpleImageWithTextBanner
           type="row-reverse"
           title={MetodologiaBanner("title")}
